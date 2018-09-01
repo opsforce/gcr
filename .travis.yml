@@ -3,7 +3,7 @@ sudo: required
 services:
   - docker
 
-language: golang
+language: bash
 
 script:
-
+  - bash sync.sh
