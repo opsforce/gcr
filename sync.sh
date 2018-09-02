@@ -2,7 +2,7 @@
 
 set -e
 
-GCRSYNC_VERSION=v1.0.3
+GCRSYNC_VERSION=v1.0.4
 
 wget -q https://github.com/mritd/gcrsync/releases/download/${GCRSYNC_VERSION}/gcrsync_linux_amd64 -O gcrsync
 chmod +x gcrsync
