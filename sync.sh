@@ -10,6 +10,6 @@ chmod +x gcrsync
 
 rm -f gcrsync
 
-git add .
+git add CHANGELOG.md
 git commit -m "Travis CI Auto Synchronized."
 git push --force https://$GITHUB_TOKEN@github.com/mritd/gcr.git master
