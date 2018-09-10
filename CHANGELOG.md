@@ -1,3 +1,8 @@
+### 2018-09-10 08:04:29 Update:
+
+- gcr.io/google-containers/heapster-influxdb-arm:v1.5.2
+- gcr.io/google-containers/heapster-influxdb-arm:v1.1.1
+- gcr.io/google-containers/heapster-influxdb-arm:v1.3.3
 ### 2018-09-10 07:54:00 Update:
 
 - gcr.io/google_containers/fetcher:latest
