@@ -1,6 +1,6 @@
-# GCR 仓库
+# GCR 同步仓库
 
-> 这是一个 Google contaiber registry 镜像同步仓库，目前由 [Travis CI](https://travis-ci.org/mritd/gcr) 进行每日自动构建
+> 这是一个 Google contaiber registry 镜像同步仓库，目前由 [Travis CI](https://travis-ci.org/mritd/gcrsync) 进行每日自动构建
 
 ### 同步信息
 
