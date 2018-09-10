@@ -1,3 +1,6 @@
+### 2018-09-10 08:18:50 Update:
+
+- gcr.io/google-containers/etcd_version_monitor_shyamjvs:test
 ### 2018-09-10 08:05:15 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.10.0-rc.2
