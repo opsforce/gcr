@@ -1,3 +1,7 @@
+### 2018-09-10 07:54:00 Update:
+
+- gcr.io/google_containers/fetcher:latest
+- gcr.io/google_containers/fetcher:v20160825
 ### 2018-09-10 07:48:10 Update:
 
 - gcr.io/google_containers/etcd_version_monitor_shyamjvs:test
