@@ -1,3 +1,13 @@
+### 2018-09-10 10:44:11 Update:
+
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.1.2-r2
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.1.2
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.1.1
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.2.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.1.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.1.1-r3
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.0.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.1.0-r3
 ### 2018-09-10 09:48:03 Update:
 
 - gcr.io/google-containers/heapster-grafana-s390x:v5.0.4
