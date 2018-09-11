@@ -1,3 +1,6 @@
+### 2018-09-11 02:56:49 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.11.0-rc.2
 ### 2018-09-11 02:55:59 Update:
 
 - gcr.io/google-containers/k8s-dns-dnsmasq-ppc64le:1.14.11
