@@ -12901,5 +12901,6 @@
     "zeppelin:v0.5.5_v2",
     "zeppelin:v0.5.5_v3",
     "zeppelin:v0.5.6_v1",
-    "zookeeper-install:0.1"
+    "zookeeper-install:0.1",
+    "gcr.io/google-containers/zookeeper-install-3.5.0-alpha:e2e"
 ]
