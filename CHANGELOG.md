@@ -1,3 +1,22 @@
+### 2018-09-11 02:55:59 Update:
+
+- gcr.io/google-containers/k8s-dns-dnsmasq-ppc64le:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-arm64:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-arm:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-ppc64le:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm64:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-s390x:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-amd64:1.14.11
+- gcr.io/google-containers/k8s-dns-kube-dns-arm:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-s390x:1.14.11
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.14.11
+- gcr.io/google-containers/k8s-dns-kube-dns-arm64:1.14.11
+- gcr.io/google-containers/k8s-dns-kube-dns-ppc64le:1.14.11
+- gcr.io/google-containers/k8s-dns-kube-dns-s390x:1.14.11
+- gcr.io/google-containers/k8s-dns-sidecar-arm:1.14.11
+- gcr.io/google-containers/k8s-dns-sidecar-arm64:1.14.11
+- gcr.io/google-containers/k8s-dns-sidecar-ppc64le:1.14.11
+- gcr.io/google-containers/k8s-dns-sidecar-s390x:1.14.11
 ### 2018-09-10 15:15:43 Update:
 
 - gcr.io/google-containers/kube-scheduler:v1.8.10-beta.0
