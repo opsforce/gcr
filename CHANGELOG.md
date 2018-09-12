@@ -1,3 +1,22 @@
+### 2018-09-12 15:56:24 Update:
+
+- gcr.io/istio-release/citadel:krishnatest4
+- gcr.io/istio-release/node-agent:krishnatest4
+- gcr.io/istio-release/servicegraph_debug:krishnatest4
+- gcr.io/istio-release/mixer_debug:krishnatest4
+- gcr.io/istio-release/node-agent-test:krishnatest4
+- gcr.io/istio-release/galley:krishnatest4
+- gcr.io/istio-release/mixer:krishnatest4
+- gcr.io/istio-release/citadel-test:krishnatest4
+- gcr.io/istio-release/proxy_init:krishnatest4
+- gcr.io/istio-release/pilot:krishnatest4
+- gcr.io/istio-release/app:krishnatest4
+- gcr.io/istio-release/grafana:release-1.0-20180911-09-15
+- gcr.io/istio-release/servicegraph:krishnatest4
+- gcr.io/istio-release/test_policybackend:krishnatest4
+- gcr.io/istio-release/proxyv2:krishnatest4
+- gcr.io/istio-release/sidecar_injector:krishnatest4
+- gcr.io/istio-release/proxy_debug:krishnatest4
 ### 2018-09-12 15:55:22 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.9.1
