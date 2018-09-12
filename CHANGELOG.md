@@ -1,3 +1,50 @@
+### 2018-09-12 22:19:42 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:3.3.1-20180724133340
+- gcr.io/spinnaker-marketplace/clouddriver:2.0.0-20180221152902
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180813160614
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180810022810
+- gcr.io/spinnaker-marketplace/clouddriver:3.3.2-20180726132353
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180811041610
+- gcr.io/spinnaker-marketplace/clouddriver:2.1.0-20180319132609
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180810145859
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180830022809
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180810123348
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180813165634
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180814041611
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180814155153
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.0-20180815022811
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.1-20180822041609
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.1-20180817041609
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.1-20180824212434
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.2-20180828182842
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.3-20180906122521
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.1-20180827143405
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.4-20180911041608
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180816022810
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180815162654
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180818022809
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180816171912
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180823144712
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180823174914
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180827140628
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180824022809
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180824182307
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180827165259
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180828022808
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180828190120
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180902022808
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180828153110
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180901022808
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180905022809
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180911022808
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180907140728
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180906022809
+- gcr.io/spinnaker-marketplace/halyard:0.40.0-20180108214416
+- gcr.io/spinnaker-marketplace/orca:0.9.0-20171108151529
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180907001519
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180127063043
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180906225149
 ### 2018-09-12 21:27:51 Update:
 
 - gcr.io/linkerd-io/grafana:git-e63e28e2
