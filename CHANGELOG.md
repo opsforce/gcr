@@ -1,3 +1,7 @@
+### 2018-09-12 21:27:51 Update:
+
+- gcr.io/linkerd-io/grafana:git-e63e28e2
+- gcr.io/linkerd-io/proxy-init:git-f79a40a3
 ### 2018-09-12 21:27:10 Update:
 
 - gcr.io/istio-release/mixer:release-1.0-20180912-09-15
