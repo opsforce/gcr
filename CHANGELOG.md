@@ -1,3 +1,15 @@
+### 2018-09-12 15:55:22 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.9.1
+- gcr.io/kubernetes-helm/tiller:v2.9.0-rc4
+- gcr.io/kubernetes-helm/tiller:v2.9.0-rc1
+- gcr.io/kubernetes-helm/tiller:v2.8.1
+- gcr.io/kubernetes-helm/tiller:v2.9.0
+- gcr.io/kubernetes-helm/tiller:v2.8.2
+- gcr.io/kubernetes-helm/tiller:v2.9.0-rc2
+- gcr.io/kubernetes-helm/tiller:v2.9.0-rc3
+- gcr.io/kubernetes-helm/tiller:v2.9.0-rc5
+- gcr.io/kubernetes-helm/tiller:v2.8.2-rc1
 ### 2018-09-12 15:55:08 Update:
 
 - gcr.io/google-containers/kube-proxy-amd64:v1.12.0-beta.2
