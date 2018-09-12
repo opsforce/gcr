@@ -1,3 +1,7 @@
+### 2018-09-12 21:20:09 Update:
+
+- gcr.io/google-containers/serve-hostname-s390x:1.5
+- gcr.io/google-containers/kube-scheduler-amd64:v1.4.0-beta.7
 ### 2018-09-12 21:16:49 Update:
 
 - gcr.io/distroless/base:latest
