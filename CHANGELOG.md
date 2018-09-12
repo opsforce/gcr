@@ -1,3 +1,46 @@
+### 2018-09-12 23:45:03 Update:
+
+- gcr.io/spinnaker-marketplace/orca:0.9.0-20171108151529
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180907140728
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180907001519
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180906022809
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180911022808
+- gcr.io/spinnaker-marketplace/clouddriver:3.5.0-20180906225149
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180124063049
+- gcr.io/spinnaker-marketplace/halyard:0.40.0-20180108214416
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180125065538
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180125063050
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180317124111
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180126063052
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180126190327
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180127063043
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180126204913
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180128063045
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180129063044
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180129150930
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180129153800
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180129192530
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180130151042
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180131063045
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180201063048
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180201183529
+- gcr.io/spinnaker-marketplace/halyard:0.41.0-20180201212216
+- gcr.io/spinnaker-marketplace/halyard:0.42.0
+- gcr.io/spinnaker-marketplace/halyard:0.42.0-20180302093153
+- gcr.io/spinnaker-marketplace/halyard:0.42.0-180212171159
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180308020507
+- gcr.io/spinnaker-marketplace/halyard:0.43.0
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180317140630
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180309020506
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180316161219
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180317121745
+- gcr.io/spinnaker-marketplace/halyard:0.48.0-20180412030511
+- gcr.io/spinnaker-marketplace/halyard:0.45.0-20180405030509
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-20180325030509
+- gcr.io/spinnaker-marketplace/halyard:0.45.0-20180330030510
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-20180321134158
+- gcr.io/spinnaker-marketplace/halyard:0.45.0-20180404030510
+- gcr.io/spinnaker-marketplace/halyard:0.43.0-180317130715
 ### 2018-09-12 22:19:42 Update:
 
 - gcr.io/spinnaker-marketplace/clouddriver:3.3.1-20180724133340
