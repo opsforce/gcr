@@ -1,3 +1,6 @@
+### 2018-09-13 15:47:50 Update:
+
+- gcr.io/google-containers/fluentd-gcp-scaler:0.5
 ### 2018-09-12 23:45:03 Update:
 
 - gcr.io/spinnaker-marketplace/orca:0.9.0-20171108151529

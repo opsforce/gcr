@@ -1878,6 +1878,7 @@
     "fluentd-gcp-scaler:0.2",
     "fluentd-gcp-scaler:0.3",
     "fluentd-gcp-scaler:0.4",
+    "fluentd-gcp-scaler:0.5",
     "fluentd-gcp:1.10",
     "fluentd-gcp:1.11",
     "fluentd-gcp:1.12",
