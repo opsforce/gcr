@@ -1,3 +1,41 @@
+### 2018-09-13 15:52:58 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-01be78e4
+- gcr.io/linkerd-io/cli-bin:git-b10b8cb8
+- gcr.io/linkerd-io/grafana:git-01be78e4
+- gcr.io/linkerd-io/controller:git-6c45c07e
+- gcr.io/linkerd-io/controller:git-01be78e4
+- gcr.io/linkerd-io/cli-bin:git-6c45c07e
+- gcr.io/linkerd-io/controller:git-b1181e55
+- gcr.io/linkerd-io/controller:v18.9.1
+- gcr.io/linkerd-io/cli-bin:git-b1181e55
+- gcr.io/linkerd-io/controller:git-b10b8cb8
+- gcr.io/linkerd-io/cli-bin:git-b49ccce5
+- gcr.io/linkerd-io/controller:git-b49ccce5
+- gcr.io/linkerd-io/cli-bin:v18.9.1
+- gcr.io/linkerd-io/web:git-b10b8cb8
+- gcr.io/linkerd-io/web:git-01be78e4
+- gcr.io/linkerd-io/web:git-6c45c07e
+- gcr.io/linkerd-io/web:git-b49ccce5
+- gcr.io/linkerd-io/web:git-b1181e55
+- gcr.io/linkerd-io/proxy:git-01be78e4
+- gcr.io/linkerd-io/web:v18.9.1
+- gcr.io/linkerd-io/proxy:git-6c45c07e
+- gcr.io/linkerd-io/proxy:git-b10b8cb8
+- gcr.io/linkerd-io/grafana:git-b1181e55
+- gcr.io/linkerd-io/proxy:git-b1181e55
+- gcr.io/linkerd-io/proxy:git-b49ccce5
+- gcr.io/linkerd-io/proxy:v18.9.1
+- gcr.io/linkerd-io/grafana:git-6c45c07e
+- gcr.io/linkerd-io/grafana:git-b10b8cb8
+- gcr.io/linkerd-io/proxy-init:git-6c45c07e
+- gcr.io/linkerd-io/grafana:git-b49ccce5
+- gcr.io/linkerd-io/proxy-init:git-01be78e4
+- gcr.io/linkerd-io/grafana:v18.9.1
+- gcr.io/linkerd-io/proxy-init:git-b1181e55
+- gcr.io/linkerd-io/proxy-init:git-b49ccce5
+- gcr.io/linkerd-io/proxy-init:git-b10b8cb8
+- gcr.io/linkerd-io/proxy-init:v18.9.1
 ### 2018-09-13 15:50:13 Update:
 
 - gcr.io/istio-release/citadel:1.0.0-identity-eap.0
