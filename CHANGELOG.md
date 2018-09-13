@@ -1,3 +1,23 @@
+### 2018-09-13 15:50:13 Update:
+
+- gcr.io/istio-release/citadel:1.0.0-identity-eap.0
+- gcr.io/istio-release/node-agent:1.0.0-identity-eap.0
+- gcr.io/istio-release/mixer:1.0.0-identity-eap.0
+- gcr.io/istio-release/servicegraph:1.0.0-identity-eap.0
+- gcr.io/istio-release/mixer_debug:1.0.0-identity-eap.0
+- gcr.io/istio-release/node-agent-k8s:1.0.0-identity-eap.0
+- gcr.io/istio-release/galley:1.0.0-identity-eap.0
+- gcr.io/istio-release/pilot:1.0.0-identity-eap.0
+- gcr.io/istio-release/proxyv2:1.0.0-identity-eap.0
+- gcr.io/istio-release/sidecar_injector:1.0.0-identity-eap.0
+- gcr.io/istio-release/grafana:1.0.0-identity-eap.0
+- gcr.io/istio-release/test_policybackend:1.0.0-identity-eap.0
+- gcr.io/istio-release/citadel-test:1.0.0-identity-eap.0
+- gcr.io/istio-release/node-agent-test:1.0.0-identity-eap.0
+- gcr.io/istio-release/app:1.0.0-identity-eap.0
+- gcr.io/istio-release/servicegraph_debug:1.0.0-identity-eap.0
+- gcr.io/istio-release/proxy_init:1.0.0-identity-eap.0
+- gcr.io/istio-release/proxy_debug:1.0.0-identity-eap.0
 ### 2018-09-13 15:47:50 Update:
 
 - gcr.io/google-containers/fluentd-gcp-scaler:0.5
