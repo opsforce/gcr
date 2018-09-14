@@ -1,3 +1,6 @@
+### 2018-09-14 15:48:11 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.3.3
 ### 2018-09-13 16:36:15 Update:
 
 - gcr.io/spinnaker-marketplace/orca:1.1.0-20180912150413
