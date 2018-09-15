@@ -1,3 +1,7 @@
+### 2018-09-15 15:48:59 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:5aedc8e09abd5966e309212fa507fb7900b2c67b
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:88426fd7755f10a5800c0a9ae43617f8087ded35
 ### 2018-09-14 16:25:55 Update:
 
 - gcr.io/spinnaker-marketplace/kayenta:0.4.0-20180913142809
