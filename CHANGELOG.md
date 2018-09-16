@@ -1,3 +1,7 @@
+### 2018-09-16 16:06:23 Update:
+
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20180915172808
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180915231112
 ### 2018-09-16 16:05:48 Update:
 
 - gcr.io/istio-release/citadel:release-1.0-20180915-09-15
