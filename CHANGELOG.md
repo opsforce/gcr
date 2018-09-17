@@ -1,3 +1,6 @@
+### 2018-09-17 15:56:37 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180916045628
 ### 2018-09-17 15:56:07 Update:
 
 - gcr.io/istio-release/sidecar_injector:collab-gcp-identity-20180916-09-15
