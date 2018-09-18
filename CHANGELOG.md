@@ -1,3 +1,6 @@
+### 2018-09-18 15:52:18 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.11.0-rc.3
 ### 2018-09-18 15:52:01 Update:
 
 - gcr.io/google-containers/metrics-server-amd64:v0.3.1
