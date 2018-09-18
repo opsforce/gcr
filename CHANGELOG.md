@@ -1,3 +1,21 @@
+### 2018-09-18 15:52:01 Update:
+
+- gcr.io/google-containers/metrics-server-amd64:v0.3.1
+- gcr.io/google-containers/metrics-server-arm:v0.3.1
+- gcr.io/google-containers/metrics-server-ppc64le:v0.3.1
+- gcr.io/google-containers/debian-iptables-arm64:v10.2
+- gcr.io/google-containers/debian-iptables-s390x:v10.2
+- gcr.io/google-containers/debian-iptables-ppc64le:v10.2
+- gcr.io/google-containers/metrics-server-s390x:v0.3.1
+- gcr.io/google-containers/debian-iptables-arm:v10.2
+- gcr.io/google-containers/cluster-autoscaler:v1.12.0
+- gcr.io/google-containers/debian-iptables-amd64:v10.2
+- gcr.io/google-containers/metrics-server-arm64:v0.3.1
+- gcr.io/google-containers/debian-hyperkube-base-amd64:0.10.2
+- gcr.io/google-containers/debian-hyperkube-base-ppc64le:0.10.2
+- gcr.io/google-containers/debian-hyperkube-base-arm:0.10.2
+- gcr.io/google-containers/debian-hyperkube-base-arm64:0.10.2
+- gcr.io/google-containers/debian-hyperkube-base-s390x:0.10.2
 ### 2018-09-17 15:56:37 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.5.0-20180916045628
