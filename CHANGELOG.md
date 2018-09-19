@@ -1,3 +1,6 @@
+### 2018-09-19 22:50:30 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180919022809
 ### 2018-09-19 22:48:15 Update:
 
 - gcr.io/istio-release/citadel:master-20180919-09-15
