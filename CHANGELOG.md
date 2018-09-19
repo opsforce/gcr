@@ -1,3 +1,20 @@
+### 2018-09-19 22:31:32 Update:
+
+- gcr.io/google-containers/k8s-dns-kube-dns-arm64:1.14.12
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.14.12
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-ppc64le:1.14.12
+- gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.14.12
+- gcr.io/google-containers/k8s-dns-kube-dns-ppc64le:1.14.12
+- gcr.io/google-containers/k8s-dns-kube-dns-arm:1.14.12
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.14.12
+- gcr.io/google-containers/k8s-dns-kube-dns-s390x:1.14.12
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-s390x:1.14.12
+- gcr.io/google-containers/k8s-dns-sidecar-amd64:1.14.12
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm64:1.14.12
+- gcr.io/google-containers/k8s-dns-sidecar-arm:1.14.12
+- gcr.io/google-containers/k8s-dns-sidecar-arm64:1.14.12
+- gcr.io/google-containers/k8s-dns-sidecar-s390x:1.14.12
+- gcr.io/google-containers/k8s-dns-sidecar-ppc64le:1.14.12
 ### 2018-09-19 12:52:45 Update:
 
 - gcr.io/spinnaker-marketplace/orca:1.1.0-20180918142614
