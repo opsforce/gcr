@@ -1,3 +1,6 @@
+### 2018-09-20 22:30:09 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.11.0-rc.4
 ### 2018-09-20 22:29:29 Update:
 
 - gcr.io/google-containers/gvisor-admission-webhook-amd64:db9ba6906245ae3d8e7af791727d54fffa3d9202
