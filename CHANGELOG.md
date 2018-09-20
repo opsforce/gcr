@@ -1,3 +1,7 @@
+### 2018-09-20 22:29:29 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:db9ba6906245ae3d8e7af791727d54fffa3d9202
+- gcr.io/google-containers/prometheus-to-sd:v0.3.2
 ### 2018-09-19 22:50:30 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.5.0-20180919022809
