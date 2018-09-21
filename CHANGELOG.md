@@ -1,3 +1,11 @@
+### 2018-09-21 22:39:38 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-11c9b742
+- gcr.io/linkerd-io/proxy:git-11c9b742
+- gcr.io/linkerd-io/cli-bin:git-11c9b742
+- gcr.io/linkerd-io/web:git-11c9b742
+- gcr.io/linkerd-io/grafana:git-11c9b742
+- gcr.io/linkerd-io/controller:git-11c9b742
 ### 2018-09-21 22:38:59 Update:
 
 - gcr.io/istio-release/citadel:master-20180921-09-15
