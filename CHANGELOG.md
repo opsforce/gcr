@@ -1,3 +1,34 @@
+### 2018-09-21 22:32:08 Update:
+
+- gcr.io/google-containers/debian-base:0.3.2
+- gcr.io/google-containers/etcd-arm:3.2.24-1
+- gcr.io/google-containers/etcd-amd64:3.2.24-1
+- gcr.io/google-containers/etcd:3.2.24-1
+- gcr.io/google-containers/debian-iptables:v10.2
+- gcr.io/google-containers/cluster-autoscaler:v1.3.3
+- gcr.io/google-containers/etcd-ppc64le:3.2.24-1
+- gcr.io/google-containers/cos-kernel-headers:20180920-R00-00
+- gcr.io/google-containers/etcd-arm64:3.2.24-1
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-s390x:1.14.13
+- gcr.io/google-containers/debian-hyperkube-base:0.10.2
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.14.13
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.14.13
+- gcr.io/google-containers/etcd-s390x:3.2.24-1
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.14.13
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm64:1.14.13
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-ppc64le:1.14.13
+- gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.14.13
+- gcr.io/google-containers/k8s-dns-sidecar:1.14.13
+- gcr.io/google-containers/k8s-dns-sidecar-amd64:1.14.13
+- gcr.io/google-containers/k8s-dns-kube-dns-arm:1.14.13
+- gcr.io/google-containers/k8s-dns-kube-dns:1.14.13
+- gcr.io/google-containers/k8s-dns-kube-dns-s390x:1.14.13
+- gcr.io/google-containers/k8s-dns-kube-dns-arm64:1.14.13
+- gcr.io/google-containers/k8s-dns-kube-dns-ppc64le:1.14.13
+- gcr.io/google-containers/k8s-dns-sidecar-arm64:1.14.13
+- gcr.io/google-containers/k8s-dns-sidecar-arm:1.14.13
+- gcr.io/google-containers/k8s-dns-sidecar-ppc64le:1.14.13
+- gcr.io/google-containers/k8s-dns-sidecar-s390x:1.14.13
 ### 2018-09-20 23:07:22 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.5.0-20180919172809
