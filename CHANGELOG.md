@@ -1,3 +1,6 @@
+### 2018-09-26 22:30:37 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.11.0
 ### 2018-09-25 22:47:55 Update:
 
 - gcr.io/spinnaker-marketplace/orca:1.1.0-20180924112525
