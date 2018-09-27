@@ -1,3 +1,19 @@
+### 2018-09-27 22:56:22 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.2.0-20180926204551
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20180926132808
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180926152809
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180926204551
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180926112808
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180926132808
+- gcr.io/spinnaker-marketplace/orca:1.0.2-20180927041608
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180926204551
+- gcr.io/spinnaker-marketplace/clouddriver:3.4.5-20180927041608
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20180926112808
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20180926152809
+- gcr.io/spinnaker-marketplace/echo:2.1.0-20180926204551
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180926112808
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180926152809
 ### 2018-09-27 22:47:50 Update:
 
 - gcr.io/linkerd-io/cli-bin:edge-18.9.3
