@@ -1,3 +1,17 @@
+### 2018-09-27 22:47:50 Update:
+
+- gcr.io/linkerd-io/cli-bin:edge-18.9.3
+- gcr.io/linkerd-io/cli-bin:git-d287480f
+- gcr.io/linkerd-io/proxy-init:git-d287480f
+- gcr.io/linkerd-io/proxy:edge-18.9.3
+- gcr.io/linkerd-io/grafana:edge-18.9.3
+- gcr.io/linkerd-io/grafana:git-d287480f
+- gcr.io/linkerd-io/proxy-init:edge-18.9.3
+- gcr.io/linkerd-io/web:edge-18.9.3
+- gcr.io/linkerd-io/proxy:git-d287480f
+- gcr.io/linkerd-io/controller:git-d287480f
+- gcr.io/linkerd-io/controller:edge-18.9.3
+- gcr.io/linkerd-io/web:git-d287480f
 ### 2018-09-27 22:46:49 Update:
 
 - gcr.io/istio-release/galley:1.1.0.snapshot.1
