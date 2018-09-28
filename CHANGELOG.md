@@ -1,3 +1,23 @@
+### 2018-09-28 22:49:43 Update:
+
+- gcr.io/linkerd-io/cli-bin:ver-stacked.01
+- gcr.io/linkerd-io/proxy-init:ver-stacked.02
+- gcr.io/linkerd-io/proxy-init:ver-stacked.01
+- gcr.io/linkerd-io/proxy-init:ver-stacked.03
+- gcr.io/linkerd-io/controller:ver-stacked.03
+- gcr.io/linkerd-io/controller:ver-stacked.02
+- gcr.io/linkerd-io/controller:ver-stacked.01
+- gcr.io/linkerd-io/proxy:ver-stacked.01
+- gcr.io/linkerd-io/web:ver-stacked.01
+- gcr.io/linkerd-io/proxy:ver-stacked.02
+- gcr.io/linkerd-io/proxy:ver-stacked.03
+- gcr.io/linkerd-io/web:ver-stacked.02
+- gcr.io/linkerd-io/web:ver-stacked.03
+- gcr.io/linkerd-io/grafana:ver-stacked.03
+- gcr.io/linkerd-io/grafana:ver-stacked.01
+- gcr.io/linkerd-io/grafana:ver-stacked.02
+- gcr.io/linkerd-io/cli-bin:ver-stacked.03
+- gcr.io/linkerd-io/cli-bin:ver-stacked.02
 ### 2018-09-28 22:49:15 Update:
 
 - gcr.io/istio-release/galley:master-20180928-05-43
