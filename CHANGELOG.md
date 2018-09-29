@@ -1,3 +1,50 @@
+### 2018-09-29 22:32:13 Update:
+
+- gcr.io/linkerd-io/controller:ver-stacked.04
+- gcr.io/linkerd-io/grafana:ver-stacked.04
+- gcr.io/linkerd-io/grafana:ver-stacked.05
+- gcr.io/linkerd-io/grafana:ver-stacked.06
+- gcr.io/linkerd-io/grafana:ver-stacked.08
+- gcr.io/linkerd-io/grafana:ver-stacked.09
+- gcr.io/linkerd-io/grafana:ver-stacked.10
+- gcr.io/linkerd-io/grafana:ver-stacked.07
+- gcr.io/linkerd-io/controller:ver-stacked.05
+- gcr.io/linkerd-io/controller:ver-stacked.06
+- gcr.io/linkerd-io/controller:ver-stacked.09
+- gcr.io/linkerd-io/controller:ver-stacked.10
+- gcr.io/linkerd-io/controller:ver-stacked.07
+- gcr.io/linkerd-io/controller:ver-stacked.08
+- gcr.io/linkerd-io/cli-bin:ver-stacked.04
+- gcr.io/linkerd-io/cli-bin:ver-stacked.08
+- gcr.io/linkerd-io/cli-bin:ver-stacked.06
+- gcr.io/linkerd-io/cli-bin:ver-stacked.09
+- gcr.io/linkerd-io/cli-bin:ver-stacked.05
+- gcr.io/linkerd-io/cli-bin:ver-stacked.10
+- gcr.io/linkerd-io/cli-bin:ver-stacked.07
+- gcr.io/linkerd-io/grafana:git-3875fe80
+- gcr.io/linkerd-io/controller:git-3875fe80
+- gcr.io/linkerd-io/cli-bin:git-3875fe80
+- gcr.io/linkerd-io/proxy-init:ver-stacked.05
+- gcr.io/linkerd-io/proxy-init:ver-stacked.07
+- gcr.io/linkerd-io/proxy-init:ver-stacked.08
+- gcr.io/linkerd-io/proxy-init:ver-stacked.09
+- gcr.io/linkerd-io/proxy-init:ver-stacked.04
+- gcr.io/linkerd-io/proxy-init:ver-stacked.06
+- gcr.io/linkerd-io/web:ver-stacked.04
+- gcr.io/linkerd-io/web:ver-stacked.05
+- gcr.io/linkerd-io/proxy-init:git-3875fe80
+- gcr.io/linkerd-io/web:ver-stacked.06
+- gcr.io/linkerd-io/web:ver-stacked.09
+- gcr.io/linkerd-io/web:ver-stacked.08
+- gcr.io/linkerd-io/web:ver-stacked.07
+- gcr.io/linkerd-io/web:git-3875fe80
+- gcr.io/linkerd-io/proxy:ver-stacked.04
+- gcr.io/linkerd-io/proxy:ver-stacked.05
+- gcr.io/linkerd-io/proxy:git-3875fe80
+- gcr.io/linkerd-io/proxy:ver-stacked.07
+- gcr.io/linkerd-io/proxy:ver-stacked.06
+- gcr.io/linkerd-io/proxy:ver-stacked.08
+- gcr.io/linkerd-io/proxy:ver-stacked.09
 ### 2018-09-29 22:31:12 Update:
 
 - gcr.io/google-containers/defaultbackend-amd64:1.5
