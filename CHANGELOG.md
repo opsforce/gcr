@@ -1,3 +1,16 @@
+### 2018-09-29 22:37:29 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180928152808
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20180928113326
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20180928172808
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20180928132808
+- gcr.io/spinnaker-marketplace/fiat:1.1.0-20180928113326
+- gcr.io/spinnaker-marketplace/gate:1.1.3-20180929041608
+- gcr.io/spinnaker-marketplace/kayenta:0.4.0-20180928152808
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20180928132808
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180928202808
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180928132808
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20180928104315
 ### 2018-09-29 22:32:13 Update:
 
 - gcr.io/linkerd-io/controller:ver-stacked.04
