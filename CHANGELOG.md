@@ -1,3 +1,7 @@
+### 2018-09-29 22:31:12 Update:
+
+- gcr.io/google-containers/defaultbackend-amd64:1.5
+- gcr.io/google-containers/gcp-controller-manager:1aa2dddbbc427899e0dd5f313829552c0892e247
 ### 2018-09-28 22:58:57 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.5.0-20180927194700
