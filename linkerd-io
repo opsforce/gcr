@@ -219,6 +219,7 @@
     "cli-bin:ver-stacked.19",
     "cli-bin:ver-stacked.20",
     "cli-bin:ver-stacked.21",
+    "cli-bin:ver-stacked.22",
     "controller:dev-3c29356b-thomas",
     "controller:dev-511549e1-eliza",
     "controller:dev-63be9b1a-alex",
@@ -438,6 +439,7 @@
     "controller:ver-stacked.19",
     "controller:ver-stacked.20",
     "controller:ver-stacked.21",
+    "controller:ver-stacked.22",
     "go-deps:01fcd591",
     "go-deps:0f0f2e2d",
     "go-deps:26c23978",
@@ -670,6 +672,7 @@
     "grafana:ver-stacked.19",
     "grafana:ver-stacked.20",
     "grafana:ver-stacked.21",
+    "grafana:ver-stacked.22",
     "nginx-with-curl:latest",
     "proxy-init:dev-3c29356b-thomas",
     "proxy-init:dev-511549e1-eliza",
@@ -890,6 +893,7 @@
     "proxy-init:ver-stacked.19",
     "proxy-init:ver-stacked.20",
     "proxy-init:ver-stacked.21",
+    "proxy-init:ver-stacked.22",
     "proxy-timeline:4b49d31b",
     "proxy-timeline:buckettest",
     "proxy-timeline:e23f860d",
@@ -1137,6 +1141,7 @@
     "proxy:ver-stacked.19",
     "proxy:ver-stacked.20",
     "proxy:ver-stacked.21",
+    "proxy:ver-stacked.22",
     "reporter:latest",
     "web:dev-3c29356b-thomas",
     "web:dev-511549e1-eliza",
@@ -1356,5 +1361,6 @@
     "web:ver-stacked.18",
     "web:ver-stacked.19",
     "web:ver-stacked.20",
-    "web:ver-stacked.21"
+    "web:ver-stacked.21",
+    "web:ver-stacked.22"
 ]
