@@ -1,3 +1,29 @@
+### 2018-10-03 22:43:54 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-5a853e89
+- gcr.io/linkerd-io/proxy-init:git-bedd5764
+- gcr.io/linkerd-io/proxy-init:git-9fe3dcde
+- gcr.io/linkerd-io/cli-bin:git-9fe3dcde
+- gcr.io/linkerd-io/proxy-init:git-dccccebd
+- gcr.io/linkerd-io/cli-bin:git-dccccebd
+- gcr.io/linkerd-io/web:git-9fe3dcde
+- gcr.io/linkerd-io/web:git-bedd5764
+- gcr.io/linkerd-io/web:git-5a853e89
+- gcr.io/linkerd-io/cli-bin:git-5a853e89
+- gcr.io/linkerd-io/cli-bin:git-bedd5764
+- gcr.io/linkerd-io/proxy:git-5a853e89
+- gcr.io/linkerd-io/grafana:git-9fe3dcde
+- gcr.io/linkerd-io/grafana:git-5a853e89
+- gcr.io/linkerd-io/grafana:git-bedd5764
+- gcr.io/linkerd-io/web:git-dccccebd
+- gcr.io/linkerd-io/grafana:git-dccccebd
+- gcr.io/linkerd-io/proxy:git-9fe3dcde
+- gcr.io/linkerd-io/proxy:git-bedd5764
+- gcr.io/linkerd-io/proxy:git-dccccebd
+- gcr.io/linkerd-io/controller:git-bedd5764
+- gcr.io/linkerd-io/controller:git-9fe3dcde
+- gcr.io/linkerd-io/controller:git-5a853e89
+- gcr.io/linkerd-io/controller:git-dccccebd
 ### 2018-10-03 22:42:35 Update:
 
 - gcr.io/istio-release/citadel:release-1.0-20181003-09-15
