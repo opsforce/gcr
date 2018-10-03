@@ -1,3 +1,18 @@
+### 2018-10-03 22:34:55 Update:
+
+- gcr.io/google-containers/defaultbackend-arm:1.5
+- gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.3.0
+- gcr.io/google-containers/defaultbackend-ppc64le:1.5
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm:1.3.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.3.0
+- gcr.io/google-containers/defaultbackend-arm64:1.5
+- gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le:1.3.0
+- gcr.io/google-containers/kube-addon-manager-s390x:v8.8
+- gcr.io/google-containers/kube-addon-manager-ppc64le:v8.8
+- gcr.io/google-containers/kube-addon-manager-arm:v8.8
+- gcr.io/google-containers/kube-addon-manager-amd64:v8.8
+- gcr.io/google-containers/kube-addon-manager:v8.8
+- gcr.io/google-containers/kube-addon-manager-arm64:v8.8
 ### 2018-10-02 23:08:23 Update:
 
 - gcr.io/spinnaker-marketplace/orca:1.1.0-20181001152808
