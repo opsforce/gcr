@@ -1,3 +1,7 @@
+### 2018-10-04 22:37:28 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:f419c470442c792b7b8fae72191132bbba44420a
+- gcr.io/google-containers/kube-cross:v1.11.1-1
 ### 2018-10-03 22:55:12 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.5.0-20181002171154
