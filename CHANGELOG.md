@@ -1,3 +1,37 @@
+### 2018-10-06 23:11:22 Update:
+
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20181005145738
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20181005133730
+- gcr.io/spinnaker-marketplace/rosco:0.8.0-20181005133730
+- gcr.io/spinnaker-marketplace/fiat:1.1.0-20181005133730
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20181005141847
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20181005212152
+- gcr.io/spinnaker-marketplace/echo:2.1.0-20181005172807
+- gcr.io/spinnaker-marketplace/echo:2.1.0-20181005133730
+- gcr.io/spinnaker-marketplace/echo:2.1.0-20181005143323
+- gcr.io/spinnaker-marketplace/echo:2.1.0-20181005212152
+- gcr.io/spinnaker-marketplace/igor:0.13.0-20181005133730
+- gcr.io/spinnaker-marketplace/rosco:0.8.0-20181005143323
+- gcr.io/spinnaker-marketplace/igor:0.13.0-20181005143323
+- gcr.io/spinnaker-marketplace/gate:1.2.0-20181005133730
+- gcr.io/spinnaker-marketplace/gate:1.2.0-20181005143323
+- gcr.io/spinnaker-marketplace/fiat:1.1.0-20181005212152
+- gcr.io/spinnaker-marketplace/fiat:1.1.0-20181005143323
+- gcr.io/spinnaker-marketplace/front50:0.12.1-20181006031607
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181005133730
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181005172807
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181005212152
+- gcr.io/spinnaker-marketplace/halyard:1.11.0-20181005142503
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181005143323
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181005212906
+- gcr.io/spinnaker-marketplace/halyard:1.11.0-20181005133730
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181005152808
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181005133730
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181005172807
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181005230617
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20181005133730
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20181005143323
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20181005152808
 ### 2018-10-06 22:58:44 Update:
 
 - gcr.io/istio-release/citadel:krishna-test-latest-daily
