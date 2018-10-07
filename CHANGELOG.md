@@ -1,3 +1,6 @@
+### 2018-10-07 22:41:54 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.4.0-20181006152930
 ### 2018-10-07 22:41:27 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.0-20181007-09-15
