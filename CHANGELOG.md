@@ -1,3 +1,6 @@
+### 2018-10-07 22:35:23 Update:
+
+- gcr.io/google-containers/netd-amd64:0.1.8
 ### 2018-10-06 23:11:22 Update:
 
 - gcr.io/spinnaker-marketplace/orca:1.1.0-20181005145738
