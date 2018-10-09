@@ -1,3 +1,18 @@
+### 2018-10-09 22:54:31 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-6fee0f3c
+- gcr.io/linkerd-io/grafana:git-6fee0f3c
+- gcr.io/linkerd-io/controller:git-6fee0f3c
+- gcr.io/linkerd-io/grafana:git-69cebae1
+- gcr.io/linkerd-io/proxy-init:git-6fee0f3c
+- gcr.io/linkerd-io/cli-bin:git-69cebae1
+- gcr.io/linkerd-io/proxy-init:git-69cebae1
+- gcr.io/linkerd-io/web:git-69cebae1
+- gcr.io/linkerd-io/web:git-6fee0f3c
+- gcr.io/linkerd-io/proxy:git-69cebae1
+- gcr.io/linkerd-io/controller:git-69cebae1
+- gcr.io/linkerd-io/proxy:git-6fee0f3c
+- gcr.io/linkerd-io/go-deps:64a32a2a
 ### 2018-10-09 22:52:20 Update:
 
 - gcr.io/istio-release/citadel:release-1.0-20181009-09-15
