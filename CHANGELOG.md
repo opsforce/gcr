@@ -1,3 +1,6 @@
+### 2018-10-09 22:37:16 Update:
+
+- gcr.io/google-containers/ip-masq-agent-amd64:v2.2.0
 ### 2018-10-08 22:39:03 Update:
 
 - gcr.io/istio-release/citadel:release-1.0-20181008-09-15
