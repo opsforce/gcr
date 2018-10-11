@@ -1,3 +1,18 @@
+### 2018-10-11 22:44:31 Update:
+
+- gcr.io/linkerd-io/proxy:edge-18.10.2
+- gcr.io/linkerd-io/web:git-4fba6aca
+- gcr.io/linkerd-io/cli-bin:git-4fba6aca
+- gcr.io/linkerd-io/grafana:git-4fba6aca
+- gcr.io/linkerd-io/controller:git-4fba6aca
+- gcr.io/linkerd-io/grafana:edge-18.10.2
+- gcr.io/linkerd-io/controller:edge-18.10.2
+- gcr.io/linkerd-io/cli-bin:edge-18.10.2
+- gcr.io/linkerd-io/web:edge-18.10.2
+- gcr.io/linkerd-io/proxy:git-4fba6aca
+- gcr.io/linkerd-io/proxy-init:edge-18.10.2
+- gcr.io/linkerd-io/proxy-init:git-4fba6aca
+- gcr.io/linkerd-io/go-deps:0c590d0e
 ### 2018-10-11 22:43:04 Update:
 
 - gcr.io/istio-release/mixer:master-20181011-09-15
