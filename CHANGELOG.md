@@ -1,3 +1,13 @@
+### 2018-10-12 22:50:45 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.2.0-20181012022808
+- gcr.io/spinnaker-marketplace/igor:0.12.1-20181012031608
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181012022808
+- gcr.io/spinnaker-marketplace/igor:0.13.0-20181012022808
+- gcr.io/spinnaker-marketplace/orca:1.1.0-20181012022808
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181012042808
+- gcr.io/spinnaker-marketplace/fiat:1.1.0-20181012042808
+- gcr.io/spinnaker-marketplace/echo:2.1.0-20181012022808
 ### 2018-10-12 22:48:47 Update:
 
 - gcr.io/linkerd-io/proxy:git-f1f5b49f
