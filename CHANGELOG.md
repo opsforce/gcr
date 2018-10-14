@@ -1,3 +1,6 @@
+### 2018-10-14 22:45:37 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181014022807
 ### 2018-10-14 22:45:09 Update:
 
 - gcr.io/istio-release/servicegraph_debug:release-1.0-20181014-09-15
