@@ -1,3 +1,17 @@
+### 2018-10-18 22:52:03 Update:
+
+- gcr.io/linkerd-io/proxy-init:edge-18.10.3
+- gcr.io/linkerd-io/proxy:git-f95c3134
+- gcr.io/linkerd-io/proxy:edge-18.10.3
+- gcr.io/linkerd-io/cli-bin:git-f95c3134
+- gcr.io/linkerd-io/proxy-init:git-f95c3134
+- gcr.io/linkerd-io/grafana:git-f95c3134
+- gcr.io/linkerd-io/cli-bin:edge-18.10.3
+- gcr.io/linkerd-io/grafana:edge-18.10.3
+- gcr.io/linkerd-io/controller:edge-18.10.3
+- gcr.io/linkerd-io/web:edge-18.10.3
+- gcr.io/linkerd-io/web:git-f95c3134
+- gcr.io/linkerd-io/controller:git-f95c3134
 ### 2018-10-18 22:50:53 Update:
 
 - gcr.io/istio-release/galley:krishna-test-20181018-09-15
