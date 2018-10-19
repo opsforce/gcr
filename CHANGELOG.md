@@ -1,3 +1,6 @@
+### 2018-10-19 22:41:32 Update:
+
+- gcr.io/google-containers/coredns:1.2.4
 ### 2018-10-18 23:09:55 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.2.0-20181017123157
