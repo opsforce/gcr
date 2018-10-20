@@ -1,3 +1,11 @@
+### 2018-10-20 22:42:14 Update:
+
+- gcr.io/google-containers/debian-base-s390x:0.4.0
+- gcr.io/google-containers/debian-base-arm64:0.4.0
+- gcr.io/google-containers/debian-base-arm:0.4.0
+- gcr.io/google-containers/debian-base-amd64:0.4.0
+- gcr.io/google-containers/debian-base:0.4.0
+- gcr.io/google-containers/debian-base-ppc64le:0.4.0
 ### 2018-10-19 23:10:29 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.2.0-20181018150001
