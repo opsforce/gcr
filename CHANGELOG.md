@@ -1,3 +1,11 @@
+### 2018-10-23 22:53:06 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181022194039
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181022194039
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181022123443
+- gcr.io/spinnaker-marketplace/kayenta:0.5.0-20181022194039
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.1-20181022185323
+- gcr.io/spinnaker-marketplace/halyard:1.12.0-20181022151026
 ### 2018-10-23 22:49:33 Update:
 
 - gcr.io/istio-release/citadel:release-1.1-20181023-09-15
