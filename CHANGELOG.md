@@ -1,3 +1,8 @@
+### 2018-10-28 22:50:53 Update:
+
+- gcr.io/linkerd-io/controller:git-39b80b11
+- gcr.io/linkerd-io/controller:git-1eb9d019
+- gcr.io/linkerd-io/controller:git-6cffad27
 ### 2018-10-28 22:50:23 Update:
 
 - gcr.io/istio-release/galley:master-20181028-09-15
