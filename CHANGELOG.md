@@ -1,3 +1,29 @@
+### 2018-11-02 22:56:07 Update:
+
+- gcr.io/linkerd-io/proxy:git-fcfe9f07
+- gcr.io/linkerd-io/cli-bin:git-fcfe9f07
+- gcr.io/linkerd-io/proxy:edge-18.11.1
+- gcr.io/linkerd-io/proxy:git-6d891109
+- gcr.io/linkerd-io/cli-bin:edge-18.11.1
+- gcr.io/linkerd-io/proxy:git-397f1bab
+- gcr.io/linkerd-io/controller:git-397f1bab
+- gcr.io/linkerd-io/cli-bin:git-6d891109
+- gcr.io/linkerd-io/cli-bin:git-397f1bab
+- gcr.io/linkerd-io/controller:edge-18.11.1
+- gcr.io/linkerd-io/controller:git-6d891109
+- gcr.io/linkerd-io/proxy-init:edge-18.11.1
+- gcr.io/linkerd-io/proxy-init:git-397f1bab
+- gcr.io/linkerd-io/proxy-init:git-6d891109
+- gcr.io/linkerd-io/controller:git-fcfe9f07
+- gcr.io/linkerd-io/grafana:git-6d891109
+- gcr.io/linkerd-io/grafana:edge-18.11.1
+- gcr.io/linkerd-io/grafana:git-397f1bab
+- gcr.io/linkerd-io/proxy-init:git-fcfe9f07
+- gcr.io/linkerd-io/grafana:git-fcfe9f07
+- gcr.io/linkerd-io/web:edge-18.11.1
+- gcr.io/linkerd-io/web:git-397f1bab
+- gcr.io/linkerd-io/web:git-6d891109
+- gcr.io/linkerd-io/web:git-fcfe9f07
 ### 2018-11-02 22:54:02 Update:
 
 - gcr.io/istio-release/node-agent-test:release-1.0-20181102-09-15
