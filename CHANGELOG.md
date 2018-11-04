@@ -1,3 +1,6 @@
+### 2018-11-04 22:56:41 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181104022809
 ### 2018-11-04 22:55:11 Update:
 
 - gcr.io/istio-release/citadel:release-1.0-20181104-09-15
