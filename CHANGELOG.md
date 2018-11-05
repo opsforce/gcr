@@ -1,3 +1,33 @@
+### 2018-11-05 22:53:46 Update:
+
+- gcr.io/istio-release/node-agent:release-1.0-20181105-09-15
+- gcr.io/istio-release/proxy_init:master-20181105-09-15
+- gcr.io/istio-release/galley:release-1.0-20181105-09-15
+- gcr.io/istio-release/galley:master-20181105-09-15
+- gcr.io/istio-release/node-agent-test:release-1.0-20181105-09-15
+- gcr.io/istio-release/citadel-test:release-1.0-20181105-09-15
+- gcr.io/istio-release/proxy_init:release-1.0-20181105-09-15
+- gcr.io/istio-release/pilot:release-1.0-20181105-09-15
+- gcr.io/istio-release/pilot:master-20181105-09-15
+- gcr.io/istio-release/kubectl:master-20181105-09-15
+- gcr.io/istio-release/proxytproxy:master-20181105-09-15
+- gcr.io/istio-release/mixer_debug:release-1.0-20181105-09-15
+- gcr.io/istio-release/mixer:master-20181105-09-15
+- gcr.io/istio-release/mixer:release-1.0-20181105-09-15
+- gcr.io/istio-release/citadel:master-20181105-09-15
+- gcr.io/istio-release/citadel:release-1.0-20181105-09-15
+- gcr.io/istio-release/app:master-20181105-09-15
+- gcr.io/istio-release/app:release-1.0-20181105-09-15
+- gcr.io/istio-release/proxyv2:master-20181105-09-15
+- gcr.io/istio-release/proxyv2:release-1.0-20181105-09-15
+- gcr.io/istio-release/servicegraph:release-1.0-20181105-09-15
+- gcr.io/istio-release/test_policybackend:master-20181105-09-15
+- gcr.io/istio-release/sidecar_injector:release-1.0-20181105-09-15
+- gcr.io/istio-release/sidecar_injector:master-20181105-09-15
+- gcr.io/istio-release/servicegraph_debug:release-1.0-20181105-09-15
+- gcr.io/istio-release/test_policybackend:release-1.0-20181105-09-15
+- gcr.io/istio-release/proxy_debug:master-20181105-09-15
+- gcr.io/istio-release/proxy_debug:release-1.0-20181105-09-15
 ### 2018-11-04 22:56:41 Update:
 
 - gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181104022809
