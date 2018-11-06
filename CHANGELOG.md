@@ -1,3 +1,7 @@
+### 2018-11-06 22:56:34 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.4.0
+- gcr.io/google-containers/kube-cross:v1.11.2-1
 ### 2018-11-05 22:53:46 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20181105-09-15
