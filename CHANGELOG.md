@@ -1,3 +1,12 @@
+### 2018-11-08 23:16:02 Update:
+
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181108022809
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181107124113
+- gcr.io/spinnaker-marketplace/echo:2.2.0-20181108022809
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181107124113
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181108022809
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181107094915
+- gcr.io/spinnaker-marketplace/halyard:1.13.0-20181108020509
 ### 2018-11-08 23:09:19 Update:
 
 - gcr.io/istio-release/galley:release-1.1-20181108-09-15
