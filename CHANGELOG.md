@@ -1,3 +1,9 @@
+### 2018-11-10 22:53:58 Update:
+
+- gcr.io/google-containers/git-sync:v3.0.0
+- gcr.io/google-containers/vpa-updater:0.3.0
+- gcr.io/google-containers/vpa-recommender:0.3.0
+- gcr.io/google-containers/vpa-admission-controller:0.3.0
 ### 2018-11-09 23:03:45 Update:
 
 - gcr.io/spinnaker-marketplace/orca:1.2.0-20181109022806
