@@ -1,3 +1,6 @@
+### 2018-11-15 22:55:35 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.1.1
 ### 2018-11-14 23:16:07 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.2.0-20181113022808
