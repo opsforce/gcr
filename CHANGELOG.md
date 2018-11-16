@@ -1,3 +1,14 @@
+### 2018-11-16 23:04:57 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181115115936
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181116022808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181116092155
+- gcr.io/spinnaker-marketplace/orca:1.2.0-20181116022808
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181116022808
+- gcr.io/spinnaker-marketplace/fiat:1.2.0-20181115151924
+- gcr.io/spinnaker-marketplace/fiat:1.3.0-20181116022808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181115115936
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181116022808
 ### 2018-11-16 23:02:33 Update:
 
 - gcr.io/linkerd-io/controller:git-16ac923f
