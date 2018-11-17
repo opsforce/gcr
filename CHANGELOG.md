@@ -1,3 +1,10 @@
+### 2018-11-17 23:07:56 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.3.0-20181117022807
+- gcr.io/spinnaker-marketplace/deck:2.5.5-20181117042807
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181117022807
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.4-20181117042807
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181117022807
 ### 2018-11-17 23:05:19 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20181117-09-15
