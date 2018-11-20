@@ -1,3 +1,7 @@
+### 2018-11-20 22:58:09 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.13.0.alpha.1
+- gcr.io/google-containers/cluster-autoscaler:v1.13.0-alpha.1
 ### 2018-11-19 23:01:47 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.1-20181119-09-15
