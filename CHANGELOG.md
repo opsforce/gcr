@@ -1,3 +1,11 @@
+### 2018-11-22 23:07:43 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-1027a636
+- gcr.io/linkerd-io/proxy:git-1027a636
+- gcr.io/linkerd-io/grafana:git-1027a636
+- gcr.io/linkerd-io/web:git-1027a636
+- gcr.io/linkerd-io/cli-bin:git-1027a636
+- gcr.io/linkerd-io/controller:git-1027a636
 ### 2018-11-22 23:07:06 Update:
 
 - gcr.io/istio-release/cni:master-latest-daily
