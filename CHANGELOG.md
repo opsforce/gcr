@@ -1,3 +1,7 @@
+### 2018-11-23 23:09:52 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.0.0-20181123022808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181123022808
 ### 2018-11-23 23:09:18 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20181123-09-15
