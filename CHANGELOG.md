@@ -1,3 +1,7 @@
+### 2018-11-24 23:04:40 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181124022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181124022808
 ### 2018-11-24 23:02:58 Update:
 
 - gcr.io/istio-release/node-agent-k8s:master-20181124-09-15
