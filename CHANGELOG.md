@@ -1,3 +1,7 @@
+### 2018-11-29 23:02:30 Update:
+
+- gcr.io/google-containers/node-problem-detector:v0.6.1
+- gcr.io/google-containers/cluster-autoscaler:v1.13.0
 ### 2018-11-28 23:14:04 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.0.0-20181128022808
