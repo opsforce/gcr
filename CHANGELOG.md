@@ -1,3 +1,6 @@
+### 2018-12-02 23:07:16 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181202022808
 ### 2018-12-02 23:06:46 Update:
 
 - gcr.io/istio-release/servicegraph:krishna-test-20181202-09-15
