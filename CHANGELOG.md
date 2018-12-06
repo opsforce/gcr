@@ -1,3 +1,8 @@
+### 2018-12-06 23:05:06 Update:
+
+- gcr.io/google-containers/kubelet-to-gcm:1.2.8
+- gcr.io/google-containers/gcp-controller-manager:007a1ce42cc908eaa13d385afb35df82181c2c37
+- gcr.io/google-containers/gcp-controller-manager:67acdc25162c0ab6a055e6728fe4a7fa527b5f1a
 ### 2018-12-05 23:22:00 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.0.0-20181205022808
