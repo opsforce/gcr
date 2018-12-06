@@ -1,3 +1,6 @@
+### 2018-12-06 23:05:22 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.12.0-rc.2
 ### 2018-12-06 23:05:06 Update:
 
 - gcr.io/google-containers/kubelet-to-gcm:1.2.8
