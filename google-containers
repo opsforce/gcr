@@ -1225,6 +1225,7 @@
     "cluster-autoscaler:v1.13.0-alpha.1",
     "cluster-autoscaler:v1.13.0-rc.2",
     "cluster-autoscaler:v1.13.0.alpha.1",
+    "cluster-autoscaler:v1.13.1",
     "cluster-autoscaler:v1.2.0",
     "cluster-autoscaler:v1.2.0-beta1",
     "cluster-autoscaler:v1.2.0-rc1",
