@@ -1,3 +1,11 @@
+### 2018-12-12 23:22:39 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.3.0-20181212022808
+- gcr.io/spinnaker-marketplace/orca:2.0.0-20181212022808
+- gcr.io/spinnaker-marketplace/deck:2.6.0-20181212022808
+- gcr.io/spinnaker-marketplace/halyard:1.13.0
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181211134536
+- gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181212022808
 ### 2018-12-12 23:18:23 Update:
 
 - gcr.io/linkerd-io/proxy-init:liza-skip-tls
