@@ -1,3 +1,6 @@
+### 2018-12-12 23:22:51 Update:
+
+- gcr.io/distroless/static:latest
 ### 2018-12-12 23:22:39 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.3.0-20181212022808
