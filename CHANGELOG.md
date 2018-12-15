@@ -1,3 +1,7 @@
+### 2018-12-15 23:15:41 Update:
+
+- gcr.io/google-containers/kube-cross:v1.10.6-1
+- gcr.io/google-containers/kube-cross:v1.11.3-1
 ### 2018-12-14 23:25:33 Update:
 
 - gcr.io/spinnaker-marketplace/kayenta:0.6.0-20181214022808
