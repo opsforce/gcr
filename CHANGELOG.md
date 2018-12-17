@@ -1,3 +1,7 @@
+### 2018-12-17 23:28:52 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181217022808
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20181217093850
 ### 2018-12-17 23:25:57 Update:
 
 - gcr.io/istio-release/citadel:master-20181217-09-15
