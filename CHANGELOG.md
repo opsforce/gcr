@@ -1,3 +1,21 @@
+### 2018-12-18 23:48:01 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.4.0-20181217184649
+- gcr.io/spinnaker-marketplace/gate:1.4.0-20181217192627
+- gcr.io/spinnaker-marketplace/front50:0.13.1-20181217212321
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20181217184649
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181217184649
+- gcr.io/spinnaker-marketplace/echo:2.1.3-20181217212321
+- gcr.io/spinnaker-marketplace/deck:2.5.5-20181217212321
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181218022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.0-20181217202629
+- gcr.io/spinnaker-marketplace/echo:2.2.1-20181217192627
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20181217184649
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181217202629
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181217184649
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181218022808
+- gcr.io/spinnaker-marketplace/orca:2.1.0-20181217184649
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20181217184649
 ### 2018-12-18 23:39:37 Update:
 
 - gcr.io/istio-release/servicegraph:master-20181217-14-35
