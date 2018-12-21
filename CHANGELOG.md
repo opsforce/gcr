@@ -1,3 +1,48 @@
+### 2018-12-21 23:22:53 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-a9511aba
+- gcr.io/linkerd-io/proxy-init:git-07cbfe27
+- gcr.io/linkerd-io/proxy-init:git-612ebe2b
+- gcr.io/linkerd-io/proxy-init:edge-18.12.4
+- gcr.io/linkerd-io/proxy-init:git-20bb1bbc
+- gcr.io/linkerd-io/proxy-init:dev-6e282186-thomas
+- gcr.io/linkerd-io/proxy-init:git-f1b0983f
+- gcr.io/linkerd-io/grafana:dev-6e282186-thomas
+- gcr.io/linkerd-io/grafana:git-07cbfe27
+- gcr.io/linkerd-io/grafana:edge-18.12.4
+- gcr.io/linkerd-io/grafana:git-20bb1bbc
+- gcr.io/linkerd-io/grafana:git-612ebe2b
+- gcr.io/linkerd-io/grafana:git-a9511aba
+- gcr.io/linkerd-io/grafana:git-f1b0983f
+- gcr.io/linkerd-io/proxy:dev-6e282186-thomas
+- gcr.io/linkerd-io/proxy:edge-18.12.4
+- gcr.io/linkerd-io/proxy:git-07cbfe27
+- gcr.io/linkerd-io/proxy:git-612ebe2b
+- gcr.io/linkerd-io/proxy:git-20bb1bbc
+- gcr.io/linkerd-io/proxy:git-a9511aba
+- gcr.io/linkerd-io/proxy:git-f1b0983f
+- gcr.io/linkerd-io/web:dev-6e282186-thomas
+- gcr.io/linkerd-io/web:git-07cbfe27
+- gcr.io/linkerd-io/web:edge-18.12.4
+- gcr.io/linkerd-io/web:git-20bb1bbc
+- gcr.io/linkerd-io/web:git-612ebe2b
+- gcr.io/linkerd-io/go-deps:4b31aa9b
+- gcr.io/linkerd-io/web:git-a9511aba
+- gcr.io/linkerd-io/web:git-f1b0983f
+- gcr.io/linkerd-io/controller:dev-6e282186-thomas
+- gcr.io/linkerd-io/controller:edge-18.12.4
+- gcr.io/linkerd-io/controller:git-07cbfe27
+- gcr.io/linkerd-io/controller:git-20bb1bbc
+- gcr.io/linkerd-io/controller:git-612ebe2b
+- gcr.io/linkerd-io/controller:git-a9511aba
+- gcr.io/linkerd-io/controller:git-f1b0983f
+- gcr.io/linkerd-io/cli-bin:dev-6e282186-thomas
+- gcr.io/linkerd-io/cli-bin:edge-18.12.4
+- gcr.io/linkerd-io/cli-bin:git-07cbfe27
+- gcr.io/linkerd-io/cli-bin:git-20bb1bbc
+- gcr.io/linkerd-io/cli-bin:git-612ebe2b
+- gcr.io/linkerd-io/cli-bin:git-a9511aba
+- gcr.io/linkerd-io/cli-bin:git-f1b0983f
 ### 2018-12-21 23:19:25 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20181220-13-02
