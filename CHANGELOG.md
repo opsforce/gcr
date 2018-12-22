@@ -1,3 +1,9 @@
+### 2018-12-22 23:24:03 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181222022808
+- gcr.io/spinnaker-marketplace/rosco:0.8.3-20181222022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20181222022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.1-20181222032508
 ### 2018-12-22 23:21:27 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20181222-09-15
