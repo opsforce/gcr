@@ -1,3 +1,7 @@
+### 2018-12-28 23:24:08 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.1.0-20181228022808
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20181228022808
 ### 2018-12-28 23:23:31 Update:
 
 - gcr.io/istio-release/galley:release-1.0-20181228-09-15
