@@ -1,3 +1,7 @@
+### 2018-12-29 23:24:58 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.0-20181228144432
+- gcr.io/spinnaker-marketplace/kayenta:0.6.0-20181228144432
 ### 2018-12-29 23:24:18 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20181229-09-15
