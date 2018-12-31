@@ -1,3 +1,7 @@
+### 2018-12-31 23:25:11 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.0-20181231022808
+- gcr.io/spinnaker-marketplace/gate:1.5.0-20181231022808
 ### 2018-12-31 23:24:43 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20181231-09-15
