@@ -1,3 +1,6 @@
+### 2019-01-01 23:24:57 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.6.0-20190101022808
 ### 2019-01-01 23:24:30 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190101-09-15
