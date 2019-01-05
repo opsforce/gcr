@@ -1295,6 +1295,7 @@
     "cluster-autoscaler:v1.3.2-beta.2",
     "cluster-autoscaler:v1.3.3",
     "cluster-autoscaler:v1.3.4",
+    "cluster-autoscaler:v1.3.5",
     "cluster-proportional-autoscaler-amd64:0.7.0",
     "cluster-proportional-autoscaler-amd64:0.7.1",
     "cluster-proportional-autoscaler-amd64:0.7.2",
