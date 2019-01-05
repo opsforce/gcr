@@ -1,3 +1,53 @@
+### 2019-01-05 23:33:55 Update:
+
+- gcr.io/linkerd-io/proxy-init:dev-4132382a-thomas
+- gcr.io/linkerd-io/proxy-init:SNAPSHOT-fix-dns-leak
+- gcr.io/linkerd-io/grafana:dev-4132382a-thomas
+- gcr.io/linkerd-io/grafana:git-f5922941
+- gcr.io/linkerd-io/proxy-init:git-74d5fb32
+- gcr.io/linkerd-io/grafana:git-fcd7c9bf
+- gcr.io/linkerd-io/grafana:SNAPSHOT-fix-dns-leak
+- gcr.io/linkerd-io/grafana:git-884ae673
+- gcr.io/linkerd-io/grafana:git-a3973939
+- gcr.io/linkerd-io/grafana:git-a27bb2e0
+- gcr.io/linkerd-io/proxy-init:git-884ae673
+- gcr.io/linkerd-io/proxy-init:git-a3973939
+- gcr.io/linkerd-io/proxy-init:git-a27bb2e0
+- gcr.io/linkerd-io/proxy:dev-4132382a-thomas
+- gcr.io/linkerd-io/proxy-init:git-f5922941
+- gcr.io/linkerd-io/proxy-init:git-fcd7c9bf
+- gcr.io/linkerd-io/proxy:SNAPSHOT-fix-dns-leak
+- gcr.io/linkerd-io/proxy:git-74d5fb32
+- gcr.io/linkerd-io/proxy:git-884ae673
+- gcr.io/linkerd-io/proxy:git-a27bb2e0
+- gcr.io/linkerd-io/proxy:git-f5922941
+- gcr.io/linkerd-io/proxy:git-a3973939
+- gcr.io/linkerd-io/proxy:git-fcd7c9bf
+- gcr.io/linkerd-io/web:SNAPSHOT-fix-dns-leak
+- gcr.io/linkerd-io/web:dev-4132382a-thomas
+- gcr.io/linkerd-io/web:git-74d5fb32
+- gcr.io/linkerd-io/web:git-a27bb2e0
+- gcr.io/linkerd-io/web:git-a3973939
+- gcr.io/linkerd-io/web:git-f5922941
+- gcr.io/linkerd-io/web:git-fcd7c9bf
+- gcr.io/linkerd-io/cli-bin:dev-4132382a-thomas
+- gcr.io/linkerd-io/cli-bin:SNAPSHOT-fix-dns-leak
+- gcr.io/linkerd-io/cli-bin:git-74d5fb32
+- gcr.io/linkerd-io/cli-bin:git-884ae673
+- gcr.io/linkerd-io/cli-bin:git-a27bb2e0
+- gcr.io/linkerd-io/cli-bin:git-a3973939
+- gcr.io/linkerd-io/cli-bin:git-f5922941
+- gcr.io/linkerd-io/grafana:git-74d5fb32
+- gcr.io/linkerd-io/cli-bin:git-fcd7c9bf
+- gcr.io/linkerd-io/controller:SNAPSHOT-fix-dns-leak
+- gcr.io/linkerd-io/controller:dev-4132382a-thomas
+- gcr.io/linkerd-io/controller:git-884ae673
+- gcr.io/linkerd-io/controller:git-74d5fb32
+- gcr.io/linkerd-io/controller:git-a27bb2e0
+- gcr.io/linkerd-io/controller:git-a3973939
+- gcr.io/linkerd-io/controller:git-f5922941
+- gcr.io/linkerd-io/controller:git-fcd7c9bf
+- gcr.io/linkerd-io/web:git-884ae673
 ### 2019-01-05 23:27:09 Update:
 
 - gcr.io/istio-release/install-cni:master-20190105-09-15
