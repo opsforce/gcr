@@ -1,3 +1,9 @@
+### 2019-01-06 23:28:50 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.2.0-20190105142809
+- gcr.io/spinnaker-marketplace/kayenta:0.4.1-20190105115745
+- gcr.io/spinnaker-marketplace/kayenta:0.6.0-20190105142809
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190106022809
 ### 2019-01-06 23:27:46 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190106-09-15
