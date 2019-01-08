@@ -1,3 +1,7 @@
+### 2019-01-08 23:23:38 Update:
+
+- gcr.io/google-containers/node-problem-detector:v0.6.2
+- gcr.io/google-containers/cluster-autoscaler:v1.2.4
 ### 2019-01-07 23:28:07 Update:
 
 - gcr.io/istio-release/citadel:master-20190107-09-15
