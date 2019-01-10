@@ -1,3 +1,7 @@
+### 2019-01-10 23:23:49 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.4.1
+- gcr.io/google-containers/managed-certificate-controller:v0.2
 ### 2019-01-09 23:40:18 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.5.0-20190108142809
