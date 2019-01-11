@@ -1,3 +1,30 @@
+### 2019-01-11 23:42:20 Update:
+
+- gcr.io/linkerd-io/proxy-init:edge-19.1.1
+- gcr.io/linkerd-io/proxy-init:git-f4b57898
+- gcr.io/linkerd-io/proxy-init:git-717bdc07
+- gcr.io/linkerd-io/proxy-init:git-ed3fbd75
+- gcr.io/linkerd-io/web:git-717bdc07
+- gcr.io/linkerd-io/web:edge-19.1.1
+- gcr.io/linkerd-io/grafana:git-f4b57898
+- gcr.io/linkerd-io/grafana:git-717bdc07
+- gcr.io/linkerd-io/grafana:git-ed3fbd75
+- gcr.io/linkerd-io/grafana:edge-19.1.1
+- gcr.io/linkerd-io/web:git-ed3fbd75
+- gcr.io/linkerd-io/web:git-f4b57898
+- gcr.io/linkerd-io/proxy:edge-19.1.1
+- gcr.io/linkerd-io/proxy:git-717bdc07
+- gcr.io/linkerd-io/proxy:git-ed3fbd75
+- gcr.io/linkerd-io/proxy:git-f4b57898
+- gcr.io/linkerd-io/controller:git-717bdc07
+- gcr.io/linkerd-io/controller:edge-19.1.1
+- gcr.io/linkerd-io/controller:git-ed3fbd75
+- gcr.io/linkerd-io/controller:git-f4b57898
+- gcr.io/linkerd-io/cli-bin:edge-19.1.1
+- gcr.io/linkerd-io/cli-bin:git-717bdc07
+- gcr.io/linkerd-io/cli-bin:git-ed3fbd75
+- gcr.io/linkerd-io/cli-bin:git-f4b57898
+- gcr.io/linkerd-io/go-deps:f95a60fe
 ### 2019-01-11 23:39:45 Update:
 
 - gcr.io/istio-release/galley:release-1.1-20190111-09-15
