@@ -1,3 +1,20 @@
+### 2019-01-11 23:47:24 Update:
+
+- gcr.io/spinnaker-marketplace/helloworld:v1
+- gcr.io/spinnaker-marketplace/helloworld:v2
+- gcr.io/spinnaker-marketplace/orca:2.1.1-20190111032509
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190111022808
+- gcr.io/spinnaker-marketplace/helloworld:v3
+- gcr.io/spinnaker-marketplace/orca:2.2.0-20190110204710
+- gcr.io/spinnaker-marketplace/kayenta:0.6.0-20190110142809
+- gcr.io/spinnaker-marketplace/deck:2.6.2-20190110104940
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190110142809
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190110204710
+- gcr.io/spinnaker-marketplace/igor:1.1.0-20190110142809
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.0-20190110204710
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20190110142809
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.3-20190110104940
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.3-20190111032509
 ### 2019-01-11 23:42:20 Update:
 
 - gcr.io/linkerd-io/proxy-init:edge-19.1.1
