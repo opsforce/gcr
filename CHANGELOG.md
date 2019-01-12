@@ -1,3 +1,11 @@
+### 2019-01-12 23:30:12 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-16169a4f
+- gcr.io/linkerd-io/proxy:git-16169a4f
+- gcr.io/linkerd-io/cli-bin:git-16169a4f
+- gcr.io/linkerd-io/grafana:git-16169a4f
+- gcr.io/linkerd-io/web:git-16169a4f
+- gcr.io/linkerd-io/controller:git-16169a4f
 ### 2019-01-12 23:29:34 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190112-09-15
