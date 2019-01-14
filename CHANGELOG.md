@@ -1,3 +1,9 @@
+### 2019-01-14 23:25:27 Update:
+
+- gcr.io/google-containers/kube-state-metrics-amd64:v1.5.0
+- gcr.io/google-containers/kube-state-metrics:v1.5.0
+- gcr.io/google-containers/cluster-autoscaler:v1.12.2
+- gcr.io/google-containers/fluentd-elasticsearch:v2.4.0
 ### 2019-01-13 23:31:06 Update:
 
 - gcr.io/istio-release/galley:release-1.1-20190113-09-15
