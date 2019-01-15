@@ -1,3 +1,6 @@
+### 2019-01-15 23:29:55 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.12.2
 ### 2019-01-15 23:29:40 Update:
 
 - gcr.io/google-containers/kube-controller-manager-amd64:v1.14.0-alpha.1
