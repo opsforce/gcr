@@ -1,3 +1,15 @@
+### 2019-01-16 23:41:33 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190115142808
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190116022808
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190116022808
+- gcr.io/spinnaker-marketplace/halyard:1.13.1-20190115161217
+- gcr.io/spinnaker-marketplace/halyard:1.13.1
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190115142808
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190116020508
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190115104143
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190115142808
+- gcr.io/spinnaker-marketplace/halyard:1.14.0-20190115145153
 ### 2019-01-16 23:32:33 Update:
 
 - gcr.io/istio-release/install-cni:master-20190115-16-14
