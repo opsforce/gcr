@@ -1,3 +1,7 @@
+### 2019-01-16 23:25:06 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:e52657d8d1ef0d12543e14d728b4fc99a67314cb
+- gcr.io/google-containers/coredns:1.3.1
 ### 2019-01-15 23:44:19 Update:
 
 - gcr.io/spinnaker-marketplace/helloworld:v6
