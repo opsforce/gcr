@@ -1,3 +1,29 @@
+### 2019-01-18 23:45:13 Update:
+
+- gcr.io/linkerd-io/proxy-init:edge-19.1.2
+- gcr.io/linkerd-io/proxy-init:git-1989e28d
+- gcr.io/linkerd-io/proxy-init:git-53f8bb5a
+- gcr.io/linkerd-io/proxy-init:git-bd1955c3
+- gcr.io/linkerd-io/proxy:git-1989e28d
+- gcr.io/linkerd-io/proxy:edge-19.1.2
+- gcr.io/linkerd-io/proxy:git-bd1955c3
+- gcr.io/linkerd-io/proxy:git-53f8bb5a
+- gcr.io/linkerd-io/controller:git-1989e28d
+- gcr.io/linkerd-io/controller:edge-19.1.2
+- gcr.io/linkerd-io/controller:git-bd1955c3
+- gcr.io/linkerd-io/controller:git-53f8bb5a
+- gcr.io/linkerd-io/web:edge-19.1.2
+- gcr.io/linkerd-io/web:git-1989e28d
+- gcr.io/linkerd-io/web:git-bd1955c3
+- gcr.io/linkerd-io/web:git-53f8bb5a
+- gcr.io/linkerd-io/cli-bin:edge-19.1.2
+- gcr.io/linkerd-io/cli-bin:git-1989e28d
+- gcr.io/linkerd-io/cli-bin:git-53f8bb5a
+- gcr.io/linkerd-io/cli-bin:git-bd1955c3
+- gcr.io/linkerd-io/grafana:edge-19.1.2
+- gcr.io/linkerd-io/grafana:git-53f8bb5a
+- gcr.io/linkerd-io/grafana:git-1989e28d
+- gcr.io/linkerd-io/grafana:git-bd1955c3
 ### 2019-01-18 23:43:33 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190118-09-15
