@@ -1,3 +1,18 @@
+### 2019-01-19 23:41:20 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190119022808
+- gcr.io/spinnaker-marketplace/gate:1.5.0-20190118142808
+- gcr.io/spinnaker-marketplace/igor:1.1.0-20190118142808
+- gcr.io/spinnaker-marketplace/kayenta:0.6.0-20190118142808
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20190118142808
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190118142808
+- gcr.io/spinnaker-marketplace/rosco:0.9.0-20190118142808
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190119022808
+- gcr.io/spinnaker-marketplace/fiat:1.3.1-20190118142808
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20190118142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190119022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190118142808
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190118142808
 ### 2019-01-19 23:35:12 Update:
 
 - gcr.io/istio-release/galley:release-1.1-20190118-20-49
