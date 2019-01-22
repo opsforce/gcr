@@ -1,3 +1,14 @@
+### 2019-01-22 23:41:14 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190122022809
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20190122022809
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190121142808
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20190121163358
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190121163358
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190122022809
+- gcr.io/spinnaker-marketplace/rosco:0.9.0-20190121142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190122022809
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190121142808
 ### 2019-01-22 23:35:37 Update:
 
 - gcr.io/istio-release/citadel:release-1.1-20190122-09-16
