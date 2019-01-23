@@ -1,3 +1,29 @@
+### 2019-01-23 23:39:39 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-a5628780
+- gcr.io/linkerd-io/grafana:git-eacc09b7
+- gcr.io/linkerd-io/cli-bin:git-db33a60b
+- gcr.io/linkerd-io/grafana:git-db33a60b
+- gcr.io/linkerd-io/cli-bin:git-8463cfda
+- gcr.io/linkerd-io/grafana:git-a5628780
+- gcr.io/linkerd-io/grafana:git-8463cfda
+- gcr.io/linkerd-io/proxy-init:git-a5628780
+- gcr.io/linkerd-io/cli-bin:git-eacc09b7
+- gcr.io/linkerd-io/proxy-init:git-8463cfda
+- gcr.io/linkerd-io/proxy-init:git-db33a60b
+- gcr.io/linkerd-io/proxy-init:git-eacc09b7
+- gcr.io/linkerd-io/proxy:git-8463cfda
+- gcr.io/linkerd-io/proxy:git-a5628780
+- gcr.io/linkerd-io/proxy:git-db33a60b
+- gcr.io/linkerd-io/proxy:git-eacc09b7
+- gcr.io/linkerd-io/web:git-8463cfda
+- gcr.io/linkerd-io/web:git-a5628780
+- gcr.io/linkerd-io/web:git-db33a60b
+- gcr.io/linkerd-io/web:git-eacc09b7
+- gcr.io/linkerd-io/controller:git-8463cfda
+- gcr.io/linkerd-io/controller:git-a5628780
+- gcr.io/linkerd-io/controller:git-db33a60b
+- gcr.io/linkerd-io/controller:git-eacc09b7
 ### 2019-01-23 23:37:45 Update:
 
 - gcr.io/istio-release/node-agent-test:release-1.0-20190123-09-16
