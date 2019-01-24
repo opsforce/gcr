@@ -1,3 +1,7 @@
+### 2019-01-24 23:31:37 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
 ### 2019-01-23 23:50:02 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.3.1-20190122155243
