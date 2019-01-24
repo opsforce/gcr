@@ -1,3 +1,53 @@
+### 2019-01-24 23:45:53 Update:
+
+- gcr.io/linkerd-io/proxy:git-28f662c9
+- gcr.io/linkerd-io/proxy:git-32efab41
+- gcr.io/linkerd-io/proxy:git-0d538b7e
+- gcr.io/linkerd-io/web:git-93322bed
+- gcr.io/linkerd-io/web:git-b227c85a
+- gcr.io/linkerd-io/web:git-0d538b7e
+- gcr.io/linkerd-io/web:git-32efab41
+- gcr.io/linkerd-io/web:git-cce6183c
+- gcr.io/linkerd-io/web:git-28f662c9
+- gcr.io/linkerd-io/web:git-c9ac77cd
+- gcr.io/linkerd-io/web:git-e7556d7e
+- gcr.io/linkerd-io/cli-bin:git-0d538b7e
+- gcr.io/linkerd-io/cli-bin:git-28f662c9
+- gcr.io/linkerd-io/cli-bin:git-32efab41
+- gcr.io/linkerd-io/cli-bin:git-93322bed
+- gcr.io/linkerd-io/cli-bin:git-b227c85a
+- gcr.io/linkerd-io/cli-bin:git-c9ac77cd
+- gcr.io/linkerd-io/cli-bin:git-cce6183c
+- gcr.io/linkerd-io/grafana:git-0d538b7e
+- gcr.io/linkerd-io/grafana:git-28f662c9
+- gcr.io/linkerd-io/cli-bin:git-e7556d7e
+- gcr.io/linkerd-io/grafana:git-32efab41
+- gcr.io/linkerd-io/grafana:git-b227c85a
+- gcr.io/linkerd-io/grafana:git-93322bed
+- gcr.io/linkerd-io/grafana:git-c9ac77cd
+- gcr.io/linkerd-io/grafana:git-cce6183c
+- gcr.io/linkerd-io/proxy:git-93322bed
+- gcr.io/linkerd-io/grafana:git-e7556d7e
+- gcr.io/linkerd-io/proxy:git-c9ac77cd
+- gcr.io/linkerd-io/proxy:git-cce6183c
+- gcr.io/linkerd-io/proxy:git-b227c85a
+- gcr.io/linkerd-io/proxy-init:git-0d538b7e
+- gcr.io/linkerd-io/proxy:git-e7556d7e
+- gcr.io/linkerd-io/proxy-init:git-28f662c9
+- gcr.io/linkerd-io/proxy-init:git-32efab41
+- gcr.io/linkerd-io/proxy-init:git-93322bed
+- gcr.io/linkerd-io/proxy-init:git-b227c85a
+- gcr.io/linkerd-io/controller:git-0d538b7e
+- gcr.io/linkerd-io/proxy-init:git-cce6183c
+- gcr.io/linkerd-io/proxy-init:git-c9ac77cd
+- gcr.io/linkerd-io/proxy-init:git-e7556d7e
+- gcr.io/linkerd-io/controller:git-e7556d7e
+- gcr.io/linkerd-io/controller:git-28f662c9
+- gcr.io/linkerd-io/controller:git-93322bed
+- gcr.io/linkerd-io/controller:git-32efab41
+- gcr.io/linkerd-io/controller:git-b227c85a
+- gcr.io/linkerd-io/controller:git-c9ac77cd
+- gcr.io/linkerd-io/controller:git-cce6183c
 ### 2019-01-24 23:42:23 Update:
 
 - gcr.io/istio-release/install-cni:master-20190124-09-16
