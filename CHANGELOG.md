@@ -1,3 +1,14 @@
+### 2019-01-26 00:05:52 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190124142807
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190125022808
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190124142807
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20190125022808
+- gcr.io/spinnaker-marketplace/echo:2.3.0-20190124142807
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190124142807
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190125022808
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190124152453
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190125020507
 ### 2019-01-25 23:57:59 Update:
 
 - gcr.io/linkerd-io/proxy-init:edge-19.1.3
