@@ -1,3 +1,8 @@
+### 2019-01-28 23:40:17 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190127142807
+- gcr.io/spinnaker-marketplace/front50:0.14.1-20190128101926
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.5-20190128101926
 ### 2019-01-28 23:38:11 Update:
 
 - gcr.io/istio-release/install-cni:master-20190128-09-16
