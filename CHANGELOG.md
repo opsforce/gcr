@@ -1,3 +1,39 @@
+### 2019-01-30 00:00:18 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.1.0-20190128143242
+- gcr.io/spinnaker-marketplace/front50:0.15.0-20190128143242
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190128193414
+- gcr.io/spinnaker-marketplace/igor:1.1.1-20190128193414
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190128171733
+- gcr.io/spinnaker-marketplace/rosco:0.9.1-20190128171733
+- gcr.io/spinnaker-marketplace/igor:1.1.1-20190128171733
+- gcr.io/spinnaker-marketplace/kayenta:0.7.0-20190128193414
+- gcr.io/spinnaker-marketplace/deck:2.6.5-20190128135214
+- gcr.io/spinnaker-marketplace/rosco:0.9.1-20190128193414
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190128143242
+- gcr.io/spinnaker-marketplace/kayenta:0.7.0-20190128171733
+- gcr.io/spinnaker-marketplace/deck:2.7.1-20190128175742
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190128171733
+- gcr.io/spinnaker-marketplace/deck:2.7.0-20190128142241
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190128171733
+- gcr.io/spinnaker-marketplace/gate:1.5.0-20190128143242
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190128193414
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190128171733
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190128134206
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190128193414
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190128171733
+- gcr.io/spinnaker-marketplace/orca:2.3.0-20190128143242
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.1-20190128171733
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190128193414
+- gcr.io/spinnaker-marketplace/fiat:1.3.2-20190128153726
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190128134206
+- gcr.io/spinnaker-marketplace/fiat:1.3.3-20190128193414
+- gcr.io/spinnaker-marketplace/fiat:1.3.3-20190128171733
+- gcr.io/spinnaker-marketplace/clouddriver:4.3.0-20190128143242
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190128171733
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190128193414
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190128193414
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190128143242
 ### 2019-01-29 23:47:30 Update:
 
 - gcr.io/linkerd-io/proxy:git-2691dda5
