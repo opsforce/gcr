@@ -1,3 +1,9 @@
+### 2019-01-30 23:56:40 Update:
+
+- gcr.io/distroless/java:8
+- gcr.io/distroless/java:8-debug
+- gcr.io/distroless/java:11-debug
+- gcr.io/distroless/java:11
 ### 2019-01-30 23:56:04 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.4.0-20190129171635
