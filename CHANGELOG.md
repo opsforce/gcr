@@ -1,3 +1,6 @@
+### 2019-01-30 23:33:28 Update:
+
+- gcr.io/google-containers/gke-cloud-kms-plugin:0.1
 ### 2019-01-30 00:00:18 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.1.0-20190128143242
