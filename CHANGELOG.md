@@ -1,3 +1,38 @@
+### 2019-02-01 00:07:41 Update:
+
+- gcr.io/spinnaker-marketplace/rosco:0.10.0-20190130144227
+- gcr.io/spinnaker-marketplace/rosco:0.9.1-20190130130050
+- gcr.io/spinnaker-marketplace/rosco:0.10.0-20190130161645
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190130130050
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190130161645
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190130163157
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190130142807
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190130113502
+- gcr.io/spinnaker-marketplace/igor:1.1.1-20190130113502
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.6-20190130153044
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190130161645
+- gcr.io/spinnaker-marketplace/igor:1.1.1-20190130161645
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190130113502
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190130130050
+- gcr.io/spinnaker-marketplace/echo:2.4.0-20190130113502
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.8-20190130152235
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190130142807
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190130113502
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190130161645
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190130163157
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190130142807
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190130113502
+- gcr.io/spinnaker-marketplace/deck:2.7.1-20190131030608
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190130161645
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190131022808
+- gcr.io/spinnaker-marketplace/fiat:1.3.3-20190130161645
+- gcr.io/spinnaker-marketplace/front50:0.16.0-20190130161645
+- gcr.io/spinnaker-marketplace/fiat:1.3.3-20190130113502
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190130113502
+- gcr.io/spinnaker-marketplace/fiat:1.4.0-20190131022808
+- gcr.io/spinnaker-marketplace/kayenta:0.7.0-20190130161645
+- gcr.io/spinnaker-marketplace/kayenta:0.7.0-20190130130050
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190130161645
 ### 2019-01-31 23:48:15 Update:
 
 - gcr.io/linkerd-io/cni-plugin:master
