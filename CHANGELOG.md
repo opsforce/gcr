@@ -1,3 +1,26 @@
+### 2019-01-31 23:36:22 Update:
+
+- gcr.io/google-containers/debian-base-arm:0.4.1
+- gcr.io/google-containers/debian-base:0.4.1
+- gcr.io/google-containers/debian-base-arm64:0.4.1
+- gcr.io/google-containers/debian-base-s390x:0.4.1
+- gcr.io/google-containers/debian-base-amd64:0.4.1
+- gcr.io/google-containers/debian-base-ppc64le:0.4.1
+- gcr.io/google-containers/debian-hyperkube-base:0.12.1
+- gcr.io/google-containers/debian-iptables:v11.0.1
+- gcr.io/google-containers/debian-iptables-amd64:v11.0.1
+- gcr.io/google-containers/debian-hyperkube-base-amd64:0.12.1
+- gcr.io/google-containers/debian-iptables-arm:v11.0.1
+- gcr.io/google-containers/debian-iptables-ppc64le:v11.0.1
+- gcr.io/google-containers/debian-iptables-arm64:v11.0.1
+- gcr.io/google-containers/debian-iptables-s390x:v11.0.1
+- gcr.io/google-containers/debian-hyperkube-base-arm:0.12.1
+- gcr.io/google-containers/vpa-admission-controller:0.3.1
+- gcr.io/google-containers/debian-hyperkube-base-arm64:0.12.1
+- gcr.io/google-containers/debian-hyperkube-base-s390x:0.12.1
+- gcr.io/google-containers/vpa-recommender:0.3.1
+- gcr.io/google-containers/vpa-updater:0.3.1
+- gcr.io/google-containers/debian-hyperkube-base-ppc64le:0.12.1
 ### 2019-01-30 23:56:40 Update:
 
 - gcr.io/distroless/java:8
