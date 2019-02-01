@@ -1,3 +1,19 @@
+### 2019-02-01 23:41:46 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-a283dabb
+- gcr.io/linkerd-io/proxy-init:edge-19.1.4
+- gcr.io/linkerd-io/proxy:git-a283dabb
+- gcr.io/linkerd-io/proxy:edge-19.1.4
+- gcr.io/linkerd-io/web:git-a283dabb
+- gcr.io/linkerd-io/cni-plugin:edge-19.1.4
+- gcr.io/linkerd-io/cni-plugin:git-a283dabb
+- gcr.io/linkerd-io/web:edge-19.1.4
+- gcr.io/linkerd-io/cli-bin:edge-19.1.4
+- gcr.io/linkerd-io/controller:git-a283dabb
+- gcr.io/linkerd-io/cli-bin:git-a283dabb
+- gcr.io/linkerd-io/grafana:git-a283dabb
+- gcr.io/linkerd-io/grafana:edge-19.1.4
+- gcr.io/linkerd-io/controller:edge-19.1.4
 ### 2019-02-01 23:40:26 Update:
 
 - gcr.io/istio-release/sidecar_injector:master-20190201-09-16
