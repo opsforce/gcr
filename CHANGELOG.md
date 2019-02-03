@@ -1,3 +1,7 @@
+### 2019-02-03 23:42:54 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190202142809
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190203022808
 ### 2019-02-03 23:42:12 Update:
 
 - gcr.io/linkerd-io/cli-bin:git-0783c26c
