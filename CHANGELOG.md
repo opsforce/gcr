@@ -1,3 +1,52 @@
+### 2019-02-05 23:47:51 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-3a139d02
+- gcr.io/linkerd-io/proxy-init:git-44e31f0f
+- gcr.io/linkerd-io/cni-plugin:git-4798ad3f
+- gcr.io/linkerd-io/proxy-init:git-4798ad3f
+- gcr.io/linkerd-io/cni-plugin:git-3a139d02
+- gcr.io/linkerd-io/cni-plugin:git-66070c26
+- gcr.io/linkerd-io/proxy-init:git-3d3ec9c2
+- gcr.io/linkerd-io/cni-plugin:git-44e31f0f
+- gcr.io/linkerd-io/proxy-init:git-793c7465
+- gcr.io/linkerd-io/proxy-init:git-54b0456f
+- gcr.io/linkerd-io/cni-plugin:git-3d3ec9c2
+- gcr.io/linkerd-io/proxy-init:git-66070c26
+- gcr.io/linkerd-io/controller:git-3d3ec9c2
+- gcr.io/linkerd-io/controller:git-3a139d02
+- gcr.io/linkerd-io/proxy:git-3a139d02
+- gcr.io/linkerd-io/go-deps:79da6554
+- gcr.io/linkerd-io/controller:git-4798ad3f
+- gcr.io/linkerd-io/controller:git-44e31f0f
+- gcr.io/linkerd-io/proxy:git-3d3ec9c2
+- gcr.io/linkerd-io/controller:git-54b0456f
+- gcr.io/linkerd-io/controller:git-66070c26
+- gcr.io/linkerd-io/proxy:git-44e31f0f
+- gcr.io/linkerd-io/controller:git-793c7465
+- gcr.io/linkerd-io/proxy:git-4798ad3f
+- gcr.io/linkerd-io/proxy:git-54b0456f
+- gcr.io/linkerd-io/proxy:git-66070c26
+- gcr.io/linkerd-io/proxy:git-793c7465
+- gcr.io/linkerd-io/grafana:git-3d3ec9c2
+- gcr.io/linkerd-io/grafana:git-3a139d02
+- gcr.io/linkerd-io/grafana:git-54b0456f
+- gcr.io/linkerd-io/grafana:git-793c7465
+- gcr.io/linkerd-io/grafana:git-44e31f0f
+- gcr.io/linkerd-io/grafana:git-4798ad3f
+- gcr.io/linkerd-io/grafana:git-66070c26
+- gcr.io/linkerd-io/web:git-3a139d02
+- gcr.io/linkerd-io/web:git-3d3ec9c2
+- gcr.io/linkerd-io/web:git-44e31f0f
+- gcr.io/linkerd-io/web:git-54b0456f
+- gcr.io/linkerd-io/web:git-793c7465
+- gcr.io/linkerd-io/web:git-66070c26
+- gcr.io/linkerd-io/web:git-4798ad3f
+- gcr.io/linkerd-io/cli-bin:git-3a139d02
+- gcr.io/linkerd-io/cli-bin:git-44e31f0f
+- gcr.io/linkerd-io/cli-bin:git-4798ad3f
+- gcr.io/linkerd-io/cli-bin:git-54b0456f
+- gcr.io/linkerd-io/cli-bin:git-66070c26
+- gcr.io/linkerd-io/cli-bin:git-793c7465
 ### 2019-02-05 23:43:47 Update:
 
 - gcr.io/istio-release/mixer:release-1.0-20190205-09-16
