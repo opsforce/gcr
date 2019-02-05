@@ -1,3 +1,11 @@
+### 2019-02-05 23:53:36 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.2-20190204142808
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190205022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190205022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190204142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190204142808
+- gcr.io/spinnaker-marketplace/halyard:1.15.0-20190204142808
 ### 2019-02-05 23:47:51 Update:
 
 - gcr.io/linkerd-io/proxy-init:git-3a139d02
