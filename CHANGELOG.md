@@ -1,3 +1,8 @@
+### 2019-02-07 23:46:34 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190207022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190206135506
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190206144304
 ### 2019-02-07 23:45:14 Update:
 
 - gcr.io/linkerd-io/proxy-init:git-e531655d
