@@ -1,3 +1,8 @@
+### 2019-02-08 23:38:44 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:fbca48342ca066be633c30f683b70b7c8ea5d6d0
+- gcr.io/google-containers/gcsweb:v1.1.0
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:fbca48342ca066be633c30f683b70b7c8ea5d6d0
 ### 2019-02-07 23:46:34 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.8.0-20190207022808
