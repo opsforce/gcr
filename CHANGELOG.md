@@ -1,3 +1,6 @@
+### 2019-02-11 23:43:04 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190211022807
 ### 2019-02-11 23:42:44 Update:
 
 - gcr.io/istio-release/install-cni:master-20190211-09-16
