@@ -1,3 +1,7 @@
+### 2019-02-14 23:38:18 Update:
+
+- gcr.io/google-containers/gke-cloud-kms-plugin:0.2
+- gcr.io/google-containers/gke-cloud-kms-sync:0.1
 ### 2019-02-14 00:06:18 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.8.0-20190212154025
