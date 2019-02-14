@@ -1,3 +1,6 @@
+### 2019-02-14 23:38:33 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.0-rc.1
 ### 2019-02-14 23:38:18 Update:
 
 - gcr.io/google-containers/gke-cloud-kms-plugin:0.2
