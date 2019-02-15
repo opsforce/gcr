@@ -1,3 +1,7 @@
+### 2019-02-15 23:38:46 Update:
+
+- gcr.io/google-containers/git-sync:v3.1.1
+- gcr.io/google-containers/cluster-autoscaler:v1.3.7
 ### 2019-02-15 00:00:29 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.4.0-20190213124225
