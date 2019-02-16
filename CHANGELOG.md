@@ -1,3 +1,6 @@
+### 2019-02-16 23:56:07 Update:
+
+- gcr.io/distroless/static:5e309c98ee3885ee418af6d7443275f8b3a42e07
 ### 2019-02-16 23:55:58 Update:
 
 - gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190216022807

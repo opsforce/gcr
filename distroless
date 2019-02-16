@@ -17,5 +17,6 @@
     "python2.7:latest",
     "python3:debug",
     "python3:latest",
+    "static:5e309c98ee3885ee418af6d7443275f8b3a42e07",
     "static:latest"
 ]
