@@ -1,3 +1,7 @@
+### 2019-02-17 23:42:37 Update:
+
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.2-20190217030608
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190216142808
 ### 2019-02-17 23:41:13 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190217-09-16
