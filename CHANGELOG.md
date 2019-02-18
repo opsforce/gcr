@@ -1,3 +1,6 @@
+### 2019-02-18 23:40:17 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.4.2
 ### 2019-02-17 23:42:37 Update:
 
 - gcr.io/spinnaker-marketplace/monitoring-daemon:0.11.2-20190217030608
