@@ -1,3 +1,6 @@
+### 2019-02-20 00:00:37 Update:
+
+- gcr.io/distroless/static:e0330762672c79ab165c85294f3cd02d4a556ef3
 ### 2019-02-20 00:00:29 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.6.0-20190219022808
