@@ -1,3 +1,8 @@
+### 2019-02-20 00:00:29 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.6.0-20190219022808
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190218142809
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190219022808
 ### 2019-02-19 23:59:35 Update:
 
 - gcr.io/linkerd-io/web:git-f4a55ede
