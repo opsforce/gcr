@@ -1,3 +1,6 @@
+### 2019-02-20 23:43:06 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.0-rc.2
 ### 2019-02-20 23:42:51 Update:
 
 - gcr.io/google-containers/kube-proxy-s390x:v1.14.0-beta.0
