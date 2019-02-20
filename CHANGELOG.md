@@ -1,3 +1,24 @@
+### 2019-02-20 23:42:51 Update:
+
+- gcr.io/google-containers/kube-proxy-s390x:v1.14.0-beta.0
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.14.0-beta.0
+- gcr.io/google-containers/vpa-updater:0.4.0
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.14.0-beta.0
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.14.0-beta.0
+- gcr.io/google-containers/kube-scheduler:v1.14.0-beta.0
+- gcr.io/google-containers/kube-proxy:v1.14.0-beta.0
+- gcr.io/google-containers/kube-scheduler-s390x:v1.14.0-beta.0
+- gcr.io/google-containers/kube-apiserver-s390x:v1.14.0-beta.0
+- gcr.io/google-containers/kube-controller-manager:v1.14.0-beta.0
+- gcr.io/google-containers/vpa-admission-controller:0.4.0
+- gcr.io/google-containers/vpa-recommender:0.4.0
+- gcr.io/google-containers/cloud-controller-manager:v1.14.0-beta.0
+- gcr.io/google-containers/cloud-controller-manager-s390x:v1.14.0-beta.0
+- gcr.io/google-containers/kube-apiserver:v1.14.0-beta.0
+- gcr.io/google-containers/hyperkube-s390x:v1.14.0-beta.0
+- gcr.io/google-containers/conformance-s390x:v1.14.0-beta.0
+- gcr.io/google-containers/hyperkube:v1.14.0-beta.0
+- gcr.io/google-containers/conformance:v1.14.0-beta.0
 ### 2019-02-20 00:00:37 Update:
 
 - gcr.io/distroless/static:e0330762672c79ab165c85294f3cd02d4a556ef3
