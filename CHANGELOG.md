@@ -1,3 +1,7 @@
+### 2019-02-20 23:55:25 Update:
+
+- gcr.io/distroless/static:158ae9cbc2c8f03d944db2b5ee08b5a4cbba9371
+- gcr.io/distroless/static:2919676567198597ec4985fff4cd127a0555a03f
 ### 2019-02-20 23:55:18 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.3.1-20190220030610
