@@ -1,3 +1,7 @@
+### 2019-02-22 00:12:26 Update:
+
+- gcr.io/distroless/static:e6d19e583688a4948a3a6f0093daccc6e731e297
+- gcr.io/distroless/static:3507da42b7c2cbe2f1a17ca38f21659898623860
 ### 2019-02-22 00:12:13 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.8.0-20190221022810
