@@ -1,3 +1,6 @@
+### 2019-02-21 23:41:51 Update:
+
+- gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.9.0
 ### 2019-02-20 23:55:25 Update:
 
 - gcr.io/distroless/static:158ae9cbc2c8f03d944db2b5ee08b5a4cbba9371
