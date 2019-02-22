@@ -1,3 +1,6 @@
+### 2019-02-22 23:41:36 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:8ff1eff9f6e32b89190b9c66cbaaffc90666b85a
 ### 2019-02-22 00:12:26 Update:
 
 - gcr.io/distroless/static:e6d19e583688a4948a3a6f0093daccc6e731e297
