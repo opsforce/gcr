@@ -1,3 +1,12 @@
+### 2019-02-25 23:51:07 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-f7435800
+- gcr.io/linkerd-io/cni-plugin:git-f7435800
+- gcr.io/linkerd-io/web:git-f7435800
+- gcr.io/linkerd-io/controller:git-f7435800
+- gcr.io/linkerd-io/grafana:git-f7435800
+- gcr.io/linkerd-io/proxy:git-f7435800
+- gcr.io/linkerd-io/cli-bin:git-f7435800
 ### 2019-02-25 23:50:17 Update:
 
 - gcr.io/istio-release/citadel:release-1.0-20190225-09-16
