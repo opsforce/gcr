@@ -1,3 +1,7 @@
+### 2019-02-26 23:47:02 Update:
+
+- gcr.io/google-containers/event-exporter:v0.2.4
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.5.0
 ### 2019-02-25 23:51:25 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.4.0-20190225022809
