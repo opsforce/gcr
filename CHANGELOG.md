@@ -1,3 +1,6 @@
+### 2019-02-28 23:56:55 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.0
 ### 2019-02-28 23:56:39 Update:
 
 - gcr.io/google-containers/kube-apiserver-s390x:v1.13.4
