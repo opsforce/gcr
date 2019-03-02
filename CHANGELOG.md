@@ -1,3 +1,13 @@
+### 2019-03-02 23:58:37 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190301152808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190301152808
+- gcr.io/spinnaker-marketplace/orca:2.4.0-20190302022807
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.12.0-20190301122807
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190301122807
+- gcr.io/spinnaker-marketplace/igor:1.0.1-20190301112920
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190301182809
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190301182809
 ### 2019-03-02 23:55:38 Update:
 
 - gcr.io/linkerd-io/grafana:git-8f531666
