@@ -1,3 +1,12 @@
+### 2019-03-03 23:52:59 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-ec51ccf3
+- gcr.io/linkerd-io/proxy-init:git-ec51ccf3
+- gcr.io/linkerd-io/proxy:git-ec51ccf3
+- gcr.io/linkerd-io/grafana:git-ec51ccf3
+- gcr.io/linkerd-io/web:git-ec51ccf3
+- gcr.io/linkerd-io/controller:git-ec51ccf3
+- gcr.io/linkerd-io/cni-plugin:git-ec51ccf3
 ### 2019-03-03 23:52:15 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190303-09-16
