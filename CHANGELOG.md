@@ -1,3 +1,6 @@
+### 2019-03-04 23:47:56 Update:
+
+- gcr.io/google-containers/kubelet-to-gcm:1.2.9
 ### 2019-03-03 23:53:27 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.7.5-20190303030608
