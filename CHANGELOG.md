@@ -1,3 +1,7 @@
+### 2019-03-05 00:02:32 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.0-20190303152807
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.0-20190303152807
 ### 2019-03-05 00:00:15 Update:
 
 - gcr.io/linkerd-io/cni-plugin:git-6bf9b69d
