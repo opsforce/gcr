@@ -1,3 +1,7 @@
+### 2019-03-07 23:51:40 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.3.0
+- gcr.io/google-containers/cluster-autoscaler:v1.2.5
 ### 2019-03-07 00:09:52 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.2.0-20190305114559
