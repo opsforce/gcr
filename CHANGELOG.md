@@ -1,3 +1,9 @@
+### 2019-03-08 23:50:35 Update:
+
+- gcr.io/google-containers/kubelet-to-gcm:1.2.10
+- gcr.io/google-containers/cluster-autoscaler:v1.14.0-beta.1
+- gcr.io/google-containers/cluster-autoscaler:v1.12.3
+- gcr.io/google-containers/cluster-autoscaler:v1.3.8
 ### 2019-03-08 00:26:20 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.7.5-20190306144557
