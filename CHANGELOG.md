@@ -1,3 +1,11 @@
+### 2019-03-09 23:57:06 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-8d7a274d
+- gcr.io/linkerd-io/grafana:git-8d7a274d
+- gcr.io/linkerd-io/cli-bin:git-49d91768
+- gcr.io/linkerd-io/web:git-8d7a274d
+- gcr.io/linkerd-io/controller:git-8d7a274d
+- gcr.io/linkerd-io/proxy:git-8d7a274d
 ### 2019-03-09 23:56:31 Update:
 
 - gcr.io/istio-release/galley:release-1.0-20190309-09-16
