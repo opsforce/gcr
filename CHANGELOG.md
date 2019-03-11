@@ -1,3 +1,6 @@
+### 2019-03-11 23:54:35 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.13.2
 ### 2019-03-10 23:56:14 Update:
 
 - gcr.io/spinnaker-marketplace/kayenta:0.7.0-20190309182808
