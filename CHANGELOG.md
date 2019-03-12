@@ -1,3 +1,27 @@
+### 2019-03-12 23:59:28 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-7ec53edc
+- gcr.io/linkerd-io/proxy-init:git-e5d24607
+- gcr.io/linkerd-io/proxy-init:git-52d44b6d
+- gcr.io/linkerd-io/proxy:git-52d44b6d
+- gcr.io/linkerd-io/proxy:git-7ec53edc
+- gcr.io/linkerd-io/proxy:git-e5d24607
+- gcr.io/linkerd-io/grafana:git-52d44b6d
+- gcr.io/linkerd-io/grafana:git-7ec53edc
+- gcr.io/linkerd-io/cli-bin:git-52d44b6d
+- gcr.io/linkerd-io/grafana:git-e5d24607
+- gcr.io/linkerd-io/cli-bin:git-e5d24607
+- gcr.io/linkerd-io/cli-bin:git-7ec53edc
+- gcr.io/linkerd-io/cni-plugin:git-52d44b6d
+- gcr.io/linkerd-io/cni-plugin:git-7ec53edc
+- gcr.io/linkerd-io/web:git-52d44b6d
+- gcr.io/linkerd-io/cni-plugin:git-e5d24607
+- gcr.io/linkerd-io/web:git-7ec53edc
+- gcr.io/linkerd-io/web:git-e5d24607
+- gcr.io/linkerd-io/controller:git-52d44b6d
+- gcr.io/linkerd-io/controller:dev-52d44b6d-thomas
+- gcr.io/linkerd-io/controller:git-7ec53edc
+- gcr.io/linkerd-io/controller:git-e5d24607
 ### 2019-03-12 23:57:27 Update:
 
 - gcr.io/istio-release/install-cni:master-20190312-09-16
