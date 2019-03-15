@@ -1,3 +1,8 @@
+### 2019-03-15 23:52:27 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.5.1
+- gcr.io/google-containers/k8s-tpu-operator:0585ea2d8131291cc041329e32bb7c81263cf7c5
+- gcr.io/google-containers/cluster-autoscaler:v1.14.0-beta.2
 ### 2019-03-15 00:14:26 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.5.0-20190313214313
