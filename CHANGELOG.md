@@ -1,3 +1,8 @@
+### 2019-03-16 23:55:43 Update:
+
+- gcr.io/google-containers/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6
+- gcr.io/google-containers/gke-metadata-server:v0.2.2
+- gcr.io/google-containers/kube-cross:v1.12.1-1
 ### 2019-03-16 00:07:00 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.8.0-20190315022807
