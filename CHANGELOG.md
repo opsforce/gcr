@@ -1,3 +1,26 @@
+### 2019-03-18 00:01:03 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-915a2c25
+- gcr.io/linkerd-io/proxy-init:git-284bf2f3
+- gcr.io/linkerd-io/web:git-915a2c25
+- gcr.io/linkerd-io/cni-plugin:git-284bf2f3
+- gcr.io/linkerd-io/web:git-705747f6
+- gcr.io/linkerd-io/proxy-init:git-705747f6
+- gcr.io/linkerd-io/cni-plugin:git-705747f6
+- gcr.io/linkerd-io/grafana:git-705747f6
+- gcr.io/linkerd-io/grafana:git-915a2c25
+- gcr.io/linkerd-io/cni-plugin:git-915a2c25
+- gcr.io/linkerd-io/grafana:git-284bf2f3
+- gcr.io/linkerd-io/web:git-284bf2f3
+- gcr.io/linkerd-io/cli-bin:git-284bf2f3
+- gcr.io/linkerd-io/proxy:git-284bf2f3
+- gcr.io/linkerd-io/cli-bin:git-705747f6
+- gcr.io/linkerd-io/proxy:git-915a2c25
+- gcr.io/linkerd-io/cli-bin:git-915a2c25
+- gcr.io/linkerd-io/proxy:git-705747f6
+- gcr.io/linkerd-io/controller:git-284bf2f3
+- gcr.io/linkerd-io/controller:git-705747f6
+- gcr.io/linkerd-io/controller:git-915a2c25
 ### 2019-03-17 23:59:11 Update:
 
 - gcr.io/istio-release/citadel:release-1.1-20190317-09-16
