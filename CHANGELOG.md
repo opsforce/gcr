@@ -1,3 +1,8 @@
+### 2019-03-19 23:56:38 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.5.1
+- gcr.io/google-containers/cluster-autoscaler:v1.14.0
+- gcr.io/google-containers/kube-cross:v1.12.1-2
 ### 2019-03-19 00:00:36 Update:
 
 - gcr.io/linkerd-io/web:git-3d5e7eeb
