@@ -1,3 +1,12 @@
+### 2019-03-22 00:03:34 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-4eb89bb8
+- gcr.io/linkerd-io/web:git-4eb89bb8
+- gcr.io/linkerd-io/cni-plugin:git-4eb89bb8
+- gcr.io/linkerd-io/proxy:git-4eb89bb8
+- gcr.io/linkerd-io/cli-bin:git-4eb89bb8
+- gcr.io/linkerd-io/controller:git-4eb89bb8
+- gcr.io/linkerd-io/grafana:git-4eb89bb8
 ### 2019-03-22 00:02:43 Update:
 
 - gcr.io/istio-release/install-cni:master-20190321-09-16
