@@ -1,3 +1,7 @@
+### 2019-03-21 23:56:28 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:78c403330522711939493a920c9df5157c08289b
+- gcr.io/google-containers/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19
 ### 2019-03-21 00:19:24 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.8.0-20190319153727
