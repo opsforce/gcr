@@ -1,3 +1,7 @@
+### 2019-03-22 23:55:29 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.13.1-rc.1
+- gcr.io/kubernetes-helm/tiller:v2.13.1
 ### 2019-03-22 00:10:46 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.2.0-20190320182809
