@@ -1,3 +1,26 @@
+### 2019-03-24 00:04:20 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-da033074
+- gcr.io/linkerd-io/proxy-init:git-eafd7482
+- gcr.io/linkerd-io/proxy-init:edge-19.3.3
+- gcr.io/linkerd-io/proxy:edge-19.3.3
+- gcr.io/linkerd-io/cli-bin:git-da033074
+- gcr.io/linkerd-io/cli-bin:git-eafd7482
+- gcr.io/linkerd-io/cli-bin:edge-19.3.3
+- gcr.io/linkerd-io/cni-plugin:git-da033074
+- gcr.io/linkerd-io/cni-plugin:git-eafd7482
+- gcr.io/linkerd-io/proxy:git-da033074
+- gcr.io/linkerd-io/cni-plugin:edge-19.3.3
+- gcr.io/linkerd-io/proxy:git-eafd7482
+- gcr.io/linkerd-io/web:edge-19.3.3
+- gcr.io/linkerd-io/web:git-da033074
+- gcr.io/linkerd-io/web:git-eafd7482
+- gcr.io/linkerd-io/controller:git-da033074
+- gcr.io/linkerd-io/grafana:git-da033074
+- gcr.io/linkerd-io/controller:edge-19.3.3
+- gcr.io/linkerd-io/grafana:edge-19.3.3
+- gcr.io/linkerd-io/grafana:git-eafd7482
+- gcr.io/linkerd-io/controller:git-eafd7482
 ### 2019-03-24 00:02:32 Update:
 
 - gcr.io/istio-release/install-cni:master-20190323-09-16
