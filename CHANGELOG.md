@@ -1,3 +1,7 @@
+### 2019-03-26 00:17:08 Update:
+
+- gcr.io/linkerd-io/proxy-init:ver-reconnect-backoff
+- gcr.io/linkerd-io/proxy:ver-reconnect-backoff
 ### 2019-03-26 00:16:51 Update:
 
 - gcr.io/istio-release/install-cni:master-20190325-09-16
