@@ -1,3 +1,17 @@
+### 2019-03-27 00:44:27 Update:
+
+- gcr.io/distroless/static:96fa99b145dc5ef3934daa784e0d82cf37a263b6
+- gcr.io/distroless/static:9ec652b165c5e2a8b69dc7db26f2d949527d494c
+- gcr.io/distroless/static:acf95cef37c3da0221eb9ad2313557ed7b5c34df
+- gcr.io/distroless/static:5eb0f8a01ed8046cefc3a7ca9cf5b95bad296dcf
+- gcr.io/distroless/cc:5eb0f8a01ed8046cefc3a7ca9cf5b95bad296dcf
+- gcr.io/distroless/cc:9ec652b165c5e2a8b69dc7db26f2d949527d494c
+- gcr.io/distroless/cc:acf95cef37c3da0221eb9ad2313557ed7b5c34df
+- gcr.io/distroless/base:96fa99b145dc5ef3934daa784e0d82cf37a263b6
+- gcr.io/distroless/base:9ec652b165c5e2a8b69dc7db26f2d949527d494c
+- gcr.io/distroless/base:5eb0f8a01ed8046cefc3a7ca9cf5b95bad296dcf
+- gcr.io/distroless/base:acf95cef37c3da0221eb9ad2313557ed7b5c34df
+- gcr.io/distroless/cc:96fa99b145dc5ef3934daa784e0d82cf37a263b6
 ### 2019-03-27 00:44:15 Update:
 
 - gcr.io/spinnaker-marketplace/rosco:0.11.1-20190325173523
