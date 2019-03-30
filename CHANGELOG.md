@@ -1,3 +1,9 @@
+### 2019-03-31 00:00:33 Update:
+
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.5.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le:1.5.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.5.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm:1.5.0
 ### 2019-03-30 00:22:29 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.6.0-20190328162809
