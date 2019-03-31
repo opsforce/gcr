@@ -1,3 +1,6 @@
+### 2019-04-01 00:06:45 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190331012808
 ### 2019-04-01 00:06:16 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190331-09-16
