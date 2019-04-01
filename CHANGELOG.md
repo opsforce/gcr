@@ -1,3 +1,7 @@
+### 2019-04-02 00:08:47 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.6.0-20190331142808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190401012809
 ### 2019-04-02 00:07:17 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190401-09-16
