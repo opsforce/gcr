@@ -1,3 +1,13 @@
+### 2019-04-03 00:17:44 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.6.0-20190402050308
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190402012808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190401142808
+- gcr.io/spinnaker-marketplace/gate:1.7.0-20190402050308
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190401162808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190402103230
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190401142808
+- gcr.io/spinnaker-marketplace/halyard:1.19.0-20190402012808
 ### 2019-04-03 00:13:49 Update:
 
 - gcr.io/linkerd-io/proxy:git-38f504be
