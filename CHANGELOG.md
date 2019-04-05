@@ -1,3 +1,7 @@
+### 2019-04-06 00:03:58 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:aa768aa30de1936f81bf2bc5e5d19d136a3af763
+- gcr.io/google-containers/cadvisor:v0.33.0
 ### 2019-04-05 00:20:43 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.7.8-20190403134824
