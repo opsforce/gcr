@@ -1,3 +1,6 @@
+### 2019-04-07 00:04:18 Update:
+
+- gcr.io/google-containers/node-problem-detector:v0.6.3
 ### 2019-04-06 00:19:21 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.7.1-20190404161844
