@@ -1,3 +1,12 @@
+### 2019-04-08 00:11:02 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-43518a17
+- gcr.io/linkerd-io/grafana:git-43518a17
+- gcr.io/linkerd-io/controller:git-43518a17
+- gcr.io/linkerd-io/cni-plugin:git-43518a17
+- gcr.io/linkerd-io/proxy:git-43518a17
+- gcr.io/linkerd-io/web:git-43518a17
+- gcr.io/linkerd-io/cli-bin:git-43518a17
 ### 2019-04-08 00:10:26 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.0-20190407-09-16
