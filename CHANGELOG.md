@@ -1,3 +1,40 @@
+### 2019-04-14 00:15:09 Update:
+
+- gcr.io/linkerd-io/cni-plugin:git-192864e6
+- gcr.io/linkerd-io/cni-plugin:git-88ba27b3
+- gcr.io/linkerd-io/cni-plugin:git-9e834d9f
+- gcr.io/linkerd-io/grafana:git-0eddb5b7
+- gcr.io/linkerd-io/grafana:git-9e834d9f
+- gcr.io/linkerd-io/grafana:git-88ba27b3
+- gcr.io/linkerd-io/grafana:git-977d5729
+- gcr.io/linkerd-io/grafana:git-192864e6
+- gcr.io/linkerd-io/proxy-init:git-88ba27b3
+- gcr.io/linkerd-io/proxy-init:git-192864e6
+- gcr.io/linkerd-io/proxy-init:git-0eddb5b7
+- gcr.io/linkerd-io/proxy-init:git-977d5729
+- gcr.io/linkerd-io/proxy-init:git-9e834d9f
+- gcr.io/linkerd-io/cni-plugin:git-977d5729
+- gcr.io/linkerd-io/cni-plugin:git-0eddb5b7
+- gcr.io/linkerd-io/proxy:git-977d5729
+- gcr.io/linkerd-io/proxy:git-192864e6
+- gcr.io/linkerd-io/proxy:git-88ba27b3
+- gcr.io/linkerd-io/proxy:git-9e834d9f
+- gcr.io/linkerd-io/proxy:git-0eddb5b7
+- gcr.io/linkerd-io/web:git-192864e6
+- gcr.io/linkerd-io/web:git-977d5729
+- gcr.io/linkerd-io/web:git-9e834d9f
+- gcr.io/linkerd-io/web:git-88ba27b3
+- gcr.io/linkerd-io/web:git-0eddb5b7
+- gcr.io/linkerd-io/controller:git-9e834d9f
+- gcr.io/linkerd-io/controller:git-88ba27b3
+- gcr.io/linkerd-io/controller:git-192864e6
+- gcr.io/linkerd-io/controller:git-977d5729
+- gcr.io/linkerd-io/cli-bin:git-977d5729
+- gcr.io/linkerd-io/controller:git-0eddb5b7
+- gcr.io/linkerd-io/cli-bin:git-192864e6
+- gcr.io/linkerd-io/cli-bin:git-0eddb5b7
+- gcr.io/linkerd-io/cli-bin:git-88ba27b3
+- gcr.io/linkerd-io/cli-bin:git-9e834d9f
 ### 2019-04-14 00:13:41 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190413-09-16
