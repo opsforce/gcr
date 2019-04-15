@@ -1,3 +1,12 @@
+### 2019-04-16 00:14:57 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-2dc3488a
+- gcr.io/linkerd-io/web:git-2dc3488a
+- gcr.io/linkerd-io/cli-bin:git-2dc3488a
+- gcr.io/linkerd-io/proxy:git-2dc3488a
+- gcr.io/linkerd-io/grafana:git-2dc3488a
+- gcr.io/linkerd-io/cni-plugin:git-2dc3488a
+- gcr.io/linkerd-io/controller:git-2dc3488a
 ### 2019-04-16 00:14:08 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.0-20190415-09-16
