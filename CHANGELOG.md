@@ -1,3 +1,7 @@
+### 2019-04-16 00:16:30 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.8.4-20190415113424
+- gcr.io/spinnaker-marketplace/clouddriver:4.4.3-20190415113424
 ### 2019-04-16 00:14:57 Update:
 
 - gcr.io/linkerd-io/proxy-init:git-2dc3488a
