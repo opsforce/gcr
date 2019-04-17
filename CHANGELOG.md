@@ -1,3 +1,52 @@
+### 2019-04-18 00:20:43 Update:
+
+- gcr.io/google-containers/cloud-controller-manager-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/cloud-controller-manager-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/fluentd-gcp-scaler:0.5.2
+- gcr.io/google-containers/fluentd-gcp:2.1.1
+- gcr.io/google-containers/conformance:v1.15.0-alpha.1
+- gcr.io/google-containers/gcp-controller-manager:001b7220e200840c7daa1f1dde673a868009e5b5
+- gcr.io/google-containers/conformance-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver:v1.15.0-alpha.1
+- gcr.io/google-containers/conformance-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/hyperkube-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-amd64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-s390x:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm64:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-proxy-arm:v1.15.0-alpha.1
+- gcr.io/google-containers/kube-cross:v1.12.4-1
+- gcr.io/google-containers/managed-certificate-controller:v0.3.1
 ### 2019-04-17 00:26:35 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.9.0-20190415133024
