@@ -1,3 +1,6 @@
+### 2019-04-23 00:19:50 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.9-20190422104227
 ### 2019-04-23 00:18:31 Update:
 
 - gcr.io/istio-release/servicegraph_debug:release-1.0-20190422-09-16
