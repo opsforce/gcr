@@ -1,3 +1,27 @@
+### 2019-04-24 00:40:03 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190422182807
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190422213639
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190423012807
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190422182807
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190422162808
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190422162808
+- gcr.io/spinnaker-marketplace/kayenta:0.8.0-20190422162808
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190422162808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190422142807
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190422182807
+- gcr.io/spinnaker-marketplace/rosco:0.11.1-20190422162808
+- gcr.io/spinnaker-marketplace/gate:1.8.0-20190422162808
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190422142807
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190422162808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190422162808
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190422182807
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190422213639
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190423012807
+- gcr.io/spinnaker-marketplace/front50:0.17.0-20190422162808
+- gcr.io/spinnaker-marketplace/front50:0.17.0-20190423012807
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190422182807
+- gcr.io/spinnaker-marketplace/halyard:1.20.0-20190422162808
 ### 2019-04-24 00:31:47 Update:
 
 - gcr.io/linkerd-io/proxy:git-10dcf75c
