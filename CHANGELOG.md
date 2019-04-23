@@ -1,3 +1,7 @@
+### 2019-04-24 00:16:58 Update:
+
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:689388185fe7e13fd6fd2fae497c422bd048e611
+- gcr.io/google-containers/cos-kernel-headers:20190422-R00-00
 ### 2019-04-23 00:19:50 Update:
 
 - gcr.io/spinnaker-marketplace/clouddriver:4.2.9-20190422104227
