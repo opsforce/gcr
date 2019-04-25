@@ -1,3 +1,24 @@
+### 2019-04-26 00:36:03 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190424142807
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190424171936
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190424171936
+- gcr.io/spinnaker-marketplace/igor:1.3.0-20190425012808
+- gcr.io/spinnaker-marketplace/fiat:1.5.0-20190424182807
+- gcr.io/spinnaker-marketplace/kayenta:0.7.1-20190425050308
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190425012808
+- gcr.io/spinnaker-marketplace/deck:2.8.5-20190425050308
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190424142807
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190424171936
+- gcr.io/spinnaker-marketplace/front50:0.17.0-20190424171936
+- gcr.io/spinnaker-marketplace/deck:2.7.9-20190425030607
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190424162808
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190424142807
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190425012808
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190424142807
+- gcr.io/spinnaker-marketplace/orca:2.7.0-20190424171936
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190424162808
+- gcr.io/spinnaker-marketplace/halyard:1.20.0-20190424142807
 ### 2019-04-26 00:28:33 Update:
 
 - gcr.io/linkerd-io/debug:git-a42fa207
