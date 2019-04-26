@@ -1,3 +1,8 @@
+### 2019-04-27 00:14:26 Update:
+
+- gcr.io/google-containers/vpa-updater:0.5.1
+- gcr.io/google-containers/vpa-recommender:0.5.1
+- gcr.io/google-containers/vpa-admission-controller:0.5.1
 ### 2019-04-26 00:36:03 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.3.0-20190424142807
