@@ -1,3 +1,6 @@
+### 2019-04-30 00:22:16 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:4.2.9-20190429101001
 ### 2019-04-30 00:20:53 Update:
 
 - gcr.io/linkerd-io/debug:git-92a3dc8d
