@@ -1,3 +1,55 @@
+### 2019-05-04 00:27:58 Update:
+
+- gcr.io/linkerd-io/debug:git-b2ea5173
+- gcr.io/linkerd-io/debug:git-76cefdd8
+- gcr.io/linkerd-io/debug:git-5e5a0db4
+- gcr.io/linkerd-io/cni-plugin:git-00a94be0
+- gcr.io/linkerd-io/cni-plugin:edge-19.5.1
+- gcr.io/linkerd-io/cni-plugin:git-76cefdd8
+- gcr.io/linkerd-io/cni-plugin:git-5e5a0db4
+- gcr.io/linkerd-io/cni-plugin:git-b2ea5173
+- gcr.io/linkerd-io/controller:git-00a94be0
+- gcr.io/linkerd-io/debug:git-00a94be0
+- gcr.io/linkerd-io/debug:edge-19.5.1
+- gcr.io/linkerd-io/cni-plugin:git-cfdfaeba
+- gcr.io/linkerd-io/grafana:git-5e5a0db4
+- gcr.io/linkerd-io/grafana:git-76cefdd8
+- gcr.io/linkerd-io/grafana:git-b2ea5173
+- gcr.io/linkerd-io/grafana:git-cfdfaeba
+- gcr.io/linkerd-io/grafana:git-00a94be0
+- gcr.io/linkerd-io/cni-plugin:git-f8dbad62
+- gcr.io/linkerd-io/proxy-init:git-76cefdd8
+- gcr.io/linkerd-io/proxy-init:git-b2ea5173
+- gcr.io/linkerd-io/proxy-init:git-cfdfaeba
+- gcr.io/linkerd-io/proxy-init:git-5e5a0db4
+- gcr.io/linkerd-io/grafana:edge-19.5.1
+- gcr.io/linkerd-io/proxy-init:edge-19.5.1
+- gcr.io/linkerd-io/proxy-init:git-00a94be0
+- gcr.io/linkerd-io/web:edge-19.5.1
+- gcr.io/linkerd-io/controller:git-b2ea5173
+- gcr.io/linkerd-io/cli-bin:edge-19.5.1
+- gcr.io/linkerd-io/controller:edge-19.5.1
+- gcr.io/linkerd-io/cli-bin:git-00a94be0
+- gcr.io/linkerd-io/controller:git-5e5a0db4
+- gcr.io/linkerd-io/cli-bin:git-5e5a0db4
+- gcr.io/linkerd-io/controller:git-76cefdd8
+- gcr.io/linkerd-io/controller:git-cfdfaeba
+- gcr.io/linkerd-io/cli-bin:git-76cefdd8
+- gcr.io/linkerd-io/controller:git-f8dbad62
+- gcr.io/linkerd-io/cli-bin:git-b2ea5173
+- gcr.io/linkerd-io/cli-bin:git-cfdfaeba
+- gcr.io/linkerd-io/proxy:edge-19.5.1
+- gcr.io/linkerd-io/cli-bin:git-f8dbad62
+- gcr.io/linkerd-io/web:git-b2ea5173
+- gcr.io/linkerd-io/proxy:git-76cefdd8
+- gcr.io/linkerd-io/web:git-00a94be0
+- gcr.io/linkerd-io/web:git-5e5a0db4
+- gcr.io/linkerd-io/web:git-76cefdd8
+- gcr.io/linkerd-io/proxy:git-5e5a0db4
+- gcr.io/linkerd-io/proxy:git-00a94be0
+- gcr.io/linkerd-io/proxy:git-b2ea5173
+- gcr.io/linkerd-io/proxy:git-cfdfaeba
+- gcr.io/linkerd-io/web:git-cfdfaeba
 ### 2019-05-04 00:24:36 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.1-20190503-09-16
