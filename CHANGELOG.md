@@ -1,3 +1,8 @@
+### 2019-05-05 00:19:05 Update:
+
+- gcr.io/google-containers/gke-metadata-server:v0.2.5
+- gcr.io/google-containers/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.5.2
 ### 2019-05-04 00:36:58 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.7.0-20190502142808
