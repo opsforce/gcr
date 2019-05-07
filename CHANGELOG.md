@@ -1,3 +1,12 @@
+### 2019-05-08 00:20:51 Update:
+
+- gcr.io/google-containers/kube-state-metrics-amd64:v1.6.0
+- gcr.io/google-containers/kube-state-metrics:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-arm64:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-ppc64le:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-arm:v1.6.0
+- gcr.io/google-containers/kube-state-metrics-s390x:v1.6.0
+- gcr.io/google-containers/managed-certificate-controller:v0.3.2
 ### 2019-05-07 00:26:25 Update:
 
 - gcr.io/linkerd-io/web:git-01558c14
