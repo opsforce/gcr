@@ -1,3 +1,50 @@
+### 2019-05-10 00:29:46 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-6b2b5763
+- gcr.io/linkerd-io/proxy-init:git-6dda24c7
+- gcr.io/linkerd-io/proxy-init:git-ce93c4a0
+- gcr.io/linkerd-io/proxy-init:git-0355c06e
+- gcr.io/linkerd-io/debug:git-82225e97
+- gcr.io/linkerd-io/debug:git-6b2b5763
+- gcr.io/linkerd-io/debug:git-6dda24c7
+- gcr.io/linkerd-io/debug:git-ce93c4a0
+- gcr.io/linkerd-io/proxy-init:git-ab9ef003
+- gcr.io/linkerd-io/debug:git-0355c06e
+- gcr.io/linkerd-io/debug:git-6b73c058
+- gcr.io/linkerd-io/grafana:git-6b2b5763
+- gcr.io/linkerd-io/grafana:git-ce93c4a0
+- gcr.io/linkerd-io/grafana:git-6dda24c7
+- gcr.io/linkerd-io/web:git-0355c06e
+- gcr.io/linkerd-io/debug:git-ab9ef003
+- gcr.io/linkerd-io/grafana:git-0355c06e
+- gcr.io/linkerd-io/grafana:git-ab9ef003
+- gcr.io/linkerd-io/web:git-6b2b5763
+- gcr.io/linkerd-io/web:git-6dda24c7
+- gcr.io/linkerd-io/cni-plugin:git-6b2b5763
+- gcr.io/linkerd-io/cni-plugin:git-6dda24c7
+- gcr.io/linkerd-io/web:git-ce93c4a0
+- gcr.io/linkerd-io/web:git-ab9ef003
+- gcr.io/linkerd-io/cni-plugin:git-6b73c058
+- gcr.io/linkerd-io/cni-plugin:git-0355c06e
+- gcr.io/linkerd-io/cni-plugin:git-ab9ef003
+- gcr.io/linkerd-io/cni-plugin:git-ce93c4a0
+- gcr.io/linkerd-io/controller:git-6b2b5763
+- gcr.io/linkerd-io/controller:git-6dda24c7
+- gcr.io/linkerd-io/cli-bin:git-0355c06e
+- gcr.io/linkerd-io/controller:git-0355c06e
+- gcr.io/linkerd-io/controller:git-ce93c4a0
+- gcr.io/linkerd-io/controller:git-6b73c058
+- gcr.io/linkerd-io/cli-bin:git-6b2b5763
+- gcr.io/linkerd-io/cli-bin:git-6b73c058
+- gcr.io/linkerd-io/proxy:git-6b2b5763
+- gcr.io/linkerd-io/proxy:git-6dda24c7
+- gcr.io/linkerd-io/cli-bin:git-6dda24c7
+- gcr.io/linkerd-io/proxy:git-0355c06e
+- gcr.io/linkerd-io/controller:git-ab9ef003
+- gcr.io/linkerd-io/proxy:git-ce93c4a0
+- gcr.io/linkerd-io/cli-bin:git-ab9ef003
+- gcr.io/linkerd-io/cli-bin:git-ce93c4a0
+- gcr.io/linkerd-io/proxy:git-ab9ef003
 ### 2019-05-10 00:26:32 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20190509-09-16
