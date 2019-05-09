@@ -1,3 +1,9 @@
+### 2019-05-10 00:22:30 Update:
+
+- gcr.io/google-containers/etcd-version-monitor:0.1.3
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.3.10.1
+- gcr.io/google-containers/etcd:3.3.10-1
+- gcr.io/google-containers/etcd-amd64:3.3.10-1
 ### 2019-05-09 00:51:16 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.9.0-20190507142809
