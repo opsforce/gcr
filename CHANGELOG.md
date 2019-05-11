@@ -1,3 +1,6 @@
+### 2019-05-12 00:23:17 Update:
+
+- gcr.io/google-containers/cos-kernel-headers:20190510-R00-00
 ### 2019-05-11 00:43:21 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.7.0-20190509182807
