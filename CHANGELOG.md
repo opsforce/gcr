@@ -1,3 +1,6 @@
+### 2019-05-13 00:23:17 Update:
+
+- gcr.io/google-containers/event-exporter:v0.2.5
 ### 2019-05-12 00:41:59 Update:
 
 - gcr.io/distroless/static:a687653980a480e121f2c413e2f233b27d83814a
