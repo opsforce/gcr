@@ -1,3 +1,6 @@
+### 2019-05-13 00:30:33 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190511142808
 ### 2019-05-13 00:29:04 Update:
 
 - gcr.io/istio-release/install-cni:master-20190512-09-16
