@@ -1,3 +1,6 @@
+### 2019-05-14 00:24:08 Update:
+
+- gcr.io/google-containers/kubelet-to-gcm:1.2.11
 ### 2019-05-13 00:30:41 Update:
 
 - gcr.io/distroless/static:26290e32f6affe7a329f641693d0831e527bef45
