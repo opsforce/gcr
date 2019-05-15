@@ -1,3 +1,10 @@
+### 2019-05-16 00:25:43 Update:
+
+- gcr.io/google-containers/ip-masq-agent-arm:v2.4.1
+- gcr.io/google-containers/ip-masq-agent-arm64:v2.4.1
+- gcr.io/google-containers/ip-masq-agent-ppc64le:v2.4.1
+- gcr.io/google-containers/ip-masq-agent-amd64:v2.4.1
+- gcr.io/google-containers/ip-masq-agent:v2.4.1
 ### 2019-05-15 00:49:07 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.8.0-20190513170244
