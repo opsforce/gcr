@@ -1,3 +1,6 @@
+### 2019-05-16 00:26:01 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.0
 ### 2019-05-16 00:25:43 Update:
 
 - gcr.io/google-containers/ip-masq-agent-arm:v2.4.1
