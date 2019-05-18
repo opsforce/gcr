@@ -1,3 +1,19 @@
+### 2019-05-19 00:37:48 Update:
+
+- gcr.io/spinnaker-marketplace/front50:0.17.0-20190517190542
+- gcr.io/spinnaker-marketplace/front50:0.17.0-20190517172808
+- gcr.io/spinnaker-marketplace/gate:1.8.0-20190517142809
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190517142809
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190517144347
+- gcr.io/spinnaker-marketplace/deck:2.8.7-20190518050309
+- gcr.io/spinnaker-marketplace/rosco:0.12.0-20190517180000
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190517172808
+- gcr.io/spinnaker-marketplace/deck:2.9.0-20190517180000
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190517142809
+- gcr.io/spinnaker-marketplace/clouddriver:4.5.0-20190517190542
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190517172808
+- gcr.io/spinnaker-marketplace/rosco:0.12.0-20190517172808
+- gcr.io/spinnaker-marketplace/echo:2.5.0-20190517180000
 ### 2019-05-19 00:32:01 Update:
 
 - gcr.io/istio-release/galley:release-1.0-20190518-09-15
