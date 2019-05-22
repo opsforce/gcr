@@ -1,3 +1,6 @@
+### 2019-05-23 00:33:54 Update:
+
+- gcr.io/linkerd-io/proxy:strip-dst-canonical-0
 ### 2019-05-23 00:33:37 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20190522-09-15

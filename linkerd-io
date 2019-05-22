@@ -8117,6 +8117,7 @@
     "proxy:stable-2.2.0",
     "proxy:stable-2.2.1",
     "proxy:stable-2.3.0",
+    "proxy:strip-dst-canonical-0",
     "proxy:v18.7.1",
     "proxy:v18.7.2",
     "proxy:v18.7.3",
