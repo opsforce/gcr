@@ -1,3 +1,6 @@
+### 2019-05-25 00:29:50 Update:
+
+- gcr.io/google-containers/toolbox:20190523-00
 ### 2019-05-24 00:47:22 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.5.1-20190522140637
