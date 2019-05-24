@@ -1,3 +1,31 @@
+### 2019-05-25 00:54:22 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-96ee99aa
+- gcr.io/linkerd-io/proxy-init:git-c72646b5
+- gcr.io/linkerd-io/debug:git-c6cc8f98
+- gcr.io/linkerd-io/proxy-init:git-c6cc8f98
+- gcr.io/linkerd-io/proxy:git-96ee99aa
+- gcr.io/linkerd-io/grafana:git-c72646b5
+- gcr.io/linkerd-io/grafana:git-c6cc8f98
+- gcr.io/linkerd-io/grafana:git-96ee99aa
+- gcr.io/linkerd-io/proxy:git-c6cc8f98
+- gcr.io/linkerd-io/proxy:git-c72646b5
+- gcr.io/linkerd-io/proxy:liza-remove-cache-1
+- gcr.io/linkerd-io/proxy:liza-remove-cache-2
+- gcr.io/linkerd-io/debug:git-96ee99aa
+- gcr.io/linkerd-io/debug:git-c72646b5
+- gcr.io/linkerd-io/controller:git-c6cc8f98
+- gcr.io/linkerd-io/controller:git-c72646b5
+- gcr.io/linkerd-io/web:git-c6cc8f98
+- gcr.io/linkerd-io/web:git-c72646b5
+- gcr.io/linkerd-io/web:git-96ee99aa
+- gcr.io/linkerd-io/cni-plugin:git-96ee99aa
+- gcr.io/linkerd-io/cni-plugin:git-c6cc8f98
+- gcr.io/linkerd-io/cni-plugin:git-c72646b5
+- gcr.io/linkerd-io/controller:git-96ee99aa
+- gcr.io/linkerd-io/cli-bin:git-c6cc8f98
+- gcr.io/linkerd-io/cli-bin:git-96ee99aa
+- gcr.io/linkerd-io/cli-bin:git-c72646b5
 ### 2019-05-25 00:52:59 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190523-09-15e2e_bookinfo_envoyv2_v1alpha3
