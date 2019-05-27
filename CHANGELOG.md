@@ -1,3 +1,6 @@
+### 2019-05-28 00:30:04 Update:
+
+- gcr.io/google-containers/addon-resizer:1.8.5
 ### 2019-05-27 00:37:33 Update:
 
 - gcr.io/istio-release/install-cni:release-1.1-20190526-09-16
