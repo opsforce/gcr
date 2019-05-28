@@ -1,3 +1,8 @@
+### 2019-05-29 00:48:24 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190528112809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190528112809
+- gcr.io/spinnaker-marketplace/clouddriver:5.7.0-20190528112809
 ### 2019-05-29 00:46:48 Update:
 
 - gcr.io/linkerd-io/cni-plugin:git-0f7dce47
