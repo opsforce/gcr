@@ -1,3 +1,8 @@
+### 2019-05-29 00:46:48 Update:
+
+- gcr.io/linkerd-io/cni-plugin:git-0f7dce47
+- gcr.io/linkerd-io/controller:git-0f7dce47
+- gcr.io/linkerd-io/cli-bin:git-0f7dce47
 ### 2019-05-29 00:46:20 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190528-09-16
