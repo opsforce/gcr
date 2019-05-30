@@ -1,3 +1,8 @@
+### 2019-05-31 00:46:19 Update:
+
+- gcr.io/distroless/static:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2
+- gcr.io/distroless/base:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2
+- gcr.io/distroless/cc:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2
 ### 2019-05-31 00:46:10 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.9.0-20190529142810
