@@ -1,3 +1,52 @@
+### 2019-06-02 00:47:12 Update:
+
+- gcr.io/linkerd-io/proxy:git-1acc5e1e
+- gcr.io/linkerd-io/proxy:dev-91dfe2a6-alex
+- gcr.io/linkerd-io/debug:git-18d5b067
+- gcr.io/linkerd-io/proxy:git-18d5b067
+- gcr.io/linkerd-io/proxy:edge-19.5.4
+- gcr.io/linkerd-io/debug:dev-91dfe2a6-alex
+- gcr.io/linkerd-io/proxy:git-590249c6
+- gcr.io/linkerd-io/proxy:git-acbd2f56
+- gcr.io/linkerd-io/proxy:liza-balance-count
+- gcr.io/linkerd-io/proxy:liza-metric-count-0
+- gcr.io/linkerd-io/debug:edge-19.5.4
+- gcr.io/linkerd-io/cli-bin:edge-19.5.4
+- gcr.io/linkerd-io/cli-bin:git-590249c6
+- gcr.io/linkerd-io/cli-bin:git-18d5b067
+- gcr.io/linkerd-io/cli-bin:git-acbd2f56
+- gcr.io/linkerd-io/controller:dev-91dfe2a6-alex
+- gcr.io/linkerd-io/controller:edge-19.5.4
+- gcr.io/linkerd-io/controller:git-acbd2f56
+- gcr.io/linkerd-io/controller:git-18d5b067
+- gcr.io/linkerd-io/controller:git-1acc5e1e
+- gcr.io/linkerd-io/controller:git-590249c6
+- gcr.io/linkerd-io/web:dev-91dfe2a6-alex
+- gcr.io/linkerd-io/web:edge-19.5.4
+- gcr.io/linkerd-io/web:git-18d5b067
+- gcr.io/linkerd-io/debug:git-acbd2f56
+- gcr.io/linkerd-io/web:git-1acc5e1e
+- gcr.io/linkerd-io/web:git-590249c6
+- gcr.io/linkerd-io/web:git-acbd2f56
+- gcr.io/linkerd-io/grafana:git-1acc5e1e
+- gcr.io/linkerd-io/cni-plugin:dev-91dfe2a6-alex
+- gcr.io/linkerd-io/cni-plugin:git-18d5b067
+- gcr.io/linkerd-io/debug:git-590249c6
+- gcr.io/linkerd-io/cni-plugin:edge-19.5.4
+- gcr.io/linkerd-io/cni-plugin:git-acbd2f56
+- gcr.io/linkerd-io/grafana:dev-91dfe2a6-alex
+- gcr.io/linkerd-io/cni-plugin:git-590249c6
+- gcr.io/linkerd-io/grafana:git-18d5b067
+- gcr.io/linkerd-io/prometheus:v2.7.1
+- gcr.io/linkerd-io/grafana:git-acbd2f56
+- gcr.io/linkerd-io/grafana:edge-19.5.4
+- gcr.io/linkerd-io/proxy-init:dev-91dfe2a6-alex
+- gcr.io/linkerd-io/proxy-init:git-18d5b067
+- gcr.io/linkerd-io/proxy-init:git-1acc5e1e
+- gcr.io/linkerd-io/grafana:git-590249c6
+- gcr.io/linkerd-io/proxy-init:git-acbd2f56
+- gcr.io/linkerd-io/proxy-init:edge-19.5.4
+- gcr.io/linkerd-io/proxy-init:git-590249c6
 ### 2019-06-02 00:43:52 Update:
 
 - gcr.io/istio-release/install-cni:master-20190601-09-16
