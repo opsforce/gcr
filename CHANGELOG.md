@@ -1,3 +1,12 @@
+### 2019-06-03 00:42:20 Update:
+
+- gcr.io/linkerd-io/proxy:ver-valgrind-1
+- gcr.io/linkerd-io/proxy:ver-valgrind-0
+- gcr.io/linkerd-io/proxy:ver-valgrind-2
+- gcr.io/linkerd-io/proxy:ver-valgrind-3
+- gcr.io/linkerd-io/proxy:ver-valgrind-4
+- gcr.io/linkerd-io/proxy:ver-valgrind-5
+- gcr.io/linkerd-io/proxy:ver-valgrind-6
 ### 2019-06-03 00:40:22 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20190602-09-16
