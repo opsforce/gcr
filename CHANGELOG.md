@@ -1,3 +1,6 @@
+### 2019-06-04 00:41:55 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190603112810
 ### 2019-06-04 00:41:34 Update:
 
 - gcr.io/linkerd-io/proxy:git-fe2b9e34
