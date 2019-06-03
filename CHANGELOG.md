@@ -1,3 +1,8 @@
+### 2019-06-04 00:32:43 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.13.5
+- gcr.io/google-containers/cluster-autoscaler:v1.14.3
+- gcr.io/google-containers/cluster-autoscaler:v1.12.6
 ### 2019-06-03 00:42:20 Update:
 
 - gcr.io/linkerd-io/proxy:ver-valgrind-1
