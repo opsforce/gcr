@@ -2966,6 +2966,7 @@
     "gci-mounter:v4",
     "gcp-controller-manager:001b7220e200840c7daa1f1dde673a868009e5b5",
     "gcp-controller-manager:007a1ce42cc908eaa13d385afb35df82181c2c37",
+    "gcp-controller-manager:08fa1e3260ffb267682762e24ba93692000e3be8",
     "gcp-controller-manager:1aa2dddbbc427899e0dd5f313829552c0892e247",
     "gcp-controller-manager:1edadd08fb75221f975961642cfde871dba8fe90",
     "gcp-controller-manager:39f31955a8a548d44adb228a543d7d45ad1799e0",

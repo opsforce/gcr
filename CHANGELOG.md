@@ -1,3 +1,6 @@
+### 2019-06-05 00:33:40 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:08fa1e3260ffb267682762e24ba93692000e3be8
 ### 2019-06-04 00:41:55 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.8.0-20190603112810
