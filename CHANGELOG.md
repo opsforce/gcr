@@ -1,3 +1,29 @@
+### 2019-06-07 01:06:30 Update:
+
+- gcr.io/linkerd-io/proxy:git-d857b18d
+- gcr.io/linkerd-io/proxy:git-04389a66
+- gcr.io/linkerd-io/proxy:git-d551dda5
+- gcr.io/linkerd-io/proxy:git-f058f22d
+- gcr.io/linkerd-io/proxy:git-e510f819
+- gcr.io/linkerd-io/grafana:git-04389a66
+- gcr.io/linkerd-io/grafana:git-d857b18d
+- gcr.io/linkerd-io/grafana:git-d551dda5
+- gcr.io/linkerd-io/grafana:git-e510f819
+- gcr.io/linkerd-io/proxy:ver-update-tower-balance-0
+- gcr.io/linkerd-io/grafana:git-f058f22d
+- gcr.io/linkerd-io/web:git-d551dda5
+- gcr.io/linkerd-io/web:git-04389a66
+- gcr.io/linkerd-io/web:git-d857b18d
+- gcr.io/linkerd-io/web:git-e510f819
+- gcr.io/linkerd-io/web:git-f058f22d
+- gcr.io/linkerd-io/cli-bin:git-d857b18d
+- gcr.io/linkerd-io/cni-plugin:git-d857b18d
+- gcr.io/linkerd-io/controller:git-d857b18d
+- gcr.io/linkerd-io/controller:git-04389a66
+- gcr.io/linkerd-io/debug:git-d857b18d
+- gcr.io/linkerd-io/controller:git-d551dda5
+- gcr.io/linkerd-io/controller:git-f058f22d
+- gcr.io/linkerd-io/controller:git-e510f819
 ### 2019-06-07 01:04:46 Update:
 
 - gcr.io/istio-release/install-cni:release-1.1-20190606-09-15
