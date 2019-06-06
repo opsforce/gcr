@@ -1,3 +1,6 @@
+### 2019-06-07 00:51:06 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.1
 ### 2019-06-07 00:50:50 Update:
 
 - gcr.io/google-containers/kube-apiserver-amd64:v1.14.4-beta.0
