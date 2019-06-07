@@ -1,3 +1,12 @@
+### 2019-06-08 01:00:11 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.5.2-20190606142809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190606142809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190606202808
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190606165141
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190606175220
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190606165141
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190606202808
 ### 2019-06-08 00:55:25 Update:
 
 - gcr.io/linkerd-io/debug:git-8f8392cc
