@@ -1,3 +1,12 @@
+### 2019-06-09 00:44:40 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-24bbd7c6
+- gcr.io/linkerd-io/debug:git-24bbd7c6
+- gcr.io/linkerd-io/cni-plugin:git-24bbd7c6
+- gcr.io/linkerd-io/controller:git-24bbd7c6
+- gcr.io/linkerd-io/proxy:git-24bbd7c6
+- gcr.io/linkerd-io/web:git-24bbd7c6
+- gcr.io/linkerd-io/grafana:git-24bbd7c6
 ### 2019-06-09 00:43:43 Update:
 
 - gcr.io/istio-release/galley:release-1.0-20190608-09-15
