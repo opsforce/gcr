@@ -1,3 +1,9 @@
+### 2019-06-11 00:45:54 Update:
+
+- gcr.io/linkerd-io/proxy:git-48afecfc
+- gcr.io/linkerd-io/grafana:git-48afecfc
+- gcr.io/linkerd-io/web:git-48afecfc
+- gcr.io/linkerd-io/controller:git-48afecfc
 ### 2019-06-11 00:45:10 Update:
 
 - gcr.io/istio-release/install-cni:release-1.2-20190610-09-15
