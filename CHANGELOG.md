@@ -1,3 +1,6 @@
+### 2019-06-12 00:37:48 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.15.0
 ### 2019-06-11 00:49:35 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.5.2-20190610100840
