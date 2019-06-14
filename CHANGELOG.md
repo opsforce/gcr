@@ -1,3 +1,48 @@
+### 2019-06-15 00:50:19 Update:
+
+- gcr.io/linkerd-io/proxy:git-28025eeb
+- gcr.io/linkerd-io/proxy:git-25f80264
+- gcr.io/linkerd-io/proxy:edge-19.6.2
+- gcr.io/linkerd-io/proxy:edge-19.6.13
+- gcr.io/linkerd-io/debug:git-b11c7dce
+- gcr.io/linkerd-io/debug:git-25f80264
+- gcr.io/linkerd-io/debug:git-28025eeb
+- gcr.io/linkerd-io/debug:edge-19.6.13
+- gcr.io/linkerd-io/debug:git-374a4dbc
+- gcr.io/linkerd-io/proxy:git-374a4dbc
+- gcr.io/linkerd-io/proxy:git-b11c7dce
+- gcr.io/linkerd-io/proxy:ver-classify-response-errors-0
+- gcr.io/linkerd-io/grafana:git-b11c7dce
+- gcr.io/linkerd-io/grafana:git-25f80264
+- gcr.io/linkerd-io/grafana:git-28025eeb
+- gcr.io/linkerd-io/debug:edge-19.6.2
+- gcr.io/linkerd-io/grafana:edge-19.6.13
+- gcr.io/linkerd-io/grafana:edge-19.6.2
+- gcr.io/linkerd-io/grafana:git-374a4dbc
+- gcr.io/linkerd-io/controller:edge-19.6.13
+- gcr.io/linkerd-io/controller:edge-19.6.2
+- gcr.io/linkerd-io/controller:git-28025eeb
+- gcr.io/linkerd-io/controller:git-374a4dbc
+- gcr.io/linkerd-io/controller:git-25f80264
+- gcr.io/linkerd-io/controller:git-b11c7dce
+- gcr.io/linkerd-io/web:edge-19.6.2
+- gcr.io/linkerd-io/web:edge-19.6.13
+- gcr.io/linkerd-io/web:git-25f80264
+- gcr.io/linkerd-io/web:git-28025eeb
+- gcr.io/linkerd-io/web:git-374a4dbc
+- gcr.io/linkerd-io/web:git-b11c7dce
+- gcr.io/linkerd-io/cni-plugin:edge-19.6.13
+- gcr.io/linkerd-io/cni-plugin:edge-19.6.2
+- gcr.io/linkerd-io/cni-plugin:git-25f80264
+- gcr.io/linkerd-io/cni-plugin:git-28025eeb
+- gcr.io/linkerd-io/cni-plugin:git-374a4dbc
+- gcr.io/linkerd-io/cni-plugin:git-b11c7dce
+- gcr.io/linkerd-io/cli-bin:edge-19.6.13
+- gcr.io/linkerd-io/cli-bin:edge-19.6.2
+- gcr.io/linkerd-io/cli-bin:git-25f80264
+- gcr.io/linkerd-io/cli-bin:git-28025eeb
+- gcr.io/linkerd-io/cli-bin:git-374a4dbc
+- gcr.io/linkerd-io/cli-bin:git-b11c7dce
 ### 2019-06-15 00:46:16 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190614-09-15
