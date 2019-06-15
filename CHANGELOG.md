@@ -1,3 +1,11 @@
+### 2019-06-16 00:53:57 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190614172809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190614125642
+- gcr.io/spinnaker-marketplace/igor:1.4.0-20190614202809
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190614202809
+- gcr.io/spinnaker-marketplace/clouddriver:4.6.2-20190615034009
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190614172809
 ### 2019-06-16 00:49:33 Update:
 
 - gcr.io/linkerd-io/proxy:git-7fc6c195
