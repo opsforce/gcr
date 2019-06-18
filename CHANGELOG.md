@@ -1,3 +1,6 @@
+### 2019-06-19 00:44:37 Update:
+
+- gcr.io/google-containers/ingress-gce-404-server-with-metrics-amd64:v1.6.0
 ### 2019-06-18 00:47:51 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.8.0-20190617092205
