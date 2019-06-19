@@ -1,3 +1,8 @@
+### 2019-06-20 00:54:48 Update:
+
+- gcr.io/google-containers/startup-script:v2
+- gcr.io/google-containers/fluent-bit-sd:0.1
+- gcr.io/google-containers/kube-cross:v1.12.6-1
 ### 2019-06-19 01:15:19 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.6.0-20190617202809
