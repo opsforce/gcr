@@ -1,3 +1,52 @@
+### 2019-06-21 00:55:18 Update:
+
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190619-22-59
+- gcr.io/istio-release/sidecar_injector:release-1.2-20190620-09-15
+- gcr.io/istio-release/test_policybackend:release-1.1-20190619-22-59
+- gcr.io/istio-release/test_policybackend:release-1.1-20190620-09-15
+- gcr.io/istio-release/kubectl:release-1.2-20190620-09-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190620-09-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190619-22-59
+- gcr.io/istio-release/kubectl:release-1.1-20190620-09-15
+- gcr.io/istio-release/kubectl:release-1.1-20190619-22-59
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190620-09-15
+- gcr.io/istio-release/node-agent-k8s:release-1.2-20190620-09-15
+- gcr.io/istio-release/mixer_codegen:release-1.2-20190620-09-15
+- gcr.io/istio-release/mixer:release-1.1-20190620-09-15
+- gcr.io/istio-release/mixer:release-1.1-20190619-22-59
+- gcr.io/istio-release/mixer:release-1.2-20190620-09-15
+- gcr.io/istio-release/galley:release-1.1-20190619-22-59
+- gcr.io/istio-release/galley:release-1.1-20190620-09-15
+- gcr.io/istio-release/galley:release-1.2-20190620-09-15
+- gcr.io/istio-release/app:release-1.1-20190620-09-15
+- gcr.io/istio-release/app:release-1.1-20190619-22-59
+- gcr.io/istio-release/app:release-1.2-20190620-09-15
+- gcr.io/istio-release/install-cni:release-1.1-20190620-09-15
+- gcr.io/istio-release/citadel:release-1.1-20190619-22-59
+- gcr.io/istio-release/install-cni:release-1.2-20190620-09-15
+- gcr.io/istio-release/install-cni:release-1.1-20190619-22-59
+- gcr.io/istio-release/citadel:release-1.2-20190620-09-15
+- gcr.io/istio-release/citadel:release-1.1-20190620-09-15
+- gcr.io/istio-release/servicegraph:release-1.1-20190619-22-59
+- gcr.io/istio-release/servicegraph:release-1.1-20190620-09-15
+- gcr.io/istio-release/proxyv2:release-1.1-20190619-22-59
+- gcr.io/istio-release/proxyv2:release-1.1-20190620-09-15
+- gcr.io/istio-release/proxyv2:release-1.2-20190620-09-15
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190619-22-59
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190620-09-15
+- gcr.io/istio-release/test_policybackend:release-1.2-20190620-09-15
+- gcr.io/istio-release/proxytproxy:release-1.1-20190619-22-59
+- gcr.io/istio-release/proxytproxy:release-1.1-20190620-09-15
+- gcr.io/istio-release/proxytproxy:release-1.2-20190620-09-15
+- gcr.io/istio-release/proxy_init:release-1.1-20190619-22-59
+- gcr.io/istio-release/proxy_init:release-1.2-20190620-09-15
+- gcr.io/istio-release/proxy_init:release-1.1-20190620-09-15
+- gcr.io/istio-release/pilot:release-1.1-20190620-09-15
+- gcr.io/istio-release/pilot:release-1.2-20190620-09-15
+- gcr.io/istio-release/pilot:release-1.1-20190619-22-59
+- gcr.io/istio-release/proxy_debug:release-1.1-20190619-22-59
+- gcr.io/istio-release/proxy_debug:release-1.1-20190620-09-15
+- gcr.io/istio-release/proxy_debug:release-1.2-20190620-09-15
 ### 2019-06-21 00:49:34 Update:
 
 - gcr.io/google-containers/kube-controller-manager-arm64:v1.15.0
