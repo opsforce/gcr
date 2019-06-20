@@ -1,3 +1,18 @@
+### 2019-06-21 01:07:56 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190619171530
+- gcr.io/spinnaker-marketplace/gate:1.9.0-20190619142809
+- gcr.io/spinnaker-marketplace/orca:2.4.3-20190619172946
+- gcr.io/spinnaker-marketplace/gate:1.9.0-20190619181547
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190619171530
+- gcr.io/spinnaker-marketplace/kayenta:0.9.0-20190619202809
+- gcr.io/spinnaker-marketplace/echo:2.6.0-20190620112808
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190620012809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190619142809
+- gcr.io/spinnaker-marketplace/halyard:1.21.0-20190619142809
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190619202809
+- gcr.io/spinnaker-marketplace/halyard:1.21.0-20190619202809
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190619171530
 ### 2019-06-21 00:59:29 Update:
 
 - gcr.io/linkerd-io/debug:git-828c420c
