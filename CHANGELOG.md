@@ -1,3 +1,36 @@
+### 2019-06-21 00:59:29 Update:
+
+- gcr.io/linkerd-io/debug:git-828c420c
+- gcr.io/linkerd-io/grafana:git-f227b881
+- gcr.io/linkerd-io/grafana:git-1653e685
+- gcr.io/linkerd-io/grafana:git-828c420c
+- gcr.io/linkerd-io/debug:git-e2e976cc
+- gcr.io/linkerd-io/grafana:git-e2e976cc
+- gcr.io/linkerd-io/controller:git-1653e685
+- gcr.io/linkerd-io/debug:git-2528e3d6
+- gcr.io/linkerd-io/grafana:git-2528e3d6
+- gcr.io/linkerd-io/controller:git-828c420c
+- gcr.io/linkerd-io/proxy:git-1653e685
+- gcr.io/linkerd-io/controller:git-2528e3d6
+- gcr.io/linkerd-io/proxy:git-828c420c
+- gcr.io/linkerd-io/controller:git-e2e976cc
+- gcr.io/linkerd-io/proxy:git-f227b881
+- gcr.io/linkerd-io/proxy:git-2528e3d6
+- gcr.io/linkerd-io/proxy:git-e2e976cc
+- gcr.io/linkerd-io/controller:git-f227b881
+- gcr.io/linkerd-io/proxy:kleimkuhler-router-cache-purge-2019-06-20-0
+- gcr.io/linkerd-io/web:git-1653e685
+- gcr.io/linkerd-io/web:git-2528e3d6
+- gcr.io/linkerd-io/web:git-828c420c
+- gcr.io/linkerd-io/web:git-e2e976cc
+- gcr.io/linkerd-io/cni-plugin:git-2528e3d6
+- gcr.io/linkerd-io/website-builder:1.2.1
+- gcr.io/linkerd-io/web:git-f227b881
+- gcr.io/linkerd-io/cni-plugin:git-828c420c
+- gcr.io/linkerd-io/cni-plugin:git-e2e976cc
+- gcr.io/linkerd-io/cli-bin:git-828c420c
+- gcr.io/linkerd-io/cli-bin:git-2528e3d6
+- gcr.io/linkerd-io/cli-bin:git-e2e976cc
 ### 2019-06-21 00:55:18 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20190619-22-59
