@@ -13,9 +13,12 @@
     "base:acf95cef37c3da0221eb9ad2313557ed7b5c34df",
     "base:c5989e3b76ecffa1a4953e1a6c340bf010fb8123",
     "base:c80fac806f5fe10b67f9399e60bd40568487d59f",
+    "base:de7f1306895f22d4a4d2fab59d723178c7121937",
     "base:debug",
+    "base:debug-nonroot",
     "base:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2",
     "base:latest",
+    "base:nonroot",
     "cc:033387ac8853e6cc1cd47df6c346bc53cbc490d8",
     "cc:0a3d642379d577a09225f1275e5c96e336472dfc",
     "cc:26290e32f6affe7a329f641693d0831e527bef45",
@@ -30,6 +33,7 @@
     "cc:acf95cef37c3da0221eb9ad2313557ed7b5c34df",
     "cc:c5989e3b76ecffa1a4953e1a6c340bf010fb8123",
     "cc:c80fac806f5fe10b67f9399e60bd40568487d59f",
+    "cc:de7f1306895f22d4a4d2fab59d723178c7121937",
     "cc:debug",
     "cc:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2",
     "cc:latest",
@@ -70,8 +74,10 @@
     "static:c7d3e1cefa1eb8bff2b16448f9806452aea9608a",
     "static:c80fac806f5fe10b67f9399e60bd40568487d59f",
     "static:cbab93a20aba6247c0a192c0a008884fe7c176f9",
+    "static:de7f1306895f22d4a4d2fab59d723178c7121937",
     "static:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2",
     "static:e0330762672c79ab165c85294f3cd02d4a556ef3",
     "static:e6d19e583688a4948a3a6f0093daccc6e731e297",
-    "static:latest"
+    "static:latest",
+    "static:nonroot"
 ]
