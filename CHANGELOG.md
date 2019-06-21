@@ -1,3 +1,24 @@
+### 2019-06-22 01:11:57 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190620161706
+- gcr.io/spinnaker-marketplace/kayenta:0.9.0-20190621034009
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190620143400
+- gcr.io/spinnaker-marketplace/igor:1.4.0-20190620193201
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190621012810
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190620193201
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190621112809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190620134011
+- gcr.io/spinnaker-marketplace/clouddriver:4.6.3-20190621034009
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190620143400
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190621112809
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190621012810
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190620161706
+- gcr.io/spinnaker-marketplace/echo:2.4.5-20190621050309
+- gcr.io/spinnaker-marketplace/halyard:1.21.0
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190621112809
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190620134011
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190620193201
+- gcr.io/spinnaker-marketplace/halyard:1.21.1-20190621112809
 ### 2019-06-22 01:00:04 Update:
 
 - gcr.io/linkerd-io/grafana:git-ac0bb52f
