@@ -1,3 +1,11 @@
+### 2019-06-23 00:57:43 Update:
+
+- gcr.io/distroless/static:8bef63d2c8654ff89358430c7df5778162ab6027
+- gcr.io/distroless/static:c9115ffeeeae0a89ba0c9531b27fdc661add9445
+- gcr.io/distroless/base:8bef63d2c8654ff89358430c7df5778162ab6027
+- gcr.io/distroless/cc:8bef63d2c8654ff89358430c7df5778162ab6027
+- gcr.io/distroless/base:c9115ffeeeae0a89ba0c9531b27fdc661add9445
+- gcr.io/distroless/cc:c9115ffeeeae0a89ba0c9531b27fdc661add9445
 ### 2019-06-23 00:57:33 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.8.0-20190621202808
