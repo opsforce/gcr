@@ -1,3 +1,6 @@
+### 2019-06-23 00:41:58 Update:
+
+- gcr.io/google-containers/kube-proxy-amd64:v1.12.7-gke.22
 ### 2019-06-22 01:11:57 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.8.0-20190620161706
