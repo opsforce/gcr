@@ -1,3 +1,7 @@
+### 2019-07-02 00:57:07 Update:
+
+- gcr.io/spinnaker-marketplace/echo:2.3.2-20190701101933
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190701112822
 ### 2019-07-02 00:55:02 Update:
 
 - gcr.io/linkerd-io/debug:git-19dfbc60
