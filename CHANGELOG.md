@@ -1,3 +1,13 @@
+### 2019-07-03 01:49:31 Update:
+
+- gcr.io/linkerd-io/debug:git-15a63520
+- gcr.io/linkerd-io/proxy:git-15a63520
+- gcr.io/linkerd-io/web:git-15a63520
+- gcr.io/linkerd-io/cni-plugin:git-15a63520
+- gcr.io/linkerd-io/grafana:git-15a63520
+- gcr.io/linkerd-io/grafana:git-361dd7cf
+- gcr.io/linkerd-io/cli-bin:git-15a63520
+- gcr.io/linkerd-io/controller:git-15a63520
 ### 2019-07-03 01:33:13 Update:
 
 - gcr.io/linkerd-io/cni-plugin:git-2ec78bf2
