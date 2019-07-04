@@ -1,3 +1,6 @@
+### 2019-07-05 00:46:33 Update:
+
+- gcr.io/google-containers/netd-amd64:0.2.1
 ### 2019-07-04 01:54:23 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.10.0-20190702142823
