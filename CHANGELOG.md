@@ -1,3 +1,16 @@
+### 2019-07-05 00:56:07 Update:
+
+- gcr.io/linkerd-io/proxy:git-2ec062e9
+- gcr.io/linkerd-io/web:git-2ec062e9
+- gcr.io/linkerd-io/debug:git-2ec062e9
+- gcr.io/linkerd-io/proxy:ver-canonical-cancel-3
+- gcr.io/linkerd-io/proxy:ver-canonical-cancel-0
+- gcr.io/linkerd-io/proxy:ver-canonical-cancel-2
+- gcr.io/linkerd-io/proxy:ver-canonical-cancel-1
+- gcr.io/linkerd-io/grafana:git-2ec062e9
+- gcr.io/linkerd-io/cni-plugin:git-2ec062e9
+- gcr.io/linkerd-io/controller:git-2ec062e9
+- gcr.io/linkerd-io/cli-bin:git-2ec062e9
 ### 2019-07-05 00:55:14 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190704-09-16
