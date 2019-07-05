@@ -1,3 +1,6 @@
+### 2019-07-06 00:47:04 Update:
+
+- gcr.io/google-containers/heapster-amd64:v1.7.0
 ### 2019-07-05 01:06:51 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.8.0-20190703142823
