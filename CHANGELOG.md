@@ -1,3 +1,9 @@
+### 2019-07-07 01:00:59 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190705202822
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190705142822
+- gcr.io/spinnaker-marketplace/echo:2.6.0-20190705142822
+- gcr.io/spinnaker-marketplace/echo:2.6.0-20190706012825
 ### 2019-07-07 00:59:21 Update:
 
 - gcr.io/linkerd-io/controller:git-94b49ee8
