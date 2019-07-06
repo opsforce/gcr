@@ -1,3 +1,54 @@
+### 2019-07-07 00:59:21 Update:
+
+- gcr.io/linkerd-io/controller:git-94b49ee8
+- gcr.io/linkerd-io/proxy:git-18282a9d
+- gcr.io/linkerd-io/debug:git-a2351b29
+- gcr.io/linkerd-io/proxy:edge-19.7.2
+- gcr.io/linkerd-io/debug:git-8b13bb06
+- gcr.io/linkerd-io/debug:git-18282a9d
+- gcr.io/linkerd-io/debug:git-94b49ee8
+- gcr.io/linkerd-io/proxy:git-8b13bb06
+- gcr.io/linkerd-io/debug:git-94fa653c
+- gcr.io/linkerd-io/debug:git-9a61c2ad
+- gcr.io/linkerd-io/proxy:git-94b49ee8
+- gcr.io/linkerd-io/debug:edge-19.7.2
+- gcr.io/linkerd-io/proxy:git-94fa653c
+- gcr.io/linkerd-io/proxy:git-9a61c2ad
+- gcr.io/linkerd-io/proxy:git-a2351b29
+- gcr.io/linkerd-io/web:edge-19.7.2
+- gcr.io/linkerd-io/web:git-18282a9d
+- gcr.io/linkerd-io/web:git-8b13bb06
+- gcr.io/linkerd-io/web:git-94b49ee8
+- gcr.io/linkerd-io/web:git-94fa653c
+- gcr.io/linkerd-io/web:git-9a61c2ad
+- gcr.io/linkerd-io/controller:git-8b13bb06
+- gcr.io/linkerd-io/controller:git-18282a9d
+- gcr.io/linkerd-io/web:git-a2351b29
+- gcr.io/linkerd-io/cli-bin:git-18282a9d
+- gcr.io/linkerd-io/controller:edge-19.7.2
+- gcr.io/linkerd-io/grafana:git-8b13bb06
+- gcr.io/linkerd-io/grafana:git-94b49ee8
+- gcr.io/linkerd-io/grafana:git-18282a9d
+- gcr.io/linkerd-io/controller:git-94fa653c
+- gcr.io/linkerd-io/controller:git-9a61c2ad
+- gcr.io/linkerd-io/grafana:edge-19.7.2
+- gcr.io/linkerd-io/grafana:git-94fa653c
+- gcr.io/linkerd-io/grafana:git-a2351b29
+- gcr.io/linkerd-io/grafana:git-9a61c2ad
+- gcr.io/linkerd-io/controller:git-a2351b29
+- gcr.io/linkerd-io/cli-bin:edge-19.7.2
+- gcr.io/linkerd-io/cli-bin:git-8b13bb06
+- gcr.io/linkerd-io/cni-plugin:edge-19.7.2
+- gcr.io/linkerd-io/cli-bin:git-94b49ee8
+- gcr.io/linkerd-io/cni-plugin:git-8b13bb06
+- gcr.io/linkerd-io/cni-plugin:git-94b49ee8
+- gcr.io/linkerd-io/cni-plugin:git-18282a9d
+- gcr.io/linkerd-io/cli-bin:git-9a61c2ad
+- gcr.io/linkerd-io/cli-bin:git-94fa653c
+- gcr.io/linkerd-io/cli-bin:git-a2351b29
+- gcr.io/linkerd-io/cni-plugin:git-9a61c2ad
+- gcr.io/linkerd-io/cni-plugin:git-94fa653c
+- gcr.io/linkerd-io/cni-plugin:git-a2351b29
 ### 2019-07-07 00:56:03 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.0-20190706-09-16
