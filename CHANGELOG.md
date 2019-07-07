@@ -1,3 +1,7 @@
+### 2019-07-08 00:56:57 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.6.0-20190706202823
+- gcr.io/spinnaker-marketplace/echo:2.6.0-20190706202823
 ### 2019-07-08 00:55:52 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190707-09-16
