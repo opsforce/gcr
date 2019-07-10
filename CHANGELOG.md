@@ -1,3 +1,6 @@
+### 2019-07-11 00:49:11 Update:
+
+- gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.0
 ### 2019-07-10 01:10:32 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.9.0-20190708143435
