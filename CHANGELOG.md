@@ -1,3 +1,6 @@
+### 2019-07-12 00:49:37 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.2
 ### 2019-07-11 01:20:30 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.9.0-20190709202816
