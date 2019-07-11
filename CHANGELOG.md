@@ -1,3 +1,11 @@
+### 2019-07-12 01:10:11 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190710172816
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190711051323
+- gcr.io/spinnaker-marketplace/clouddriver:4.6.6-20190711105659
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190711104404
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190711122325
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190711112815
 ### 2019-07-12 01:04:28 Update:
 
 - gcr.io/linkerd-io/grafana:git-0e62340f
