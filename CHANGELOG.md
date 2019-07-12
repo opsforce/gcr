@@ -1,3 +1,6 @@
+### 2019-07-13 00:52:17 Update:
+
+- gcr.io/google-containers/kube-cross:v1.12.7-1
 ### 2019-07-12 01:10:11 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.10.0-20190710172816
