@@ -1,3 +1,6 @@
+### 2019-07-15 01:01:11 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190713142815
 ### 2019-07-15 01:00:38 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.2-20190714-09-16
