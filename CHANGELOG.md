@@ -1,3 +1,17 @@
+### 2019-07-17 01:09:22 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190715142815
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190715172815
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190715131505
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190715202816
+- gcr.io/spinnaker-marketplace/orca:2.8.0-20190715172815
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190716051325
+- gcr.io/spinnaker-marketplace/front50:0.18.0-20190715142815
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190715202816
+- gcr.io/spinnaker-marketplace/deck:2.10.0-20190716112815
+- gcr.io/spinnaker-marketplace/deck:2.9.8-20190716034015
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190716112815
+- gcr.io/spinnaker-marketplace/clouddriver:6.0.0-20190715172815
 ### 2019-07-17 01:03:46 Update:
 
 - gcr.io/linkerd-io/proxy-init:2970-enable-iptables-wait
