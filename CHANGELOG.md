@@ -1,3 +1,6 @@
+### 2019-07-22 01:02:58 Update:
+
+- gcr.io/linkerd-io/debug:git-a2b0691c
 ### 2019-07-22 01:02:43 Update:
 
 - gcr.io/istio-release/install-cni:release-1.1-20190721-09-16
