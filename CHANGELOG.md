@@ -1,3 +1,12 @@
+### 2019-07-23 00:54:25 Update:
+
+- gcr.io/google-containers/kube-state-metrics:v1.7.1
+- gcr.io/google-containers/prometheus-to-sd:v0.6.0
+- gcr.io/google-containers/kube-state-metrics-amd64:v1.7.1
+- gcr.io/google-containers/kube-state-metrics-arm64:v1.7.1
+- gcr.io/google-containers/kube-state-metrics-arm:v1.7.1
+- gcr.io/google-containers/kube-state-metrics-s390x:v1.7.1
+- gcr.io/google-containers/kube-state-metrics-ppc64le:v1.7.1
 ### 2019-07-22 01:02:58 Update:
 
 - gcr.io/linkerd-io/debug:git-a2b0691c
