@@ -1,3 +1,8 @@
+### 2019-07-26 01:21:58 Update:
+
+- gcr.io/distroless/static:d70f493b23b44f34270223612b2587c6c8de1ca2
+- gcr.io/distroless/base:d70f493b23b44f34270223612b2587c6c8de1ca2
+- gcr.io/distroless/cc:d70f493b23b44f34270223612b2587c6c8de1ca2
 ### 2019-07-26 01:21:47 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.6.1-20190724202816
