@@ -21,6 +21,7 @@
     "base:debug-nonroot",
     "base:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2",
     "base:f5916ee5446549a8bfdc471502605ddf4ecaff79",
+    "base:fa0765cc86064801e42a3b35f50ff2242aca9998",
     "base:latest",
     "base:nonroot",
     "cc:033387ac8853e6cc1cd47df6c346bc53cbc490d8",
@@ -44,6 +45,7 @@
     "cc:debug",
     "cc:dfa3b24ed3d0987cc1788a04026e3bab03caa9a2",
     "cc:f5916ee5446549a8bfdc471502605ddf4ecaff79",
+    "cc:fa0765cc86064801e42a3b35f50ff2242aca9998",
     "cc:latest",
     "dotnet:debug",
     "dotnet:latest",
@@ -90,6 +92,7 @@
     "static:e0330762672c79ab165c85294f3cd02d4a556ef3",
     "static:e6d19e583688a4948a3a6f0093daccc6e731e297",
     "static:f5916ee5446549a8bfdc471502605ddf4ecaff79",
+    "static:fa0765cc86064801e42a3b35f50ff2242aca9998",
     "static:latest",
     "static:nonroot"
 ]
