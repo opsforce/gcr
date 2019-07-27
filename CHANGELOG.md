@@ -1,3 +1,7 @@
+### 2019-07-28 00:56:31 Update:
+
+- gcr.io/google-containers/node-problem-detector:v0.7.0
+- gcr.io/google-containers/git-sync:v3.1.2
 ### 2019-07-27 01:27:32 Update:
 
 - gcr.io/distroless/static:fa0765cc86064801e42a3b35f50ff2242aca9998
