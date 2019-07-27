@@ -1,3 +1,56 @@
+### 2019-07-28 01:09:42 Update:
+
+- gcr.io/linkerd-io/debug:git-17e03fb1
+- gcr.io/linkerd-io/debug:git-914b9a01
+- gcr.io/linkerd-io/debug:git-51aa575e
+- gcr.io/linkerd-io/debug:git-627e8879
+- gcr.io/linkerd-io/grafana:git-19a8c726
+- gcr.io/linkerd-io/grafana:git-17e03fb1
+- gcr.io/linkerd-io/grafana:git-5e091098
+- gcr.io/linkerd-io/grafana:git-065dd3ec
+- gcr.io/linkerd-io/debug:git-065dd3ec
+- gcr.io/linkerd-io/debug:git-19a8c726
+- gcr.io/linkerd-io/grafana:git-914b9a01
+- gcr.io/linkerd-io/grafana:git-51aa575e
+- gcr.io/linkerd-io/grafana:git-627e8879
+- gcr.io/linkerd-io/controller:git-065dd3ec
+- gcr.io/linkerd-io/controller:git-17e03fb1
+- gcr.io/linkerd-io/controller:git-914b9a01
+- gcr.io/linkerd-io/controller:git-19a8c726
+- gcr.io/linkerd-io/controller:git-5e091098
+- gcr.io/linkerd-io/proxy:git-5e091098
+- gcr.io/linkerd-io/controller:git-51aa575e
+- gcr.io/linkerd-io/proxy:git-17e03fb1
+- gcr.io/linkerd-io/proxy:git-19a8c726
+- gcr.io/linkerd-io/controller:git-627e8879
+- gcr.io/linkerd-io/proxy:git-065dd3ec
+- gcr.io/linkerd-io/proxy:git-51aa575e
+- gcr.io/linkerd-io/proxy:git-914b9a01
+- gcr.io/linkerd-io/proxy:git-627e8879
+- gcr.io/linkerd-io/proxy:tap-identity-chk-1
+- gcr.io/linkerd-io/proxy:tap-identity-chk-2
+- gcr.io/linkerd-io/proxy:tap-identity-chk-3
+- gcr.io/linkerd-io/web:git-065dd3ec
+- gcr.io/linkerd-io/web:git-17e03fb1
+- gcr.io/linkerd-io/web:git-5e091098
+- gcr.io/linkerd-io/web:git-19a8c726
+- gcr.io/linkerd-io/web:git-914b9a01
+- gcr.io/linkerd-io/web:git-51aa575e
+- gcr.io/linkerd-io/web:git-627e8879
+- gcr.io/linkerd-io/cli-bin:git-17e03fb1
+- gcr.io/linkerd-io/cli-bin:git-065dd3ec
+- gcr.io/linkerd-io/cli-bin:git-51aa575e
+- gcr.io/linkerd-io/cli-bin:git-627e8879
+- gcr.io/linkerd-io/cli-bin:git-5e091098
+- gcr.io/linkerd-io/cli-bin:git-19a8c726
+- gcr.io/linkerd-io/cni-plugin:git-17e03fb1
+- gcr.io/linkerd-io/cni-plugin:git-5e091098
+- gcr.io/linkerd-io/cni-plugin:git-065dd3ec
+- gcr.io/linkerd-io/cli-bin:git-914b9a01
+- gcr.io/linkerd-io/cni-plugin:git-914b9a01
+- gcr.io/linkerd-io/cni-plugin:git-19a8c726
+- gcr.io/linkerd-io/cni-plugin:git-627e8879
+- gcr.io/linkerd-io/cni-plugin:git-51aa575e
 ### 2019-07-28 01:05:48 Update:
 
 - gcr.io/istio-release/install-cni:release-1.2-20190727-09-15
