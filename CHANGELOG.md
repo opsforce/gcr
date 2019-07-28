@@ -1,3 +1,23 @@
+### 2019-07-29 01:06:40 Update:
+
+- gcr.io/linkerd-io/debug:git-5e091098
+- gcr.io/linkerd-io/debug:git-37475056
+- gcr.io/linkerd-io/debug:git-47c5d477
+- gcr.io/linkerd-io/web:git-47c5d477
+- gcr.io/linkerd-io/web:git-37475056
+- gcr.io/linkerd-io/proxy:fix-3141-0
+- gcr.io/linkerd-io/grafana:git-47c5d477
+- gcr.io/linkerd-io/grafana:git-37475056
+- gcr.io/linkerd-io/controller:git-47c5d477
+- gcr.io/linkerd-io/proxy:tap-identity-chk-4
+- gcr.io/linkerd-io/proxy:git-37475056
+- gcr.io/linkerd-io/proxy:git-47c5d477
+- gcr.io/linkerd-io/cni-plugin:git-37475056
+- gcr.io/linkerd-io/cni-plugin:git-47c5d477
+- gcr.io/linkerd-io/controller:git-37475056
+- gcr.io/linkerd-io/proxy:tap-identity-chk-5
+- gcr.io/linkerd-io/cli-bin:git-37475056
+- gcr.io/linkerd-io/cli-bin:git-47c5d477
 ### 2019-07-29 01:05:16 Update:
 
 - gcr.io/istio-release/install-cni:release-1.1-20190728-09-15
