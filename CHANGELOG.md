@@ -1,3 +1,9 @@
+### 2019-08-02 01:19:12 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190801112820
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190731202817
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190731142817
+- gcr.io/spinnaker-marketplace/kayenta:0.11.0-20190731172817
 ### 2019-08-02 01:17:54 Update:
 
 - gcr.io/linkerd-io/debug:git-2048887a
