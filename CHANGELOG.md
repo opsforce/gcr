@@ -1,3 +1,6 @@
+### 2019-08-03 00:59:20 Update:
+
+- gcr.io/google-containers/event-exporter:v0.3.0
 ### 2019-08-02 01:19:12 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.11.0-20190801112820
