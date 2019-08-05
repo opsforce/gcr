@@ -1,3 +1,10 @@
+### 2019-08-06 01:49:20 Update:
+
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190804161418
+- gcr.io/spinnaker-marketplace/igor:1.4.1-20190804161418
+- gcr.io/spinnaker-marketplace/gate:1.10.0-20190804161418
+- gcr.io/spinnaker-marketplace/fiat:1.6.1-20190804161418
+- gcr.io/spinnaker-marketplace/kayenta:0.10.1-20190802051323
 ### 2019-08-06 01:45:09 Update:
 
 - gcr.io/linkerd-io/grafana:git-8cf5b428
