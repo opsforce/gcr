@@ -1,3 +1,9 @@
+### 2019-08-09 01:31:05 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190807172816
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190808012818
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190807142816
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190807142816
 ### 2019-08-09 01:30:04 Update:
 
 - gcr.io/linkerd-io/grafana:git-5850121d
