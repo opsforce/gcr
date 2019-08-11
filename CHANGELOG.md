@@ -1,3 +1,13 @@
+### 2019-08-12 01:13:37 Update:
+
+- gcr.io/linkerd-io/web:git-639a813f
+- gcr.io/linkerd-io/web:git-26265749
+- gcr.io/linkerd-io/proxy:git-639a813f
+- gcr.io/linkerd-io/proxy:git-26265749
+- gcr.io/linkerd-io/grafana:git-639a813f
+- gcr.io/linkerd-io/grafana:git-26265749
+- gcr.io/linkerd-io/controller:git-639a813f
+- gcr.io/linkerd-io/controller:git-26265749
 ### 2019-08-12 01:12:32 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.2-20190811-09-16
