@@ -1,3 +1,9 @@
+### 2019-08-13 01:20:10 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.8.2-20190812115844
+- gcr.io/spinnaker-marketplace/deck:2.10.2-20190812115844
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190812092348
+- gcr.io/spinnaker-marketplace/clouddriver:6.1.0-20190812114536
 ### 2019-08-13 01:18:17 Update:
 
 - gcr.io/linkerd-io/grafana:git-ca5b4fab
