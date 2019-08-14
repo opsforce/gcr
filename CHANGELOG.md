@@ -1,3 +1,8 @@
+### 2019-08-15 01:06:37 Update:
+
+- gcr.io/google-containers/node-problem-detector:v0.6.6
+- gcr.io/google-containers/cpvpa-amd64:v0.8.1
+- gcr.io/google-containers/kube-cross:v1.12.8-1
 ### 2019-08-14 01:37:15 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.11.0-20190812172819
