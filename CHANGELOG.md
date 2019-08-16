@@ -1,3 +1,8 @@
+### 2019-08-17 01:07:07 Update:
+
+- gcr.io/google-containers/gke-metadata-server:45654e550b4f8c042b25c5b86269123eb46089f5
+- gcr.io/google-containers/gke-metadata-server:v0.2.7
+- gcr.io/google-containers/kube-cross:v1.12.9-1
 ### 2019-08-16 01:39:29 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.9.0-20190814172817
