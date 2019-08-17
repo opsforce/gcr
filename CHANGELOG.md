@@ -1,3 +1,9 @@
+### 2019-08-18 01:07:16 Update:
+
+- gcr.io/google-containers/gke-metadata-server:95633dc2005ae5c1f9764964fb7c78fac719eaf8
+- gcr.io/google-containers/gke-metadata-server:v0.2.8
+- gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.7.0
+- gcr.io/google-containers/kube-cross:v1.11.13-1
 ### 2019-08-17 01:37:32 Update:
 
 - gcr.io/spinnaker-marketplace/front50:0.19.0-20190815172815
