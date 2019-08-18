@@ -1,3 +1,6 @@
+### 2019-08-19 01:16:39 Update:
+
+- gcr.io/linkerd-io/proxy:ver-grpc-eos-status-0
 ### 2019-08-19 01:16:20 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20190818-09-16-distroless

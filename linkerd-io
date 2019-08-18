@@ -12443,6 +12443,7 @@
     "proxy:ver-dst-proto-hint.2",
     "proxy:ver-dst-proto-hint.3",
     "proxy:ver-eventless.0",
+    "proxy:ver-grpc-eos-status-0",
     "proxy:ver-h2-logging-0",
     "proxy:ver-new-balance-0",
     "proxy:ver-protocol-error-fix-0",
