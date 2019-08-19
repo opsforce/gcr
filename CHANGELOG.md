@@ -1,3 +1,6 @@
+### 2019-08-20 01:49:32 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190819112817
 ### 2019-08-20 01:49:02 Update:
 
 - gcr.io/linkerd-io/debug:git-07490dfa
