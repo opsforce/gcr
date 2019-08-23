@@ -1,3 +1,14 @@
+### 2019-08-24 01:50:56 Update:
+
+- gcr.io/distroless/static:2e6c5335a4ae46d0f9a390cb4cacbfe770144167
+- gcr.io/distroless/static:30535a59dc0eb7f2b1930e0da42d894853f0e584
+- gcr.io/distroless/static:ee7342d3055a82b30910ee2a6c9d70771de60efe
+- gcr.io/distroless/base:30535a59dc0eb7f2b1930e0da42d894853f0e584
+- gcr.io/distroless/base:ee7342d3055a82b30910ee2a6c9d70771de60efe
+- gcr.io/distroless/base:2e6c5335a4ae46d0f9a390cb4cacbfe770144167
+- gcr.io/distroless/cc:ee7342d3055a82b30910ee2a6c9d70771de60efe
+- gcr.io/distroless/cc:2e6c5335a4ae46d0f9a390cb4cacbfe770144167
+- gcr.io/distroless/cc:30535a59dc0eb7f2b1930e0da42d894853f0e584
 ### 2019-08-24 01:50:44 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.5.0-20190823012817-slim
