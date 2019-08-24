@@ -1,3 +1,37 @@
+### 2019-08-25 01:37:37 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190823145152
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190823145152
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190823145152
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190823145152
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190823145152
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/fiat:1.7.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/fiat:1.7.0-20190823145152
+- gcr.io/spinnaker-marketplace/fiat:1.7.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.18.1-20190823144532
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190823202816-slim
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190823202816
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190823145152
+- gcr.io/spinnaker-marketplace/halyard:1.23.0-20190823172815
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190823202816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.0-20190823145152
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.0-20190823145152-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.0-20190823145152-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.0-20190823172815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.0-20190823172815
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.0-20190823172815-ubuntu
 ### 2019-08-25 01:25:33 Update:
 
 - gcr.io/linkerd-io/debug:git-42893e7b
