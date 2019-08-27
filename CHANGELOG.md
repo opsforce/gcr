@@ -1,3 +1,6 @@
+### 2019-08-28 01:11:32 Update:
+
+- gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.7.1
 ### 2019-08-27 01:22:57 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20190826-09-16
