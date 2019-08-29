@@ -1,3 +1,35 @@
+### 2019-08-30 01:50:27 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190828142815-slim
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190828142815
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190828142815
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190828142815-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190828151602
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190828142815
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190828142815-slim
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190828142815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190828151602-slim
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190828142815-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190828142815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190829120725
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190829120725-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190828151602-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190829120725-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828142815
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828142815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828155348
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828155348-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828195215-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828195215
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828155348-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828142815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190829102904-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190829102904
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190828195215-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190829102904-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190829112816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190829112816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190829112816
 ### 2019-08-30 01:30:30 Update:
 
 - gcr.io/linkerd-io/grafana:git-1e213cc0
