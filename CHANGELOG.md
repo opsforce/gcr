@@ -1,3 +1,7 @@
+### 2019-08-30 01:13:20 Update:
+
+- gcr.io/google-containers/coredns:1.6.2
+- gcr.io/google-containers/node-problem-detector:v0.7.1
 ### 2019-08-29 01:40:57 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.9.0-20190827172816-slim
