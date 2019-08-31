@@ -1,3 +1,17 @@
+### 2019-09-01 01:38:13 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.11.0-20190830172818
+- gcr.io/spinnaker-marketplace/kayenta:0.11.0-20190830172818-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190830142816-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190830142816
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190830142816-ubuntu
+- gcr.io/spinnaker-marketplace/kayenta:0.11.0-20190830172818-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.23.1-20190830172255
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190830172818
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190830172818-slim
+- gcr.io/spinnaker-marketplace/halyard:1.23.1
+- gcr.io/spinnaker-marketplace/halyard:1.23.1-20190830173808
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190830172818-ubuntu
 ### 2019-09-01 01:30:03 Update:
 
 - gcr.io/linkerd-io/proxy:git-1735fcf8
