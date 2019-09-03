@@ -1,3 +1,10 @@
+### 2019-09-04 01:15:01 Update:
+
+- gcr.io/google-containers/ip-masq-agent-amd64:v2.5.0
+- gcr.io/google-containers/ip-masq-agent:v2.5.0
+- gcr.io/google-containers/ip-masq-agent-arm:v2.5.0
+- gcr.io/google-containers/ip-masq-agent-ppc64le:v2.5.0
+- gcr.io/google-containers/ip-masq-agent-arm64:v2.5.0
 ### 2019-09-03 01:25:42 Update:
 
 - gcr.io/istio-release/node-agent:release-1.0-20190902-13-15
