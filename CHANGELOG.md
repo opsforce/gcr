@@ -1,3 +1,26 @@
+### 2019-09-04 01:30:32 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190903112830
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190903112830-slim
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190903112830-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190903112830
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190903112830-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.0-20190903112830
+- gcr.io/spinnaker-marketplace/rosco:0.14.0-20190903112830-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.0-20190903112830-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190903112830-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190903112830
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190903112830-slim
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190903112830-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190903112830
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190903112830-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190903112830-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190903122809-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190903122809
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190903112830-slim
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190903112830
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190903122809-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190903112830-ubuntu
 ### 2019-09-04 01:26:54 Update:
 
 - gcr.io/istio-release/install-cni:release-1.2-20190903-11-15
