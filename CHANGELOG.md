@@ -1,3 +1,51 @@
+### 2019-09-05 01:20:20 Update:
+
+- gcr.io/google-containers/kube-scheduler-amd64:v1.16.0-beta.2
+- gcr.io/google-containers/kube-proxy-arm64:v1.16.0-beta.2
+- gcr.io/google-containers/kube-controller-manager:v1.16.0-beta.2
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.16.0-beta.2
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.16.0-beta.2
+- gcr.io/google-containers/kube-apiserver-arm64:v1.16.0-beta.2
+- gcr.io/google-containers/kube-proxy:v1.16.0-beta.2
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.16.0-beta.2
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.16.0-beta.2
+- gcr.io/google-containers/kube-proxy-s390x:v1.16.0-beta.2
+- gcr.io/google-containers/kube-scheduler-arm:v1.16.0-beta.2
+- gcr.io/google-containers/kube-apiserver-arm:v1.16.0-beta.2
+- gcr.io/google-containers/kube-proxy-arm:v1.16.0-beta.2
+- gcr.io/google-containers/kube-proxy-amd64:v1.16.0-beta.2
+- gcr.io/google-containers/kube-scheduler-s390x:v1.16.0-beta.2
+- gcr.io/google-containers/kube-scheduler:v1.16.0-beta.2
+- gcr.io/google-containers/kube-apiserver:v1.16.0-beta.2
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.16.0-beta.2
+- gcr.io/google-containers/kube-apiserver-s390x:v1.16.0-beta.2
+- gcr.io/google-containers/kube-scheduler-arm64:v1.16.0-beta.2
+- gcr.io/google-containers/kube-apiserver-amd64:v1.16.0-beta.2
+- gcr.io/google-containers/kube-controller-manager-arm:v1.16.0-beta.2
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.16.0-beta.2
+- gcr.io/google-containers/kubelet-to-gcm:1.2.12
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.16.0-beta.2
+- gcr.io/google-containers/conformance-ppc64le:v1.16.0-beta.2
+- gcr.io/google-containers/conformance-arm64:v1.16.0-beta.2
+- gcr.io/google-containers/metrics-server-arm:v0.3.4
+- gcr.io/google-containers/metrics-server-s390x:v0.3.4
+- gcr.io/google-containers/metrics-server:v0.3.4
+- gcr.io/google-containers/metrics-server-amd64:v0.3.4
+- gcr.io/google-containers/conformance-arm:v1.16.0-beta.2
+- gcr.io/google-containers/conformance-amd64:v1.16.0-beta.2
+- gcr.io/google-containers/metrics-server-arm64:v0.3.4
+- gcr.io/google-containers/conformance:v1.16.0-beta.2
+- gcr.io/google-containers/metrics-server-ppc64le:v0.3.4
+- gcr.io/google-containers/gke-metadata-server:da099ce4c87505210e8f9a5704057d222a75e77f
+- gcr.io/google-containers/gke-metadata-server:v0.2.9
+- gcr.io/google-containers/conformance-s390x:v1.16.0-beta.2
+- gcr.io/google-containers/hyperkube-s390x:v1.16.0-beta.2
+- gcr.io/google-containers/hyperkube:v1.16.0-beta.2
+- gcr.io/google-containers/watcher-daemonset:alpha1
+- gcr.io/google-containers/hyperkube-ppc64le:v1.16.0-beta.2
+- gcr.io/google-containers/hyperkube-amd64:v1.16.0-beta.2
+- gcr.io/google-containers/hyperkube-arm64:v1.16.0-beta.2
+- gcr.io/google-containers/hyperkube-arm:v1.16.0-beta.2
 ### 2019-09-04 01:30:32 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.5.0-20190903112830
