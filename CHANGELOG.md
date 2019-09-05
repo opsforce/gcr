@@ -1,3 +1,18 @@
+### 2019-09-06 01:17:45 Update:
+
+- gcr.io/google-containers/etcd-ppc64le:3.3.15
+- gcr.io/google-containers/etcd-ppc64le:3.3.15-0
+- gcr.io/google-containers/etcd-arm64:3.3.15-0
+- gcr.io/google-containers/etcd-arm64:3.3.15
+- gcr.io/google-containers/etcd-arm:3.3.15
+- gcr.io/google-containers/etcd-arm:3.3.15-0
+- gcr.io/google-containers/etcd-s390x:3.3.15-0
+- gcr.io/google-containers/etcd-s390x:3.3.15
+- gcr.io/google-containers/etcd:3.3.15
+- gcr.io/google-containers/etcd:3.3.15-0
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.3.15.0
+- gcr.io/google-containers/etcd-amd64:3.3.15
+- gcr.io/google-containers/etcd-amd64:3.3.15-0
 ### 2019-09-05 01:56:18 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.5.0-20190904112813
