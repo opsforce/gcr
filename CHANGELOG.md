@@ -1,3 +1,40 @@
+### 2019-09-07 01:48:49 Update:
+
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190906130436
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190906130436
+- gcr.io/spinnaker-marketplace/igor:1.5.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.0-20190906130436
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190906130436
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/echo:2.7.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.14.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190906130436
+- gcr.io/spinnaker-marketplace/front50:0.19.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190905153238-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190905153238
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190905153238-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190905163725
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190905163725-slim
+- gcr.io/spinnaker-marketplace/fiat:1.7.0-20190906130436
+- gcr.io/spinnaker-marketplace/fiat:1.7.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/deck:2.11.0-20190905163725-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190906130436
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/fiat:1.7.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190905142822
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190905142822-slim
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190906130436-slim
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190906130436
+- gcr.io/spinnaker-marketplace/orca:2.9.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190906130436-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190905142822-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190905202815
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190906130436
 ### 2019-09-07 01:35:32 Update:
 
 - gcr.io/linkerd-io/proxy-init:v1.2.0
