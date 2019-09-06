@@ -1,3 +1,6 @@
+### 2019-09-07 01:17:03 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.16.0-beta.1
 ### 2019-09-06 01:53:19 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.11.0-20190905112815-ubuntu
