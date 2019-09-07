@@ -1,3 +1,50 @@
+### 2019-09-08 01:31:32 Update:
+
+- gcr.io/linkerd-io/debug:sigtest20190906.01
+- gcr.io/linkerd-io/debug:git-1adf4ad9
+- gcr.io/linkerd-io/grafana:git-1adf4ad9
+- gcr.io/linkerd-io/grafana:sigtest20190906.01
+- gcr.io/linkerd-io/grafana:dev-a4b30b49-thomas
+- gcr.io/linkerd-io/grafana:git-5446b6a2
+- gcr.io/linkerd-io/grafana:git-3be2b41a
+- gcr.io/linkerd-io/grafana:git-e9835f6b
+- gcr.io/linkerd-io/grafana:git-46d33a10
+- gcr.io/linkerd-io/debug:git-3be2b41a
+- gcr.io/linkerd-io/debug:git-46d33a10
+- gcr.io/linkerd-io/debug:dev-a4b30b49-thomas
+- gcr.io/linkerd-io/cni-plugin:git-1adf4ad9
+- gcr.io/linkerd-io/cni-plugin:sigtest20190906.01
+- gcr.io/linkerd-io/cni-plugin:dev-a4b30b49-thomas
+- gcr.io/linkerd-io/cni-plugin:git-46d33a10
+- gcr.io/linkerd-io/cni-plugin:git-3be2b41a
+- gcr.io/linkerd-io/cli-bin:git-1adf4ad9
+- gcr.io/linkerd-io/cli-bin:dev-a4b30b49-thomas
+- gcr.io/linkerd-io/cli-bin:git-3be2b41a
+- gcr.io/linkerd-io/cli-bin:git-46d33a10
+- gcr.io/linkerd-io/proxy:dev-a4b30b49-thomas
+- gcr.io/linkerd-io/proxy:git-1adf4ad9
+- gcr.io/linkerd-io/cli-bin:sigtest20190906.01
+- gcr.io/linkerd-io/proxy:git-5446b6a2
+- gcr.io/linkerd-io/proxy:git-e9835f6b
+- gcr.io/linkerd-io/proxy:sigtest20190906.01
+- gcr.io/linkerd-io/proxy:git-3be2b41a
+- gcr.io/linkerd-io/proxy:git-46d33a10
+- gcr.io/linkerd-io/proxy:git-806451e3
+- gcr.io/linkerd-io/proxy:tap-headers-0
+- gcr.io/linkerd-io/controller:git-1adf4ad9
+- gcr.io/linkerd-io/controller:git-5446b6a2
+- gcr.io/linkerd-io/controller:git-e9835f6b
+- gcr.io/linkerd-io/controller:dev-a4b30b49-thomas
+- gcr.io/linkerd-io/controller:sigtest20190906.01
+- gcr.io/linkerd-io/controller:git-3be2b41a
+- gcr.io/linkerd-io/controller:git-46d33a10
+- gcr.io/linkerd-io/web:git-1adf4ad9
+- gcr.io/linkerd-io/web:sigtest20190906.01
+- gcr.io/linkerd-io/web:dev-a4b30b49-thomas
+- gcr.io/linkerd-io/web:git-e9835f6b
+- gcr.io/linkerd-io/web:git-5446b6a2
+- gcr.io/linkerd-io/web:git-3be2b41a
+- gcr.io/linkerd-io/web:git-46d33a10
 ### 2019-09-08 01:29:41 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190907-09-16
