@@ -1,3 +1,8 @@
+### 2019-09-08 01:50:08 Update:
+
+- gcr.io/distroless/static:18b2d2c5ebfa58fe3e0e4ee3ffe0e2651ec0f7f6
+- gcr.io/distroless/cc:18b2d2c5ebfa58fe3e0e4ee3ffe0e2651ec0f7f6
+- gcr.io/distroless/base:18b2d2c5ebfa58fe3e0e4ee3ffe0e2651ec0f7f6
 ### 2019-09-08 01:49:56 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.11.0-20190906181836-slim
