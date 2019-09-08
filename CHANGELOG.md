@@ -1,3 +1,8 @@
+### 2019-09-09 01:30:16 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190907142816
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190907142816-slim
+- gcr.io/spinnaker-marketplace/gate:1.11.0-20190907142816-ubuntu
 ### 2019-09-09 01:29:29 Update:
 
 - gcr.io/istio-release/node-agent-k8s:master-20190908-09-16-distroless
