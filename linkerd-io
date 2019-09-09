@@ -13503,6 +13503,7 @@
     "proxy:stable-2.5.0",
     "proxy:strip-dst-canonical-0",
     "proxy:tap-headers-0",
+    "proxy:tap-headers-1",
     "proxy:tap-identity-chk-0",
     "proxy:tap-identity-chk-1",
     "proxy:tap-identity-chk-2",

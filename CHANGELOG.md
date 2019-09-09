@@ -1,3 +1,6 @@
+### 2019-09-10 01:31:15 Update:
+
+- gcr.io/linkerd-io/proxy:tap-headers-1
 ### 2019-09-10 01:30:55 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20190909-10-16-distroless
