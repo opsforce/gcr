@@ -1,3 +1,33 @@
+### 2019-09-11 01:52:50 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.12.0-20190909142815-slim
+- gcr.io/spinnaker-marketplace/gate:1.12.0-20190909202816-slim
+- gcr.io/spinnaker-marketplace/gate:1.12.0-20190909142815
+- gcr.io/spinnaker-marketplace/gate:1.12.0-20190909202816
+- gcr.io/spinnaker-marketplace/gate:1.12.0-20190909142815-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.12.0-20190909202816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190909202816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190909202816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190909172415
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190909172415-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190910012815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190910012815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190909172415-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20190910112815
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20190910112815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190910112815-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20190910112815-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.7.1-20190910075315
+- gcr.io/spinnaker-marketplace/echo:2.7.1-20190910075315-slim
+- gcr.io/spinnaker-marketplace/echo:2.7.1-20190910075315-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190909172415
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190909172415-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190909172415-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190910132116
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190910132116-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190909202816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190910012815-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190910132116-ubuntu
 ### 2019-09-11 01:37:33 Update:
 
 - gcr.io/linkerd-io/debug:git-9bb7b6f1
