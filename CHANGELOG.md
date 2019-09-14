@@ -1,3 +1,26 @@
+### 2019-09-15 01:35:12 Update:
+
+- gcr.io/linkerd-io/controller:git-3b0b4d53
+- gcr.io/linkerd-io/web:tap-headers-2
+- gcr.io/linkerd-io/debug:git-8e91e515
+- gcr.io/linkerd-io/debug:git-3b0b4d53
+- gcr.io/linkerd-io/grafana:git-3b0b4d53
+- gcr.io/linkerd-io/grafana:git-8e91e515
+- gcr.io/linkerd-io/web:git-3b0b4d53
+- gcr.io/linkerd-io/web:git-8e91e515
+- gcr.io/linkerd-io/grafana:tap-headers-2
+- gcr.io/linkerd-io/controller:git-8e91e515
+- gcr.io/linkerd-io/proxy:git-8e91e515
+- gcr.io/linkerd-io/proxy:git-3b0b4d53
+- gcr.io/linkerd-io/debug:tap-headers-2
+- gcr.io/linkerd-io/cni-plugin:git-3b0b4d53
+- gcr.io/linkerd-io/cni-plugin:git-8e91e515
+- gcr.io/linkerd-io/controller:tap-headers-2
+- gcr.io/linkerd-io/proxy:tap-headers-2
+- gcr.io/linkerd-io/cni-plugin:tap-headers-2
+- gcr.io/linkerd-io/cli-bin:git-3b0b4d53
+- gcr.io/linkerd-io/cli-bin:tap-headers-2
+- gcr.io/linkerd-io/cli-bin:git-8e91e515
 ### 2019-09-15 01:33:55 Update:
 
 - gcr.io/istio-release/mixer:release-1.0-20190914-13-16
