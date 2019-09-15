@@ -1,3 +1,12 @@
+### 2019-09-16 01:33:52 Update:
+
+- gcr.io/linkerd-io/proxy:git-280c016d
+- gcr.io/linkerd-io/debug:git-280c016d
+- gcr.io/linkerd-io/cni-plugin:git-280c016d
+- gcr.io/linkerd-io/web:git-280c016d
+- gcr.io/linkerd-io/grafana:git-280c016d
+- gcr.io/linkerd-io/controller:git-280c016d
+- gcr.io/linkerd-io/cli-bin:git-280c016d
 ### 2019-09-16 01:33:11 Update:
 
 - gcr.io/istio-release/mixer:master-20190915-09-16
