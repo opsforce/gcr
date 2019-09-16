@@ -1,3 +1,17 @@
+### 2019-09-17 01:41:38 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916110041-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916110041
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916110041-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916110041
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916110041-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916110041-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916120042
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916120042-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916110041-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916110041
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916110041-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916120042-ubuntu
 ### 2019-09-17 01:34:18 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.1-20190916-12-16
