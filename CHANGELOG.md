@@ -1,3 +1,29 @@
+### 2019-09-18 01:25:02 Update:
+
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm64:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-arm64:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-arm64:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-arm64:1.15.6
 ### 2019-09-17 01:41:38 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.10.0-20190916110041-slim
