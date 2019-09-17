@@ -1,3 +1,6 @@
+### 2019-09-18 01:38:20 Update:
+
+- gcr.io/linkerd-io/base:2019-09-17.01
 ### 2019-09-18 01:37:53 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20190917-10-16-distroless

@@ -3,6 +3,7 @@
     "base:2019-02-19.01",
     "base:2019-08-14.01",
     "base:2019-09-04.01",
+    "base:2019-09-17.01",
     "cli-bin:2241-bump-docker-base",
     "cli-bin:SNAPSHOT-fix-dns-leak",
     "cli-bin:SNAPSHOT-tls-skip-ports",
