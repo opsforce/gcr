@@ -1,3 +1,54 @@
+### 2019-09-19 02:07:17 Update:
+
+- gcr.io/linkerd-io/debug:git-194f552e
+- gcr.io/linkerd-io/debug:git-4d89c521
+- gcr.io/linkerd-io/debug:git-61613146
+- gcr.io/linkerd-io/grafana:git-4d89c521
+- gcr.io/linkerd-io/grafana:git-61613146
+- gcr.io/linkerd-io/grafana:git-88de7192
+- gcr.io/linkerd-io/grafana:git-7e5f5cba
+- gcr.io/linkerd-io/grafana:git-d51f7f77
+- gcr.io/linkerd-io/grafana:git-ef01e10c
+- gcr.io/linkerd-io/grafana:git-194f552e
+- gcr.io/linkerd-io/debug:git-88de7192
+- gcr.io/linkerd-io/debug:git-d51f7f77
+- gcr.io/linkerd-io/debug:git-ef01e10c
+- gcr.io/linkerd-io/debug:git-7e5f5cba
+- gcr.io/linkerd-io/proxy:git-ef01e10c
+- gcr.io/linkerd-io/proxy:git-194f552e
+- gcr.io/linkerd-io/proxy:git-7e5f5cba
+- gcr.io/linkerd-io/proxy:git-88de7192
+- gcr.io/linkerd-io/proxy:git-61613146
+- gcr.io/linkerd-io/proxy:git-4d89c521
+- gcr.io/linkerd-io/proxy:git-d51f7f77
+- gcr.io/linkerd-io/controller:git-4d89c521
+- gcr.io/linkerd-io/controller:git-7e5f5cba
+- gcr.io/linkerd-io/controller:git-194f552e
+- gcr.io/linkerd-io/proxy:git-12f7b910
+- gcr.io/linkerd-io/controller:git-ef01e10c
+- gcr.io/linkerd-io/cni-plugin:git-194f552e
+- gcr.io/linkerd-io/cni-plugin:git-4d89c521
+- gcr.io/linkerd-io/cni-plugin:git-61613146
+- gcr.io/linkerd-io/cni-plugin:git-7e5f5cba
+- gcr.io/linkerd-io/cni-plugin:git-88de7192
+- gcr.io/linkerd-io/cni-plugin:git-d51f7f77
+- gcr.io/linkerd-io/cni-plugin:git-ef01e10c
+- gcr.io/linkerd-io/controller:git-88de7192
+- gcr.io/linkerd-io/controller:git-61613146
+- gcr.io/linkerd-io/controller:git-d51f7f77
+- gcr.io/linkerd-io/web:git-4d89c521
+- gcr.io/linkerd-io/web:git-ef01e10c
+- gcr.io/linkerd-io/web:git-7e5f5cba
+- gcr.io/linkerd-io/web:git-194f552e
+- gcr.io/linkerd-io/web:git-88de7192
+- gcr.io/linkerd-io/web:git-d51f7f77
+- gcr.io/linkerd-io/cli-bin:git-4d89c521
+- gcr.io/linkerd-io/cli-bin:git-194f552e
+- gcr.io/linkerd-io/cli-bin:git-61613146
+- gcr.io/linkerd-io/cli-bin:git-7e5f5cba
+- gcr.io/linkerd-io/cli-bin:git-d51f7f77
+- gcr.io/linkerd-io/cli-bin:git-ef01e10c
+- gcr.io/linkerd-io/cli-bin:git-88de7192
 ### 2019-09-19 02:05:35 Update:
 
 - gcr.io/istio-release/citadel:master-20190918-09-16-distroless
