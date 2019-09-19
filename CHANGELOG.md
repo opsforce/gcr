@@ -1,3 +1,45 @@
+### 2019-09-20 01:38:02 Update:
+
+- gcr.io/linkerd-io/proxy:git-571428f4
+- gcr.io/linkerd-io/proxy:git-30ecddb9
+- gcr.io/linkerd-io/proxy:git-c62c9087
+- gcr.io/linkerd-io/grafana:git-5013c6b9
+- gcr.io/linkerd-io/grafana:git-30ecddb9
+- gcr.io/linkerd-io/grafana:git-c62c9087
+- gcr.io/linkerd-io/grafana:git-f21ac2fa
+- gcr.io/linkerd-io/grafana:git-571428f4
+- gcr.io/linkerd-io/proxy:git-5013c6b9
+- gcr.io/linkerd-io/grafana:git-cfdf28a2
+- gcr.io/linkerd-io/proxy:git-f21ac2fa
+- gcr.io/linkerd-io/proxy:git-cfdf28a2
+- gcr.io/linkerd-io/controller:git-5013c6b9
+- gcr.io/linkerd-io/controller:git-30ecddb9
+- gcr.io/linkerd-io/controller:git-c62c9087
+- gcr.io/linkerd-io/controller:git-f21ac2fa
+- gcr.io/linkerd-io/controller:git-571428f4
+- gcr.io/linkerd-io/debug:git-30ecddb9
+- gcr.io/linkerd-io/debug:git-571428f4
+- gcr.io/linkerd-io/debug:git-f21ac2fa
+- gcr.io/linkerd-io/debug:git-c62c9087
+- gcr.io/linkerd-io/controller:git-cfdf28a2
+- gcr.io/linkerd-io/proxy:l2p-sni
+- gcr.io/linkerd-io/web:git-30ecddb9
+- gcr.io/linkerd-io/debug:git-cfdf28a2
+- gcr.io/linkerd-io/web:git-5013c6b9
+- gcr.io/linkerd-io/web:git-571428f4
+- gcr.io/linkerd-io/web:git-f21ac2fa
+- gcr.io/linkerd-io/web:git-c62c9087
+- gcr.io/linkerd-io/cni-plugin:git-571428f4
+- gcr.io/linkerd-io/cni-plugin:git-c62c9087
+- gcr.io/linkerd-io/cni-plugin:git-30ecddb9
+- gcr.io/linkerd-io/cni-plugin:git-f21ac2fa
+- gcr.io/linkerd-io/web:git-cfdf28a2
+- gcr.io/linkerd-io/cni-plugin:git-cfdf28a2
+- gcr.io/linkerd-io/cli-bin:git-30ecddb9
+- gcr.io/linkerd-io/cli-bin:git-571428f4
+- gcr.io/linkerd-io/cli-bin:git-cfdf28a2
+- gcr.io/linkerd-io/cli-bin:git-c62c9087
+- gcr.io/linkerd-io/cli-bin:git-f21ac2fa
 ### 2019-09-20 01:36:14 Update:
 
 - gcr.io/istio-release/citadel:release-1.1-20190919-12-15
