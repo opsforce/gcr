@@ -1,3 +1,9 @@
+### 2019-09-20 01:25:57 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424
+- gcr.io/google-containers/nvidia-gpu-device-plugin:e3cce9a52ea0034e94512a470f2f26b672204816
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:e3cce9a52ea0034e94512a470f2f26b672204816
 ### 2019-09-19 02:13:55 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.11.0-20190917142816
