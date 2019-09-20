@@ -1,3 +1,14 @@
+### 2019-09-21 01:26:22 Update:
+
+- gcr.io/google-containers/metrics-server-ppc64le:v0.3.5
+- gcr.io/google-containers/metrics-server-arm64:v0.3.5
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.7.1
+- gcr.io/google-containers/metrics-server-s390x:v0.3.5
+- gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le:1.7.1
+- gcr.io/google-containers/metrics-server-arm:v0.3.5
+- gcr.io/google-containers/metrics-server-amd64:v0.3.5
+- gcr.io/google-containers/metrics-server:v0.3.5
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm:1.7.1
 ### 2019-09-20 02:10:08 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20190918172816
