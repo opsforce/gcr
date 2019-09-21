@@ -1,3 +1,27 @@
+### 2019-09-22 01:40:00 Update:
+
+- gcr.io/linkerd-io/web:git-9f70678b
+- gcr.io/linkerd-io/web:git-ac90f52d
+- gcr.io/linkerd-io/web:git-72fa5bbe
+- gcr.io/linkerd-io/grafana:git-ac90f52d
+- gcr.io/linkerd-io/grafana:git-2cf17da3
+- gcr.io/linkerd-io/grafana:git-f685008d
+- gcr.io/linkerd-io/grafana:git-9f70678b
+- gcr.io/linkerd-io/grafana:git-72fa5bbe
+- gcr.io/linkerd-io/web:git-2cf17da3
+- gcr.io/linkerd-io/web:git-f685008d
+- gcr.io/linkerd-io/proxy:git-2cf17da3
+- gcr.io/linkerd-io/proxy:git-72fa5bbe
+- gcr.io/linkerd-io/proxy:git-ac90f52d
+- gcr.io/linkerd-io/proxy:git-9f70678b
+- gcr.io/linkerd-io/proxy:git-f685008d
+- gcr.io/linkerd-io/proxy:git-0437145d
+- gcr.io/linkerd-io/controller:dev-8556f25a-isim
+- gcr.io/linkerd-io/controller:git-2cf17da3
+- gcr.io/linkerd-io/controller:git-72fa5bbe
+- gcr.io/linkerd-io/controller:git-9f70678b
+- gcr.io/linkerd-io/controller:git-ac90f52d
+- gcr.io/linkerd-io/controller:git-f685008d
 ### 2019-09-22 01:39:04 Update:
 
 - gcr.io/istio-release/mixer_codegen:master-20190921-09-16
