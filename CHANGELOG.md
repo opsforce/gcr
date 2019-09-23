@@ -1,3 +1,12 @@
+### 2019-09-24 01:40:42 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923112816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923012816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923012816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923112816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923112816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923012816-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190923112816
 ### 2019-09-24 01:37:44 Update:
 
 - gcr.io/linkerd-io/debug:git-139c6413
