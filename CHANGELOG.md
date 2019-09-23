@@ -1,3 +1,12 @@
+### 2019-09-24 01:37:44 Update:
+
+- gcr.io/linkerd-io/debug:git-139c6413
+- gcr.io/linkerd-io/proxy:git-139c6413
+- gcr.io/linkerd-io/controller:git-139c6413
+- gcr.io/linkerd-io/web:git-139c6413
+- gcr.io/linkerd-io/cni-plugin:git-139c6413
+- gcr.io/linkerd-io/grafana:git-139c6413
+- gcr.io/linkerd-io/cli-bin:git-139c6413
 ### 2019-09-24 01:37:07 Update:
 
 - gcr.io/istio-release/node-agent-k8s:master-20190923-09-15-distroless
