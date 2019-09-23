@@ -1,3 +1,6 @@
+### 2019-09-24 01:26:36 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.16.1
 ### 2019-09-23 01:36:49 Update:
 
 - gcr.io/istio-release/citadel:master-20190922-09-16-distroless
