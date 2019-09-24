@@ -1,3 +1,23 @@
+### 2019-09-25 01:41:37 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.12.0-20190923142816-slim
+- gcr.io/spinnaker-marketplace/kayenta:0.12.0-20190923142816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923172816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923172816
+- gcr.io/spinnaker-marketplace/kayenta:0.12.0-20190923142816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190924112816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190924112816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923142816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923142816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190923142816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190924112816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923142816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923142816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923202816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923202816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923142816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923202816-ubuntu
 ### 2019-09-25 01:38:56 Update:
 
 - gcr.io/linkerd-io/debug:git-e30f5b2e
