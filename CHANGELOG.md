@@ -1,3 +1,7 @@
+### 2019-09-26 01:29:50 Update:
+
+- gcr.io/google-containers/event-exporter:v0.3.1
+- gcr.io/google-containers/watcher-daemonset:alpha2
 ### 2019-09-25 01:41:37 Update:
 
 - gcr.io/spinnaker-marketplace/kayenta:0.12.0-20190923142816-slim
