@@ -1,3 +1,30 @@
+### 2019-09-26 01:41:10 Update:
+
+- gcr.io/linkerd-io/controller:git-00fcd238
+- gcr.io/linkerd-io/debug:git-08088573
+- gcr.io/linkerd-io/debug:git-00fcd238
+- gcr.io/linkerd-io/debug:git-fa01b499
+- gcr.io/linkerd-io/controller:git-08088573
+- gcr.io/linkerd-io/grafana:git-e30f5b2e
+- gcr.io/linkerd-io/grafana:git-08088573
+- gcr.io/linkerd-io/grafana:git-00fcd238
+- gcr.io/linkerd-io/grafana:git-fa01b499
+- gcr.io/linkerd-io/controller:git-fa01b499
+- gcr.io/linkerd-io/controller:tilt-2981aa5a97f3d5d7
+- gcr.io/linkerd-io/grafana:tilt-3d58d2b0149f6016
+- gcr.io/linkerd-io/controller:tilt-1ede0e618d7b3e03
+- gcr.io/linkerd-io/proxy:git-08088573
+- gcr.io/linkerd-io/cni-plugin:git-00fcd238
+- gcr.io/linkerd-io/cni-plugin:git-fa01b499
+- gcr.io/linkerd-io/proxy:git-00fcd238
+- gcr.io/linkerd-io/proxy:git-fa01b499
+- gcr.io/linkerd-io/web:git-00fcd238
+- gcr.io/linkerd-io/web:git-fa01b499
+- gcr.io/linkerd-io/web:tilt-e637874c3848cf07
+- gcr.io/linkerd-io/cni-plugin:git-08088573
+- gcr.io/linkerd-io/web:git-08088573
+- gcr.io/linkerd-io/cli-bin:git-00fcd238
+- gcr.io/linkerd-io/cli-bin:git-fa01b499
 ### 2019-09-26 01:40:05 Update:
 
 - gcr.io/istio-release/servicegraph:release-1.1-20190925-12-15
