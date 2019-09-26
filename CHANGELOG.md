@@ -1,3 +1,7 @@
+### 2019-09-27 01:30:12 Update:
+
+- gcr.io/google-containers/addon-resizer:1.8.6
+- gcr.io/google-containers/kube-cross:v1.12.10-1
 ### 2019-09-26 01:53:07 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20190924202815-slim
