@@ -1,3 +1,39 @@
+### 2019-09-27 01:55:50 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190924142816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190925142815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190925142815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190925202815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190926012816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190925202815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190926012816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190925202815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190925142815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190926012816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190926112815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190926112815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190926112815-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190925142815
+- gcr.io/spinnaker-marketplace/echo:2.8.1-20190926075316
+- gcr.io/spinnaker-marketplace/echo:2.8.1-20190926075316-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190925142815-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190925142815-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190925142815
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190925202815-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190925142815-slim
+- gcr.io/spinnaker-marketplace/echo:2.8.1-20190926075316-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190925202815
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190925202815-slim
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190925142815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926112815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190925202815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190925202815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190925142815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190925142815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926112815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926112815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190925202815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190925142815-ubuntu
 ### 2019-09-27 01:44:07 Update:
 
 - gcr.io/linkerd-io/debug:git-096668d6
