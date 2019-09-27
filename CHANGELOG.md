@@ -1,3 +1,57 @@
+### 2019-09-28 01:41:04 Update:
+
+- gcr.io/linkerd-io/debug:edge-19.9.4
+- gcr.io/linkerd-io/grafana:git-511895c6
+- gcr.io/linkerd-io/grafana:edge-19.9.4
+- gcr.io/linkerd-io/grafana:git-5ad12332
+- gcr.io/linkerd-io/grafana:git-5455a344
+- gcr.io/linkerd-io/grafana:git-9f21c8b4
+- gcr.io/linkerd-io/grafana:git-a47ef729
+- gcr.io/linkerd-io/grafana:git-8f83a564
+- gcr.io/linkerd-io/grafana:git-4799baa8
+- gcr.io/linkerd-io/grafana:git-3e08aa96
+- gcr.io/linkerd-io/proxy:edge-19.9.4
+- gcr.io/linkerd-io/debug:git-4799baa8
+- gcr.io/linkerd-io/debug:git-5ad12332
+- gcr.io/linkerd-io/debug:git-511895c6
+- gcr.io/linkerd-io/debug:git-9f21c8b4
+- gcr.io/linkerd-io/debug:git-8f83a564
+- gcr.io/linkerd-io/proxy:git-3e08aa96
+- gcr.io/linkerd-io/proxy:git-4799baa8
+- gcr.io/linkerd-io/proxy:git-8f83a564
+- gcr.io/linkerd-io/proxy:git-511895c6
+- gcr.io/linkerd-io/proxy:eliza-tap-headers.0
+- gcr.io/linkerd-io/proxy:git-a47ef729
+- gcr.io/linkerd-io/proxy:git-9f21c8b4
+- gcr.io/linkerd-io/proxy:git-5ad12332
+- gcr.io/linkerd-io/controller:git-4799baa8
+- gcr.io/linkerd-io/controller:edge-19.9.4
+- gcr.io/linkerd-io/controller:git-3e08aa96
+- gcr.io/linkerd-io/controller:git-8f83a564
+- gcr.io/linkerd-io/controller:git-9f21c8b4
+- gcr.io/linkerd-io/controller:git-5ad12332
+- gcr.io/linkerd-io/controller:git-511895c6
+- gcr.io/linkerd-io/controller:git-a47ef729
+- gcr.io/linkerd-io/web:edge-19.9.4
+- gcr.io/linkerd-io/web:git-9f21c8b4
+- gcr.io/linkerd-io/web:git-3e08aa96
+- gcr.io/linkerd-io/web:git-4799baa8
+- gcr.io/linkerd-io/web:git-5ad12332
+- gcr.io/linkerd-io/web:git-8f83a564
+- gcr.io/linkerd-io/web:git-511895c6
+- gcr.io/linkerd-io/web:git-a47ef729
+- gcr.io/linkerd-io/cli-bin:edge-19.9.4
+- gcr.io/linkerd-io/cli-bin:git-4799baa8
+- gcr.io/linkerd-io/cli-bin:git-5ad12332
+- gcr.io/linkerd-io/cli-bin:git-511895c6
+- gcr.io/linkerd-io/cli-bin:git-8f83a564
+- gcr.io/linkerd-io/cni-plugin:edge-19.9.4
+- gcr.io/linkerd-io/cli-bin:git-9f21c8b4
+- gcr.io/linkerd-io/cni-plugin:git-5ad12332
+- gcr.io/linkerd-io/cni-plugin:git-9f21c8b4
+- gcr.io/linkerd-io/cni-plugin:git-8f83a564
+- gcr.io/linkerd-io/cni-plugin:git-511895c6
+- gcr.io/linkerd-io/cni-plugin:git-4799baa8
 ### 2019-09-28 01:38:33 Update:
 
 - gcr.io/istio-release/mixer:release-1.2-20190927-11-16
