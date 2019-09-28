@@ -1,3 +1,7 @@
+### 2019-09-29 01:28:30 Update:
+
+- gcr.io/google-containers/gke-metadata-server:v0.2.10
+- gcr.io/google-containers/gke-metadata-server:2b2c39e51b5516ea87e194706edab17e58ad1096
 ### 2019-09-28 01:59:13 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.6.1-20190926202816
