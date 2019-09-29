@@ -1,3 +1,13 @@
+### 2019-09-30 01:40:13 Update:
+
+- gcr.io/linkerd-io/debug:git-a3a240e0
+- gcr.io/linkerd-io/web:git-a3a240e0
+- gcr.io/linkerd-io/grafana:git-a3a240e0
+- gcr.io/linkerd-io/proxy:git-a3a240e0
+- gcr.io/linkerd-io/cli-bin:git-a3a240e0
+- gcr.io/linkerd-io/cni-plugin:git-a3a240e0
+- gcr.io/linkerd-io/controller:git-a3a240e0
+- gcr.io/linkerd-io/go-deps:7777de65
 ### 2019-09-30 01:37:59 Update:
 
 - gcr.io/istio-release/citadel:master-20190929-09-15-distroless
