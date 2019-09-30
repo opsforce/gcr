@@ -1,3 +1,8 @@
+### 2019-10-01 01:38:28 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817-ubuntu
 ### 2019-10-01 01:37:43 Update:
 
 - gcr.io/istio-release/proxytproxy:master-20190930-09-15-distroless
