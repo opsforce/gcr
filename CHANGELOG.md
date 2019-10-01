@@ -1,3 +1,24 @@
+### 2019-10-02 01:44:31 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20190930142815-slim
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20190930142815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930142815-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20190930142815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.1-20190930154822-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930142815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930142815
+- gcr.io/spinnaker-marketplace/deck:2.10.4-20191001051323
+- gcr.io/spinnaker-marketplace/deck:2.12.1-20190930154822-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.1-20190930154822
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930172815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930172815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930172815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191001012816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191001012816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191001012816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190930142815
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190930142815-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190930142815-ubuntu
 ### 2019-10-02 01:41:38 Update:
 
 - gcr.io/linkerd-io/controller:edge-19.9.5
