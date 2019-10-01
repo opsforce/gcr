@@ -1,3 +1,9 @@
+### 2019-10-02 01:28:46 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:589980f322ccce64a118660ff58abf6765197c65
+- gcr.io/google-containers/gke-metadata-server:v0.2.11
+- gcr.io/google-containers/gke-metadata-server:7b28a8ea4ac0da33ba983aab02168e36d3aa0680
+- gcr.io/google-containers/watcher-daemonset:alpha3
 ### 2019-10-01 01:38:28 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817
