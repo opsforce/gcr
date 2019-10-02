@@ -1,3 +1,35 @@
+### 2019-10-03 01:55:01 Update:
+
+- gcr.io/distroless/static:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/static:6dd426d37e95b02893f14bcee72640f50dc9beba
+- gcr.io/distroless/base-debian9:nonroot
+- gcr.io/distroless/base-debian10:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian10:debug
+- gcr.io/distroless/base:6dd426d37e95b02893f14bcee72640f50dc9beba
+- gcr.io/distroless/base:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian10:debug-nonroot
+- gcr.io/distroless/cc-debian10:debug
+- gcr.io/distroless/cc-debian10:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian10:nonroot
+- gcr.io/distroless/cc:6dd426d37e95b02893f14bcee72640f50dc9beba
+- gcr.io/distroless/cc:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/static-debian10:nonroot
+- gcr.io/distroless/static-debian10:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian9:debug-nonroot
+- gcr.io/distroless/static-debian9:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian9:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/python3-debian9:latest
+- gcr.io/distroless/python3-debian9:debug
+- gcr.io/distroless/static-debian9:nonroot
+- gcr.io/distroless/python3-debian10:debug
+- gcr.io/distroless/python3-debian10:latest
+- gcr.io/distroless/cc-debian9:debug
+- gcr.io/distroless/cc-debian9:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian9:debug
+- gcr.io/distroless/python2.7-debian10:debug
+- gcr.io/distroless/python2.7-debian10:latest
+- gcr.io/distroless/python2.7-debian9:latest
+- gcr.io/distroless/python2.7-debian9:debug
 ### 2019-10-03 01:54:20 Update:
 
 - gcr.io/spinnaker-marketplace/front50:0.20.0-20191001142815-slim
