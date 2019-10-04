@@ -1,3 +1,7 @@
+### 2019-10-05 01:30:30 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.8.0
+- gcr.io/google-containers/watcher-daemonset:alpha4
 ### 2019-10-04 02:08:45 Update:
 
 - gcr.io/spinnaker-marketplace/echo:2.9.0-20191003112815-ubuntu
