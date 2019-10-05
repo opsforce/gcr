@@ -1,3 +1,26 @@
+### 2019-10-06 01:48:45 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191004172816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191004172816-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191005075315-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191005075315
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191004172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191005075315-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004142816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004142816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004142816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004172816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004172816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004172816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004172816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.2-20191005075315-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.2-20191005075315
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004202817-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004202817
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191004202817-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004172816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.2-20191005075315-ubuntu
 ### 2019-10-06 01:39:07 Update:
 
 - gcr.io/linkerd-io/controller:git-c5d68ecb
