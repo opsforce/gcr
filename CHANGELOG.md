@@ -1,3 +1,11 @@
+### 2019-10-07 01:43:39 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191006012816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191006012816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191006012816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816-ubuntu
 ### 2019-10-07 01:39:46 Update:
 
 - gcr.io/istio-release/citadel:release-1.1-20191006-12-15
