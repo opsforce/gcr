@@ -1,3 +1,19 @@
+### 2019-10-08 01:43:43 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007112816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007112816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191007075316-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191007075316
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191007075316-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.24.1-20191007112816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007112816
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.16.0-20191007112816
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.16.0-20191007112816-slim
+- gcr.io/spinnaker-marketplace/halyard:1.24.1-20191007112816-ubuntu
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.16.0-20191007112816-ubuntu
 ### 2019-10-08 01:39:45 Update:
 
 - gcr.io/istio-release/galley:release-1.3-20191007-10-15-distroless
