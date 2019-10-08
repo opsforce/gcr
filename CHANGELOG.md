@@ -1,3 +1,35 @@
+### 2019-10-09 01:51:24 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007202817-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007202817
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007202817-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191008112815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191008112815
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191007202817-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191007142820
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191008112815-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191007202817
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191007202817-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191008112815
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191008112815-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191008112815-ubuntu
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.15.1-20191008075316
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.15.1-20191008075316-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191007142820-slim
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.15.1-20191008075316-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191008075316-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191008075316
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191007142820-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191008075316
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191008075316-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191007172816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191007172816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191007172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191008075316-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007172816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007172816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191007172816-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191008075316-ubuntu
 ### 2019-10-09 01:42:14 Update:
 
 - gcr.io/linkerd-io/proxy:git-3e06427a
