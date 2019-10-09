@@ -1,3 +1,12 @@
+### 2019-10-10 01:46:58 Update:
+
+- gcr.io/linkerd-io/controller:git-cf69dedf
+- gcr.io/linkerd-io/proxy:git-cf69dedf
+- gcr.io/linkerd-io/web:git-cf69dedf
+- gcr.io/linkerd-io/debug:git-cf69dedf
+- gcr.io/linkerd-io/cni-plugin:git-cf69dedf
+- gcr.io/linkerd-io/grafana:git-cf69dedf
+- gcr.io/linkerd-io/cli-bin:git-cf69dedf
 ### 2019-10-10 01:46:17 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.3-20191009-10-15-distroless
