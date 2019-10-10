@@ -1,3 +1,13 @@
+### 2019-10-11 01:46:18 Update:
+
+- gcr.io/linkerd-io/proxy:edge-19.10.2
+- gcr.io/linkerd-io/controller:edge-19.10.2
+- gcr.io/linkerd-io/cni-plugin:edge-19.10.2
+- gcr.io/linkerd-io/web:edge-19.10.2
+- gcr.io/linkerd-io/debug:edge-19.10.2
+- gcr.io/linkerd-io/grafana:edge-19.10.2
+- gcr.io/linkerd-io/cli-bin:edge-19.10.2
+- gcr.io/linkerd-io/website-builder:1.3.0
 ### 2019-10-11 01:43:36 Update:
 
 - gcr.io/istio-release/mixer:release-1.1-20191010-12-16
