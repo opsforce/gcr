@@ -1,3 +1,41 @@
+### 2019-10-12 01:52:51 Update:
+
+- gcr.io/distroless/static:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/static:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/static:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/static:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/static-debian10:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/static-debian10:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/static-debian10:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/static-debian10:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/base-debian9:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/cc:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/cc:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/cc:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/cc:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/static-debian9:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/static-debian9:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/static-debian9:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/static-debian9:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/cc-debian9:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/cc-debian9:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/cc-debian9:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/cc-debian9:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/base:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/base:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/base:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/base:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/base-debian10:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/base-debian10:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/base-debian10:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/base-debian10:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/base-debian9:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/base-debian9:2ecaffca0be87a34dc52c35adf195070457c1151
+- gcr.io/distroless/base-debian9:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/cc-debian10:7aa2a6cceaa7f608faf331a8db8e9f6c81c502a0
+- gcr.io/distroless/cc-debian10:0209d7e7f581851e9b390b60fe6043ed55864531
+- gcr.io/distroless/cc-debian10:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24
+- gcr.io/distroless/cc-debian10:2ecaffca0be87a34dc52c35adf195070457c1151
 ### 2019-10-12 01:52:21 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20191010140531-slim
