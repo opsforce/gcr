@@ -1,3 +1,42 @@
+### 2019-10-12 01:52:21 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010140531-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010140531
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191011075315-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191011075315
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191010180819-slim
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191010180819
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010140531-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191011113539-slim
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191011113539
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191011075315-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191010180819-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191011012816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191011012816
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191011113539-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191011012816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191011113539-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191011113539
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191011113539-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191011075315
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191011075315-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191011075315-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011113539
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010153344
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010153344-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010153344-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010180819
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010180819-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191010180819-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011012816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011113539-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011012816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011012816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011113539-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.25.0-20191010140531
+- gcr.io/spinnaker-marketplace/halyard:1.25.0-20191010180819
+- gcr.io/spinnaker-marketplace/halyard:1.25.0-20191010140531-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.25.0-20191010180819-ubuntu
 ### 2019-10-12 01:43:32 Update:
 
 - gcr.io/linkerd-io/controller:stable-2.6.0
