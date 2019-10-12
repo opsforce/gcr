@@ -1,3 +1,30 @@
+### 2019-10-13 01:39:11 Update:
+
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.4.2.0
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.3.17.0
+- gcr.io/google-containers/etcd-ppc64le:3.4.2
+- gcr.io/google-containers/etcd-ppc64le:3.4.2-0
+- gcr.io/google-containers/etcd-arm64:3.4.2
+- gcr.io/google-containers/etcd-arm64:3.4.2-0
+- gcr.io/google-containers/etcd-ppc64le:3.3.17
+- gcr.io/google-containers/etcd-ppc64le:3.3.17-0
+- gcr.io/google-containers/etcd-arm64:3.3.17
+- gcr.io/google-containers/etcd-s390x:3.3.17
+- gcr.io/google-containers/etcd-s390x:3.3.17-0
+- gcr.io/google-containers/etcd-arm:3.3.17-0
+- gcr.io/google-containers/etcd-arm:3.3.17
+- gcr.io/google-containers/etcd-s390x:3.4.2-0
+- gcr.io/google-containers/etcd-s390x:3.4.2
+- gcr.io/google-containers/etcd-arm:3.4.2
+- gcr.io/google-containers/etcd-arm:3.4.2-0
+- gcr.io/google-containers/etcd-amd64:3.3.17
+- gcr.io/google-containers/etcd-amd64:3.3.17-0
+- gcr.io/google-containers/etcd:3.3.17-0
+- gcr.io/google-containers/etcd:3.3.17
+- gcr.io/google-containers/etcd-amd64:3.4.2
+- gcr.io/google-containers/etcd-amd64:3.4.2-0
+- gcr.io/google-containers/etcd:3.4.2
+- gcr.io/google-containers/etcd:3.4.2-0
 ### 2019-10-12 01:52:51 Update:
 
 - gcr.io/distroless/static:0209d7e7f581851e9b390b60fe6043ed55864531
