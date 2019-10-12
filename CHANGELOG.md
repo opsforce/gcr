@@ -1,3 +1,23 @@
+### 2019-10-13 01:50:17 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011151407
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011142202
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011142202-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011142202-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191012012816-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191011172815
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191011172815-slim
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191012012816
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191012012816-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011151407-slim
+- gcr.io/spinnaker-marketplace/rosco:0.15.0-20191011172815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011151407-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011163801
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011163801-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191011163801-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191012075315-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191012075315
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191012075315-ubuntu
 ### 2019-10-13 01:46:38 Update:
 
 - gcr.io/istio-release/citadel:release-1.2-20191012-11-16
