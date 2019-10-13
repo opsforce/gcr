@@ -2935,6 +2935,7 @@
     "etcd-arm64:3.3.15",
     "etcd-arm64:3.3.15-0",
     "etcd-arm64:3.3.17",
+    "etcd-arm64:3.3.17-0",
     "etcd-arm64:3.4.2",
     "etcd-arm64:3.4.2-0",
     "etcd-arm:2.2.1",

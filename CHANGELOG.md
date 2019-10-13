@@ -1,3 +1,6 @@
+### 2019-10-14 01:35:34 Update:
+
+- gcr.io/google-containers/etcd-arm64:3.3.17-0
 ### 2019-10-13 01:50:17 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20191011151407
