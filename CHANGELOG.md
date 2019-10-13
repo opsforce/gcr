@@ -1,3 +1,6 @@
+### 2019-10-14 01:43:36 Update:
+
+- gcr.io/linkerd-io/proxy:ver-split-proxies.0
 ### 2019-10-14 01:43:10 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20191013-10-16-distroless
