@@ -1,3 +1,8 @@
+### 2019-10-15 01:44:43 Update:
+
+- gcr.io/linkerd-io/proxy:ver-split-proxies.3
+- gcr.io/linkerd-io/proxy:ver-split-proxies.2
+- gcr.io/linkerd-io/proxy:ver-split-proxies.1
 ### 2019-10-15 01:44:14 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20191014-10-16-distroless
