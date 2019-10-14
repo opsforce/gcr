@@ -1,3 +1,11 @@
+### 2019-10-15 01:36:03 Update:
+
+- gcr.io/google-containers/metrics-server-ppc64le:v0.3.6
+- gcr.io/google-containers/metrics-server:v0.3.6
+- gcr.io/google-containers/metrics-server-amd64:v0.3.6
+- gcr.io/google-containers/metrics-server-arm:v0.3.6
+- gcr.io/google-containers/metrics-server-arm64:v0.3.6
+- gcr.io/google-containers/metrics-server-s390x:v0.3.6
 ### 2019-10-14 01:43:36 Update:
 
 - gcr.io/linkerd-io/proxy:ver-split-proxies.0
