@@ -1,3 +1,14 @@
+### 2019-10-15 01:46:53 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191014112816
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191014112816-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191014130426
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191014130426-slim
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191014130426
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191014130426-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191014112816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.2-20191014130426-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.14.1-20191014130426-ubuntu
 ### 2019-10-15 01:44:43 Update:
 
 - gcr.io/linkerd-io/proxy:ver-split-proxies.3
