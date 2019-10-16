@@ -1,3 +1,6 @@
+### 2019-10-17 02:08:21 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.15.0-rc.2
 ### 2019-10-17 02:07:55 Update:
 
 - gcr.io/google-containers/kube-scheduler:v1.16.3-beta.0
