@@ -1,3 +1,26 @@
+### 2019-10-17 02:16:58 Update:
+
+- gcr.io/linkerd-io/controller:git-53d633cb
+- gcr.io/linkerd-io/web:git-1e44513f
+- gcr.io/linkerd-io/debug:git-ff69c29f
+- gcr.io/linkerd-io/debug:git-1e44513f
+- gcr.io/linkerd-io/debug:git-53d633cb
+- gcr.io/linkerd-io/grafana:git-53d633cb
+- gcr.io/linkerd-io/controller:git-1e44513f
+- gcr.io/linkerd-io/grafana:git-ff69c29f
+- gcr.io/linkerd-io/controller:git-ff69c29f
+- gcr.io/linkerd-io/grafana:git-1e44513f
+- gcr.io/linkerd-io/proxy:git-1e44513f
+- gcr.io/linkerd-io/proxy:git-ff69c29f
+- gcr.io/linkerd-io/web:git-ff69c29f
+- gcr.io/linkerd-io/proxy:git-53d633cb
+- gcr.io/linkerd-io/web:git-53d633cb
+- gcr.io/linkerd-io/cni-plugin:git-53d633cb
+- gcr.io/linkerd-io/cni-plugin:git-1e44513f
+- gcr.io/linkerd-io/cni-plugin:git-ff69c29f
+- gcr.io/linkerd-io/cli-bin:git-53d633cb
+- gcr.io/linkerd-io/cli-bin:git-1e44513f
+- gcr.io/linkerd-io/cli-bin:git-ff69c29f
 ### 2019-10-17 02:15:46 Update:
 
 - gcr.io/istio-release/install-cni:release-1.1-20191016-12-16
