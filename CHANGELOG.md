@@ -1,3 +1,6 @@
+### 2019-10-18 01:36:33 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.6.1
 ### 2019-10-17 02:16:58 Update:
 
 - gcr.io/linkerd-io/controller:git-53d633cb
