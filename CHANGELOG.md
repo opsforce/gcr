@@ -1,3 +1,19 @@
+### 2019-10-19 01:46:24 Update:
+
+- gcr.io/linkerd-io/controller:edge-19.10.3
+- gcr.io/linkerd-io/controller:git-dcd9e936
+- gcr.io/linkerd-io/web:git-dcd9e936
+- gcr.io/linkerd-io/proxy:edge-19.10.3
+- gcr.io/linkerd-io/debug:edge-19.10.3
+- gcr.io/linkerd-io/debug:git-dcd9e936
+- gcr.io/linkerd-io/cni-plugin:edge-19.10.3
+- gcr.io/linkerd-io/proxy:git-dcd9e936
+- gcr.io/linkerd-io/web:edge-19.10.3
+- gcr.io/linkerd-io/grafana:edge-19.10.3
+- gcr.io/linkerd-io/grafana:git-dcd9e936
+- gcr.io/linkerd-io/cni-plugin:git-dcd9e936
+- gcr.io/linkerd-io/cli-bin:edge-19.10.3
+- gcr.io/linkerd-io/cli-bin:git-dcd9e936
 ### 2019-10-19 01:45:20 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20191018-10-16-distroless
