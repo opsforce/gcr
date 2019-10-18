@@ -1,3 +1,6 @@
+### 2019-10-19 01:37:52 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.15.0
 ### 2019-10-19 01:37:26 Update:
 
 - gcr.io/google-containers/cluster-autoscaler:v1.13.8
