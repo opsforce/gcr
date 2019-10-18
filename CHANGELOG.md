@@ -1,3 +1,7 @@
+### 2019-10-19 01:37:26 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.13.8
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.1
 ### 2019-10-18 02:14:39 Update:
 
 - gcr.io/spinnaker-marketplace/rosco:0.15.0-20191017112554
