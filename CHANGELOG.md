@@ -1,3 +1,7 @@
+### 2019-10-20 01:40:30 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.1-rc1
+- gcr.io/google-containers/kube-cross:v1.12.12-1
 ### 2019-10-19 02:13:15 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20191017172816-slim
