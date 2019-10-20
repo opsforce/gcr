@@ -1017,6 +1017,7 @@
     "clouddriver:6.4.0-20191018142816-slim",
     "clouddriver:6.4.0-20191018142816-ubuntu",
     "clouddriver:6.4.0-20191018210537",
+    "clouddriver:6.4.0-20191018210537-slim",
     "clouddriver:6.4.0-20191018210537-ubuntu",
     "deck:1.2.0-33",
     "deck:1.2.0-411",
