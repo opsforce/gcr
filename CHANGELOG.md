@@ -1,3 +1,19 @@
+### 2019-10-22 01:51:54 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.7.0-20191021122437
+- gcr.io/spinnaker-marketplace/igor:1.7.0-20191021122437-slim
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191021122437
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191021122437-slim
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191021122437-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191021122437-slim
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191021122437
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191021122437-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.7.0-20191021122437-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191021122437-slim
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191021122437
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191021122437-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.25.0-20191021122437
+- gcr.io/spinnaker-marketplace/halyard:1.25.0-20191021122437-ubuntu
 ### 2019-10-22 01:47:59 Update:
 
 - gcr.io/linkerd-io/proxy:git-a94122bf
