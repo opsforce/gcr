@@ -1,3 +1,20 @@
+### 2019-10-23 01:50:16 Update:
+
+- gcr.io/linkerd-io/proxy:git-3b3dfa70
+- gcr.io/linkerd-io/controller:git-3b3dfa70
+- gcr.io/linkerd-io/proxy:git-0f9ea553
+- gcr.io/linkerd-io/debug:git-3b3dfa70
+- gcr.io/linkerd-io/debug:git-0f9ea553
+- gcr.io/linkerd-io/controller:git-0f9ea553
+- gcr.io/linkerd-io/cni-plugin:git-0f9ea553
+- gcr.io/linkerd-io/cni-plugin:git-3b3dfa70
+- gcr.io/linkerd-io/grafana:git-0f9ea553
+- gcr.io/linkerd-io/web:git-0f9ea553
+- gcr.io/linkerd-io/grafana:git-3b3dfa70
+- gcr.io/linkerd-io/web:git-3b3dfa70
+- gcr.io/linkerd-io/cli-bin:git-3b3dfa70
+- gcr.io/linkerd-io/cli-bin:git-0f9ea553
+- gcr.io/linkerd-io/go-deps:98181d11
 ### 2019-10-23 01:47:20 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20191022-10-15-distroless
