@@ -1,3 +1,9 @@
+### 2019-10-23 01:39:38 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.1-rc2
+- gcr.io/google-containers/cadvisor:v0.34.0
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
 ### 2019-10-22 01:51:54 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.7.0-20191021122437
