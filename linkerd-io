@@ -14244,6 +14244,8 @@
     "proxy:ver-traffic-split-demo-7",
     "proxy:ver-traffic-split-demo-8",
     "proxy:ver-traffic-split-demo-9",
+    "proxy:ver-transport-metrics-after-protocol.0",
+    "proxy:ver-transport-metrics-after-protocol.1",
     "proxy:ver-update-tower-balance-0",
     "proxy:ver-update-tower-balance-1",
     "proxy:ver-update-tower-balance-2",

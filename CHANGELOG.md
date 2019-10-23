@@ -1,3 +1,7 @@
+### 2019-10-24 01:53:04 Update:
+
+- gcr.io/linkerd-io/proxy:ver-transport-metrics-after-protocol.1
+- gcr.io/linkerd-io/proxy:ver-transport-metrics-after-protocol.0
 ### 2019-10-24 01:52:38 Update:
 
 - gcr.io/istio-release/install-cni:release-1.1-20191023-12-16
