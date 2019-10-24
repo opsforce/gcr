@@ -1,3 +1,26 @@
+### 2019-10-25 01:52:19 Update:
+
+- gcr.io/linkerd-io/controller:edge-19.10.4
+- gcr.io/linkerd-io/proxy:edge-19.10.4
+- gcr.io/linkerd-io/proxy:git-397970e9
+- gcr.io/linkerd-io/proxy:git-78b6f42e
+- gcr.io/linkerd-io/controller:git-397970e9
+- gcr.io/linkerd-io/debug:git-397970e9
+- gcr.io/linkerd-io/debug:edge-19.10.4
+- gcr.io/linkerd-io/debug:git-78b6f42e
+- gcr.io/linkerd-io/grafana:git-78b6f42e
+- gcr.io/linkerd-io/grafana:git-397970e9
+- gcr.io/linkerd-io/grafana:edge-19.10.4
+- gcr.io/linkerd-io/web:git-397970e9
+- gcr.io/linkerd-io/web:edge-19.10.4
+- gcr.io/linkerd-io/controller:git-78b6f42e
+- gcr.io/linkerd-io/web:git-78b6f42e
+- gcr.io/linkerd-io/cni-plugin:edge-19.10.4
+- gcr.io/linkerd-io/cni-plugin:git-397970e9
+- gcr.io/linkerd-io/cni-plugin:git-78b6f42e
+- gcr.io/linkerd-io/cli-bin:git-397970e9
+- gcr.io/linkerd-io/cli-bin:git-78b6f42e
+- gcr.io/linkerd-io/cli-bin:edge-19.10.4
 ### 2019-10-25 01:51:14 Update:
 
 - gcr.io/istio-release/citadel:release-1.1-20191024-12-16
