@@ -1,3 +1,15 @@
+### 2019-10-26 01:54:07 Update:
+
+- gcr.io/linkerd-io/proxy:ver-transsport-metrics-after-protocol-with-config-split.0
+- gcr.io/linkerd-io/proxy:ver-transport-metrics-after-protocol-with-config-split.0
+- gcr.io/linkerd-io/controller:git-0017f9a6
+- gcr.io/linkerd-io/debug:git-0017f9a6
+- gcr.io/linkerd-io/web:git-0017f9a6
+- gcr.io/linkerd-io/proxy:git-0017f9a6
+- gcr.io/linkerd-io/cli-bin:git-0017f9a6
+- gcr.io/linkerd-io/grafana:git-0017f9a6
+- gcr.io/linkerd-io/cni-plugin:git-0017f9a6
+- gcr.io/linkerd-io/go-deps:f4c3ddf4
 ### 2019-10-26 01:51:20 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.2-20191025-11-15
