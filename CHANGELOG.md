@@ -1,3 +1,9 @@
+### 2019-10-26 01:42:57 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.8.2
+- gcr.io/google-containers/nvidia-gpu-device-plugin:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
+- gcr.io/google-containers/kube-cross:v1.13.3-1
 ### 2019-10-25 02:16:05 Update:
 
 - gcr.io/spinnaker-marketplace/rosco:0.15.0-20191023172815
