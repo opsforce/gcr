@@ -1,3 +1,6 @@
+### 2019-10-27 01:40:58 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.1-rc3
 ### 2019-10-26 02:08:53 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.13.0-20191025012816
