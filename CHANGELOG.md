@@ -1,3 +1,14 @@
+### 2019-10-29 01:53:21 Update:
+
+- gcr.io/distroless/static-debian9:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/static:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/base:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/base-debian9:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/cc:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/cc-debian9:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/static-debian10:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/cc-debian10:22bd467b41e5e656e31db347265fae118db166d9
+- gcr.io/distroless/base-debian10:22bd467b41e5e656e31db347265fae118db166d9
 ### 2019-10-29 01:52:57 Update:
 
 - gcr.io/spinnaker-marketplace/front50:0.20.0-20191028112814
