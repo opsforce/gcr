@@ -1,3 +1,16 @@
+### 2019-10-29 01:52:57 Update:
+
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028112814
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028112814-slim
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028112816
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028112816-slim
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028131958
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028131958-slim
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028112814-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028112816-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.25.1-20191028112816
+- gcr.io/spinnaker-marketplace/halyard:1.25.1-20191028112816-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20191028131958-ubuntu
 ### 2019-10-29 01:49:16 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191028-10-16-distroless
