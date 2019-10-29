@@ -1,3 +1,20 @@
+### 2019-10-30 01:45:49 Update:
+
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.4.3.0
+- gcr.io/google-containers/etcd-arm:3.4.3-0
+- gcr.io/google-containers/etcd-arm:3.4.3
+- gcr.io/google-containers/etcd-arm64:3.4.3-0
+- gcr.io/google-containers/etcd-arm64:3.4.3
+- gcr.io/google-containers/etcd-amd64:3.4.3
+- gcr.io/google-containers/etcd-amd64:3.4.3-0
+- gcr.io/google-containers/etcd-s390x:3.4.3
+- gcr.io/google-containers/etcd-s390x:3.4.3-0
+- gcr.io/google-containers/etcd:3.4.3
+- gcr.io/google-containers/etcd:3.4.3-0
+- gcr.io/google-containers/gke-metadata-server:v0.2.12
+- gcr.io/google-containers/gke-metadata-server:d25ce10f35cdb1972c39138070c19d82e35a47ce
+- gcr.io/google-containers/etcd-ppc64le:3.4.3-0
+- gcr.io/google-containers/etcd-ppc64le:3.4.3
 ### 2019-10-29 01:53:21 Update:
 
 - gcr.io/distroless/static-debian9:22bd467b41e5e656e31db347265fae118db166d9
