@@ -1,3 +1,26 @@
+### 2019-10-30 01:54:19 Update:
+
+- gcr.io/linkerd-io/grafana:git-b5309fad
+- gcr.io/linkerd-io/grafana:git-0341af86
+- gcr.io/linkerd-io/grafana:git-3411e22b
+- gcr.io/linkerd-io/web:git-0341af86
+- gcr.io/linkerd-io/debug:git-b5309fad
+- gcr.io/linkerd-io/web:git-3411e22b
+- gcr.io/linkerd-io/debug:git-0341af86
+- gcr.io/linkerd-io/debug:git-3411e22b
+- gcr.io/linkerd-io/web:git-b5309fad
+- gcr.io/linkerd-io/controller:git-0341af86
+- gcr.io/linkerd-io/controller:git-3411e22b
+- gcr.io/linkerd-io/controller:git-b5309fad
+- gcr.io/linkerd-io/cni-plugin:git-0341af86
+- gcr.io/linkerd-io/cni-plugin:git-3411e22b
+- gcr.io/linkerd-io/cni-plugin:git-b5309fad
+- gcr.io/linkerd-io/proxy:git-b5309fad
+- gcr.io/linkerd-io/proxy:git-3411e22b
+- gcr.io/linkerd-io/proxy:git-0341af86
+- gcr.io/linkerd-io/cli-bin:git-3411e22b
+- gcr.io/linkerd-io/cli-bin:git-0341af86
+- gcr.io/linkerd-io/cli-bin:git-b5309fad
 ### 2019-10-30 01:53:16 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.3-20191029-10-16-distroless
