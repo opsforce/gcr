@@ -1,3 +1,7 @@
+### 2019-11-01 01:44:21 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.16.0-rc.1
+- gcr.io/kubernetes-helm/tiller:v2.16.0-rc.2
 ### 2019-11-01 01:43:48 Update:
 
 - gcr.io/google-containers/gcp-controller-manager:2cb57f2f71eefdcaa422c60cf89b2c54ca4f00b4
