@@ -1,3 +1,7 @@
+### 2019-11-01 01:43:48 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:2cb57f2f71eefdcaa422c60cf89b2c54ca4f00b4
+- gcr.io/google-containers/node-problem-detector:v0.8.0
 ### 2019-10-31 02:21:14 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.7.0-20191029172246-slim
