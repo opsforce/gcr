@@ -1,3 +1,11 @@
+### 2019-11-03 01:45:30 Update:
+
+- gcr.io/google-containers/debian-base-amd64:v2.0.0
+- gcr.io/google-containers/debian-base:v2.0.0
+- gcr.io/google-containers/debian-base-arm:v2.0.0
+- gcr.io/google-containers/debian-base-arm64:v2.0.0
+- gcr.io/google-containers/debian-base-s390x:v2.0.0
+- gcr.io/google-containers/debian-base-ppc64le:v2.0.0
 ### 2019-11-02 02:08:24 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.13.0-20191031172817-ubuntu
