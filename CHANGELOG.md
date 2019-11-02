@@ -1,3 +1,31 @@
+### 2019-11-03 01:56:38 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101154713-slim
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101154713
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101160840-slim
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101160840
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101151155
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101151155-slim
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101164432
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101164432-slim
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101154713-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101151155-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101160840-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20191101164432-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191101151657-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191101151657-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191101151657
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101141458-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101141458
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101145050-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101145050
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101141458-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101145050-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101172816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191101172816-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.27.0-20191101152939
+- gcr.io/spinnaker-marketplace/halyard:1.27.0-20191101152939-ubuntu
 ### 2019-11-03 01:51:51 Update:
 
 - gcr.io/linkerd-io/controller:edge-19.10.5
