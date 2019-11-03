@@ -1,3 +1,7 @@
+### 2019-11-04 01:51:19 Update:
+
+- gcr.io/linkerd-io/proxy:ver-2019-11-02.0
+- gcr.io/linkerd-io/proxy:ver-2019-11-02.1
 ### 2019-11-04 01:50:51 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.2-20191103-11-15
