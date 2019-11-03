@@ -1,3 +1,8 @@
+### 2019-11-04 01:52:18 Update:
+
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191102172818-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191102172818-slim
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191102172818
 ### 2019-11-04 01:51:19 Update:
 
 - gcr.io/linkerd-io/proxy:ver-2019-11-02.0
