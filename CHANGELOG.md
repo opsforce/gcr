@@ -1,3 +1,6 @@
+### 2019-11-05 01:52:54 Update:
+
+- gcr.io/linkerd-io/proxy:ver-2019-11-04.0
 ### 2019-11-05 01:52:30 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191104-10-16-distroless
