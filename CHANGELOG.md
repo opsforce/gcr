@@ -1,3 +1,11 @@
+### 2019-11-05 01:47:16 Update:
+
+- gcr.io/google-containers/debian-iptables-arm64:v12.0.0
+- gcr.io/google-containers/debian-iptables-ppc64le:v12.0.0
+- gcr.io/google-containers/debian-iptables-arm:v12.0.0
+- gcr.io/google-containers/debian-iptables:v12.0.0
+- gcr.io/google-containers/debian-iptables-amd64:v12.0.0
+- gcr.io/google-containers/debian-iptables-s390x:v12.0.0
 ### 2019-11-04 01:52:18 Update:
 
 - gcr.io/spinnaker-marketplace/echo:2.9.0-20191102172818-ubuntu
