@@ -1,3 +1,33 @@
+### 2019-11-06 02:00:55 Update:
+
+- gcr.io/linkerd-io/debug:git-1bb9d667
+- gcr.io/linkerd-io/debug:git-59581115
+- gcr.io/linkerd-io/debug:git-e91f2020
+- gcr.io/linkerd-io/web:git-1bb9d667
+- gcr.io/linkerd-io/web:git-59581115
+- gcr.io/linkerd-io/grafana:git-1bb9d667
+- gcr.io/linkerd-io/grafana:git-59581115
+- gcr.io/linkerd-io/grafana:git-e91f2020
+- gcr.io/linkerd-io/grafana:git-9f78d7e6
+- gcr.io/linkerd-io/web:git-e91f2020
+- gcr.io/linkerd-io/debug:git-9f78d7e6
+- gcr.io/linkerd-io/web:git-9f78d7e6
+- gcr.io/linkerd-io/controller:git-1bb9d667
+- gcr.io/linkerd-io/controller:git-59581115
+- gcr.io/linkerd-io/proxy:git-9f78d7e6
+- gcr.io/linkerd-io/controller:git-e91f2020
+- gcr.io/linkerd-io/proxy:git-1bb9d667
+- gcr.io/linkerd-io/proxy:git-e91f2020
+- gcr.io/linkerd-io/proxy:git-59581115
+- gcr.io/linkerd-io/controller:git-9f78d7e6
+- gcr.io/linkerd-io/cli-bin:git-1bb9d667
+- gcr.io/linkerd-io/cni-plugin:git-1bb9d667
+- gcr.io/linkerd-io/cli-bin:git-59581115
+- gcr.io/linkerd-io/cli-bin:git-9f78d7e6
+- gcr.io/linkerd-io/cni-plugin:git-59581115
+- gcr.io/linkerd-io/cni-plugin:git-e91f2020
+- gcr.io/linkerd-io/cni-plugin:git-9f78d7e6
+- gcr.io/linkerd-io/cli-bin:git-e91f2020
 ### 2019-11-06 01:59:19 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20191105-10-15-distroless
