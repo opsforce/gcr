@@ -1,3 +1,28 @@
+### 2019-11-09 02:06:57 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191107172815
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191107172815-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191107202816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191108012815-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191108012815
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191108012815-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191107172815-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191107172815
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191107172815-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191107172815
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191107172815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191107202816
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191107172815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191107172815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191107202816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191107202816-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191107202816
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191107172815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191107172815
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191107172815-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.27.0-20191107172815
+- gcr.io/spinnaker-marketplace/halyard:1.27.0-20191107172815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191107202816-ubuntu
 ### 2019-11-09 01:55:30 Update:
 
 - gcr.io/linkerd-io/controller:edge-19.11.1
