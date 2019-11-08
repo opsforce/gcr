@@ -1,3 +1,19 @@
+### 2019-11-09 01:55:30 Update:
+
+- gcr.io/linkerd-io/controller:edge-19.11.1
+- gcr.io/linkerd-io/controller:git-7dd5dfc2
+- gcr.io/linkerd-io/proxy:edge-19.11.1
+- gcr.io/linkerd-io/proxy:git-7dd5dfc2
+- gcr.io/linkerd-io/debug:git-7dd5dfc2
+- gcr.io/linkerd-io/debug:edge-19.11.1
+- gcr.io/linkerd-io/web:edge-19.11.1
+- gcr.io/linkerd-io/web:git-7dd5dfc2
+- gcr.io/linkerd-io/cni-plugin:git-7dd5dfc2
+- gcr.io/linkerd-io/cni-plugin:edge-19.11.1
+- gcr.io/linkerd-io/grafana:git-7dd5dfc2
+- gcr.io/linkerd-io/grafana:edge-19.11.1
+- gcr.io/linkerd-io/cli-bin:edge-19.11.1
+- gcr.io/linkerd-io/cli-bin:git-7dd5dfc2
 ### 2019-11-09 01:54:38 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20191108-10-16-distroless
