@@ -1,3 +1,43 @@
+### 2019-11-12 02:08:41 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191111093748
+- gcr.io/spinnaker-marketplace/front50:0.20.1-20191111093748-slim
+- gcr.io/spinnaker-marketplace/front50:0.20.1-20191111093748
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.20.1-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191111093748
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191111093748
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191111093748
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191111093748
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.1-20191111102213
+- gcr.io/spinnaker-marketplace/deck:2.13.1-20191111102213-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.1-20191111102213-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.27.0-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.1-20191111102213-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.1-20191111102213
+- gcr.io/spinnaker-marketplace/halyard:1.27.0
+- gcr.io/spinnaker-marketplace/orca:2.11.1-20191111102213-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.1-20191111102213-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191111093748
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191111093748
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.1-20191111102213
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.1-20191111102213-slim
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191111093748-slim
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191111093748
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191111093748-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191111093748-ubuntu
 ### 2019-11-12 01:54:57 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191111-10-16-distroless
