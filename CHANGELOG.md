@@ -1,3 +1,7 @@
+### 2019-11-13 01:50:37 Update:
+
+- gcr.io/google-containers/watcher-daemonset:alpha5
+- gcr.io/google-containers/coredns:1.6.5
 ### 2019-11-12 02:08:41 Update:
 
 - gcr.io/spinnaker-marketplace/gate:1.14.0-20191111093748-slim
