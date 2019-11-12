@@ -9,6 +9,7 @@
     "base-debian10:debug-nonroot",
     "base-debian10:eaa8223bbf439cca65b78f7b513389eb1b216db9",
     "base-debian10:f905a6636c5106c36cc979bdcc19f0fe4fc01ede",
+    "base-debian10:latest",
     "base-debian10:nonroot",
     "base-debian9:0209d7e7f581851e9b390b60fe6043ed55864531",
     "base-debian9:0e7095cc1ac3e084a1d76f86c36f8ec38483eb24",

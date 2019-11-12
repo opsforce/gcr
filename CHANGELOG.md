@@ -1,3 +1,6 @@
+### 2019-11-13 02:19:04 Update:
+
+- gcr.io/distroless/base-debian10:latest
 ### 2019-11-13 02:18:45 Update:
 
 - gcr.io/spinnaker-marketplace/front50:0.20.2-20191111172816-slim
