@@ -1,3 +1,22 @@
+### 2019-11-14 02:02:51 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191112172816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191112172816-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191113012817
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191113012817-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191112202817
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191112202817-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191112172816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191113012817
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191113012817-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191113012817-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191112202817-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191113012817-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191113020508
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191113012817
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191113020508-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191112172816
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191112202817
 ### 2019-11-14 01:57:31 Update:
 
 - gcr.io/linkerd-io/proxy:git-eff1714a
