@@ -1,3 +1,6 @@
+### 2019-11-14 01:51:07 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.16.1
 ### 2019-11-13 02:19:04 Update:
 
 - gcr.io/distroless/base-debian10:latest
