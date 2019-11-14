@@ -1,3 +1,13 @@
+### 2019-11-15 02:28:15 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191113172816-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191113172816-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191113172816
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191113172816
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191114012816
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191114012816-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191113125829
+- gcr.io/spinnaker-marketplace/halyard:1.27.1-20191113202816
 ### 2019-11-15 02:23:54 Update:
 
 - gcr.io/linkerd-io/voltron-demo:v4
