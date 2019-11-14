@@ -1,3 +1,29 @@
+### 2019-11-15 02:23:54 Update:
+
+- gcr.io/linkerd-io/voltron-demo:v4
+- gcr.io/linkerd-io/voltron-demo:v1
+- gcr.io/linkerd-io/voltron-demo:v3
+- gcr.io/linkerd-io/voltron-demo:v2
+- gcr.io/linkerd-io/voltron-demo-help:v1
+- gcr.io/linkerd-io/hello-voltron:v3
+- gcr.io/linkerd-io/hello-voltron:v2
+- gcr.io/linkerd-io/grafana:git-5da1a072
+- gcr.io/linkerd-io/grafana:git-33249667
+- gcr.io/linkerd-io/voltron-demo:v5
+- gcr.io/linkerd-io/controller:git-33249667
+- gcr.io/linkerd-io/debug:git-5da1a072
+- gcr.io/linkerd-io/controller:git-5da1a072
+- gcr.io/linkerd-io/debug:git-33249667
+- gcr.io/linkerd-io/proxy:git-5da1a072
+- gcr.io/linkerd-io/web:git-5da1a072
+- gcr.io/linkerd-io/proxy:git-33249667
+- gcr.io/linkerd-io/web:git-33249667
+- gcr.io/linkerd-io/proxy:ver-2019-11-14.0
+- gcr.io/linkerd-io/cli-bin:git-33249667
+- gcr.io/linkerd-io/cli-bin:git-5da1a072
+- gcr.io/linkerd-io/cni-plugin:git-5da1a072
+- gcr.io/linkerd-io/cni-plugin:git-33249667
+- gcr.io/linkerd-io/go-deps:1c6a29b8
 ### 2019-11-15 02:21:01 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191114-10-16-distroless
