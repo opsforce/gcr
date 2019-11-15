@@ -1,3 +1,14 @@
+### 2019-11-16 02:04:20 Update:
+
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191114172816
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191114172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191114202817-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191114202817
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191114202817-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191114172816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191114172816
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191114172816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191114172816-ubuntu
 ### 2019-11-16 02:00:26 Update:
 
 - gcr.io/linkerd-io/proxy-init:git-c90474bb-dev
