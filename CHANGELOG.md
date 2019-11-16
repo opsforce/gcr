@@ -1,3 +1,14 @@
+### 2019-11-17 02:00:20 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191115172816
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191115172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191116012817
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191116012817-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191115172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191115172816
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191115172816-ubuntu
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191115172816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191116012817-ubuntu
 ### 2019-11-17 01:58:47 Update:
 
 - gcr.io/linkerd-io/controller:git-c69080ee
