@@ -1,3 +1,20 @@
+### 2019-11-18 01:59:31 Update:
+
+- gcr.io/linkerd-io/debug:git-6ed7a6ce
+- gcr.io/linkerd-io/moo:v3
+- gcr.io/linkerd-io/moo:v4
+- gcr.io/linkerd-io/moo:v1
+- gcr.io/linkerd-io/moo:v7
+- gcr.io/linkerd-io/grafana:git-6ed7a6ce
+- gcr.io/linkerd-io/moo:v6
+- gcr.io/linkerd-io/moo:v2
+- gcr.io/linkerd-io/moo:v5
+- gcr.io/linkerd-io/controller:git-6ed7a6ce
+- gcr.io/linkerd-io/carol-test:v1
+- gcr.io/linkerd-io/proxy:git-6ed7a6ce
+- gcr.io/linkerd-io/cni-plugin:git-6ed7a6ce
+- gcr.io/linkerd-io/web:git-6ed7a6ce
+- gcr.io/linkerd-io/cli-bin:git-6ed7a6ce
 ### 2019-11-18 01:58:35 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191117-10-16
