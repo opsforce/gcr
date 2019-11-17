@@ -1,3 +1,11 @@
+### 2019-11-18 02:00:48 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.12.1-20191116172816-slim
+- gcr.io/spinnaker-marketplace/kayenta:0.12.1-20191116172816
+- gcr.io/spinnaker-marketplace/deck:2.13.2-20191117034416-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.2-20191117034416
+- gcr.io/spinnaker-marketplace/deck:2.13.2-20191117034416-ubuntu
+- gcr.io/spinnaker-marketplace/kayenta:0.12.1-20191116172816-ubuntu
 ### 2019-11-18 01:59:31 Update:
 
 - gcr.io/linkerd-io/debug:git-6ed7a6ce
