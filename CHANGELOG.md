@@ -1,3 +1,13 @@
+### 2019-11-19 02:06:51 Update:
+
+- gcr.io/linkerd-io/controller:git-36609c88
+- gcr.io/linkerd-io/web:git-36609c88
+- gcr.io/linkerd-io/debug:git-36609c88
+- gcr.io/linkerd-io/cli-bin:git-36609c88
+- gcr.io/linkerd-io/cni-plugin:git-36609c88
+- gcr.io/linkerd-io/proxy:git-36609c88
+- gcr.io/linkerd-io/grafana:git-36609c88
+- gcr.io/linkerd-io/zarkon-demo:v1
 ### 2019-11-19 02:06:01 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20191118-10-16-distroless
