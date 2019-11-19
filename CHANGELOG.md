@@ -1,3 +1,7 @@
+### 2019-11-20 01:54:33 Update:
+
+- gcr.io/google-containers/kube-controller-manager:v1.17.0-beta.2
+- gcr.io/google-containers/kube-apiserver:v1.17.0-beta.2
 ### 2019-11-19 02:06:51 Update:
 
 - gcr.io/linkerd-io/controller:git-36609c88
