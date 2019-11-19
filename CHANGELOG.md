@@ -1,3 +1,8 @@
+### 2019-11-20 02:03:27 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.8.2-20191119114057-slim
+- gcr.io/spinnaker-marketplace/fiat:1.8.2-20191119114057
+- gcr.io/spinnaker-marketplace/fiat:1.8.2-20191119114057-ubuntu
 ### 2019-11-20 02:02:17 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20191119-10-15-distroless
