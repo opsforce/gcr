@@ -1,3 +1,6 @@
+### 2019-11-21 01:54:47 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.8.0-rc1
 ### 2019-11-20 02:03:27 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.8.2-20191119114057-slim
