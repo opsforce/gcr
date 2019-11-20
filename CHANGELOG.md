@@ -1,3 +1,12 @@
+### 2019-11-21 02:00:56 Update:
+
+- gcr.io/linkerd-io/controller:edge-19.11.3
+- gcr.io/linkerd-io/proxy:edge-19.11.3
+- gcr.io/linkerd-io/grafana:edge-19.11.3
+- gcr.io/linkerd-io/web:edge-19.11.3
+- gcr.io/linkerd-io/debug:edge-19.11.3
+- gcr.io/linkerd-io/cni-plugin:edge-19.11.3
+- gcr.io/linkerd-io/cli-bin:edge-19.11.3
 ### 2019-11-21 02:00:08 Update:
 
 - gcr.io/istio-release/citadel:release-1.2-20191120-11-15
