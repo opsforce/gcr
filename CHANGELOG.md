@@ -1,3 +1,37 @@
+### 2019-11-22 02:13:18 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191120163709
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191120163709
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191120163709
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191120163709
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191120163709
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191120163709
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191120163709
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191120163709
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191120163709
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191120163709-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191120173634
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191120173634-slim
+- gcr.io/spinnaker-marketplace/halyard:1.28.1-20191120173634
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191120163709-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191120173634-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.28.1-20191120173634-ubuntu
 ### 2019-11-22 02:00:30 Update:
 
 - gcr.io/istio-release/proxyv2:release-1.3-20191121-10-15-distroless
