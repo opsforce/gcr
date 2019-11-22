@@ -1,3 +1,23 @@
+### 2019-11-23 02:11:14 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191121202816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191121202816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191121202816-slim
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191122102554-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191121162350-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191121162350
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191121162350-slim
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191122102554
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191122102554-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191121162350-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191121162350
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191121162350-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191122012817
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191122012817-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191121162350
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191121162350-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191121162350-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191122012817-ubuntu
 ### 2019-11-23 02:02:33 Update:
 
 - gcr.io/istio-release/install-cni:release-1.2-20191122-11-15
