@@ -1,3 +1,6 @@
+### 2019-11-27 01:57:46 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.17.0-beta.1
 ### 2019-11-26 02:06:08 Update:
 
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.2-20191125092852-slim

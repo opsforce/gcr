@@ -1894,6 +1894,7 @@
     "cluster-autoscaler:v1.16.0-beta.1",
     "cluster-autoscaler:v1.16.1",
     "cluster-autoscaler:v1.16.2",
+    "cluster-autoscaler:v1.17.0-beta.1",
     "cluster-autoscaler:v1.2.0",
     "cluster-autoscaler:v1.2.0-beta1",
     "cluster-autoscaler:v1.2.0-rc1",
