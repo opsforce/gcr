@@ -1,3 +1,23 @@
+### 2019-11-27 02:13:08 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191125172816-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191125172816
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191125135205-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191125135205
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191125135205-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191125151130
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191125151130-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191125172816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191125151130-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191125172816
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191125172816-slim
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191125172816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191125151130
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191125151130-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191125135205-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191125135205-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191125135205
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191125151130-ubuntu
 ### 2019-11-27 02:04:39 Update:
 
 - gcr.io/linkerd-io/proxy:git-65d5778b
