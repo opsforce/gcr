@@ -1,3 +1,33 @@
+### 2019-11-27 02:04:39 Update:
+
+- gcr.io/linkerd-io/proxy:git-65d5778b
+- gcr.io/linkerd-io/proxy:git-e1b3fdb0
+- gcr.io/linkerd-io/debug:git-005bc0ca
+- gcr.io/linkerd-io/proxy:git-62c254df
+- gcr.io/linkerd-io/debug:git-65d5778b
+- gcr.io/linkerd-io/debug:git-e1b3fdb0
+- gcr.io/linkerd-io/debug:git-62c254df
+- gcr.io/linkerd-io/proxy:git-005bc0ca
+- gcr.io/linkerd-io/grafana:git-62c254df
+- gcr.io/linkerd-io/grafana:git-65d5778b
+- gcr.io/linkerd-io/grafana:git-005bc0ca
+- gcr.io/linkerd-io/grafana:git-e1b3fdb0
+- gcr.io/linkerd-io/web:git-65d5778b
+- gcr.io/linkerd-io/web:git-e1b3fdb0
+- gcr.io/linkerd-io/web:git-62c254df
+- gcr.io/linkerd-io/web:git-005bc0ca
+- gcr.io/linkerd-io/controller:git-65d5778b
+- gcr.io/linkerd-io/controller:git-e1b3fdb0
+- gcr.io/linkerd-io/controller:git-005bc0ca
+- gcr.io/linkerd-io/controller:git-62c254df
+- gcr.io/linkerd-io/cli-bin:git-005bc0ca
+- gcr.io/linkerd-io/cli-bin:git-62c254df
+- gcr.io/linkerd-io/cli-bin:git-65d5778b
+- gcr.io/linkerd-io/cni-plugin:git-65d5778b
+- gcr.io/linkerd-io/cni-plugin:git-e1b3fdb0
+- gcr.io/linkerd-io/cni-plugin:git-62c254df
+- gcr.io/linkerd-io/cni-plugin:git-005bc0ca
+- gcr.io/linkerd-io/cli-bin:git-e1b3fdb0
 ### 2019-11-27 02:03:28 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191126-10-15
