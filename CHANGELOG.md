@@ -1,3 +1,6 @@
+### 2019-11-28 01:58:11 Update:
+
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:78489379f076ee9175cb6dba3f8295e1788e28f8
 ### 2019-11-27 02:13:08 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.14.0-20191125172816-slim
