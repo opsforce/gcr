@@ -1,3 +1,6 @@
+### 2019-11-30 01:59:21 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.17.0
 ### 2019-11-29 02:12:35 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.14.0-20191127172816-slim
