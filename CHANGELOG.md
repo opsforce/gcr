@@ -1,3 +1,11 @@
+### 2019-12-03 02:11:18 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.8.3-20191202102650-ubuntu
+- gcr.io/spinnaker-marketplace/fiat:1.8.3-20191202102650-slim
+- gcr.io/spinnaker-marketplace/fiat:1.8.3-20191202102650
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.2-20191202102650-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.2-20191202102650
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.2-20191202102650-ubuntu
 ### 2019-12-03 02:07:21 Update:
 
 - gcr.io/linkerd-io/controller:git-457b200f
