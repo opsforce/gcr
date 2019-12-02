@@ -1,3 +1,7 @@
+### 2019-12-03 02:01:15 Update:
+
+- gcr.io/google-containers/addon-resizer:1.8.7
+- gcr.io/google-containers/git-sync:v3.1.3
 ### 2019-12-02 02:06:26 Update:
 
 - gcr.io/istio-release/sidecar_injector:release-1.2-20191201-11-15
