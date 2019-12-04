@@ -1,3 +1,19 @@
+### 2019-12-05 02:12:33 Update:
+
+- gcr.io/linkerd-io/web:git-78ed5f88
+- gcr.io/linkerd-io/controller:git-78ed5f88
+- gcr.io/linkerd-io/grafana:git-78ed5f88
+- gcr.io/linkerd-io/controller:git-e5f75a8c
+- gcr.io/linkerd-io/grafana:git-e5f75a8c
+- gcr.io/linkerd-io/debug:git-78ed5f88
+- gcr.io/linkerd-io/debug:git-e5f75a8c
+- gcr.io/linkerd-io/web:git-e5f75a8c
+- gcr.io/linkerd-io/proxy:git-78ed5f88
+- gcr.io/linkerd-io/proxy:git-e5f75a8c
+- gcr.io/linkerd-io/cni-plugin:git-e5f75a8c
+- gcr.io/linkerd-io/cni-plugin:git-78ed5f88
+- gcr.io/linkerd-io/cli-bin:git-78ed5f88
+- gcr.io/linkerd-io/cli-bin:git-e5f75a8c
 ### 2019-12-05 02:11:33 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.2-20191204-11-16
