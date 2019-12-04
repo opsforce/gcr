@@ -1,3 +1,6 @@
+### 2019-12-05 02:06:25 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.8.0-rc3
 ### 2019-12-04 02:37:02 Update:
 
 - gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191202172816
