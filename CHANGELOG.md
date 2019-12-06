@@ -1,3 +1,31 @@
+### 2019-12-07 02:05:07 Update:
+
+- gcr.io/linkerd-io/proxy:ver-profile-watch.0
+- gcr.io/linkerd-io/web:git-6faf64e4
+- gcr.io/linkerd-io/web:git-a36fee66
+- gcr.io/linkerd-io/web:edge-19.12.1
+- gcr.io/linkerd-io/controller:git-a36fee66
+- gcr.io/linkerd-io/controller:edge-19.12.1
+- gcr.io/linkerd-io/grafana:edge-19.12.1
+- gcr.io/linkerd-io/grafana:git-6faf64e4
+- gcr.io/linkerd-io/grafana:git-a36fee66
+- gcr.io/linkerd-io/controller:git-6faf64e4
+- gcr.io/linkerd-io/grafana:git-8ef3ca6c
+- gcr.io/linkerd-io/web:git-8ef3ca6c
+- gcr.io/linkerd-io/debug:git-a36fee66
+- gcr.io/linkerd-io/debug:edge-19.12.1
+- gcr.io/linkerd-io/debug:git-6faf64e4
+- gcr.io/linkerd-io/controller:git-8ef3ca6c
+- gcr.io/linkerd-io/proxy:edge-19.12.1
+- gcr.io/linkerd-io/cli-bin:git-6faf64e4
+- gcr.io/linkerd-io/proxy:git-6faf64e4
+- gcr.io/linkerd-io/cli-bin:edge-19.12.1
+- gcr.io/linkerd-io/cni-plugin:edge-19.12.1
+- gcr.io/linkerd-io/cni-plugin:git-a36fee66
+- gcr.io/linkerd-io/cni-plugin:git-6faf64e4
+- gcr.io/linkerd-io/cli-bin:git-a36fee66
+- gcr.io/linkerd-io/proxy:git-a36fee66
+- gcr.io/linkerd-io/proxy:git-8ef3ca6c
 ### 2019-12-07 02:03:28 Update:
 
 - gcr.io/google-containers/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851
