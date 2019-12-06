@@ -1,3 +1,40 @@
+### 2019-12-07 02:16:30 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191205172817
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191205172817
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191205172817
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191205172817
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191205202819-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191205202819
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191205172817
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191205202819-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191205172817
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191205172817
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191205202819
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191205202819-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191205172817-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191205172817
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191206110229
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191206120058
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191206120058-ubuntu
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.16.1-20191205172817
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.16.1-20191205172817-slim
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191205172817-ubuntu
+- gcr.io/spinnaker-marketplace/monitoring-daemon:0.16.1-20191205172817-ubuntu
 ### 2019-12-07 02:05:07 Update:
 
 - gcr.io/linkerd-io/proxy:ver-profile-watch.0
