@@ -1,3 +1,7 @@
+### 2019-12-07 02:03:28 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851
+- gcr.io/google-containers/cluster-autoscaler:v1.13.9
 ### 2019-12-06 02:23:01 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.8.0-20191204155111-slim
