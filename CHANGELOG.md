@@ -1,3 +1,7 @@
+### 2019-12-08 02:04:11 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:38e09015388b6e3a58918611cfe08374bf0f97dd
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.8.0
 ### 2019-12-07 02:16:30 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.8.0-20191205172817
