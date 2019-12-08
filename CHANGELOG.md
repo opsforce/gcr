@@ -1,3 +1,8 @@
+### 2019-12-09 02:05:52 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191207172816-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191207172816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191207172816-ubuntu
 ### 2019-12-08 02:12:01 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.9.0-20191206172815-slim
