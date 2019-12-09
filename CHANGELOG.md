@@ -1,3 +1,8 @@
+### 2019-12-10 02:07:40 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191208172816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191208172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191208172816-slim
 ### 2019-12-10 02:07:02 Update:
 
 - gcr.io/linkerd-io/grafana:git-f923db06
