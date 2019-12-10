@@ -1,3 +1,22 @@
+### 2019-12-11 02:19:28 Update:
+
+- gcr.io/linkerd-io/proxy:git-0313f10b
+- gcr.io/linkerd-io/proxy:git-7e981287
+- gcr.io/linkerd-io/proxy:ver-2019-12-10.0
+- gcr.io/linkerd-io/debug:git-7e981287
+- gcr.io/linkerd-io/debug:git-0313f10b
+- gcr.io/linkerd-io/proxy:ver-2019-12-10.1
+- gcr.io/linkerd-io/controller:git-0313f10b
+- gcr.io/linkerd-io/controller:git-7e981287
+- gcr.io/linkerd-io/grafana:git-0313f10b
+- gcr.io/linkerd-io/grafana:git-7e981287
+- gcr.io/linkerd-io/proxy:ver-2019-12-10.4
+- gcr.io/linkerd-io/web:git-0313f10b
+- gcr.io/linkerd-io/web:git-7e981287
+- gcr.io/linkerd-io/cni-plugin:git-7e981287
+- gcr.io/linkerd-io/cni-plugin:git-0313f10b
+- gcr.io/linkerd-io/cli-bin:git-7e981287
+- gcr.io/linkerd-io/cli-bin:git-0313f10b
 ### 2019-12-11 02:17:42 Update:
 
 - gcr.io/google-containers/kube-apiserver-arm:v1.17.0
