@@ -1,3 +1,24 @@
+### 2019-12-12 02:07:47 Update:
+
+- gcr.io/linkerd-io/proxy:git-d21fda12
+- gcr.io/linkerd-io/proxy:git-2d12b881
+- gcr.io/linkerd-io/debug:git-2d12b881
+- gcr.io/linkerd-io/debug:git-d21fda12
+- gcr.io/linkerd-io/proxy:dev-487f897e-alex
+- gcr.io/linkerd-io/debug:dev-487f897e-alex
+- gcr.io/linkerd-io/grafana:git-d21fda12
+- gcr.io/linkerd-io/grafana:git-2d12b881
+- gcr.io/linkerd-io/grafana:dev-487f897e-alex
+- gcr.io/linkerd-io/cni-plugin:git-2d12b881
+- gcr.io/linkerd-io/cni-plugin:git-d21fda12
+- gcr.io/linkerd-io/controller:dev-487f897e-alex
+- gcr.io/linkerd-io/controller:git-d21fda12
+- gcr.io/linkerd-io/controller:git-2d12b881
+- gcr.io/linkerd-io/web:git-2d12b881
+- gcr.io/linkerd-io/web:git-d21fda12
+- gcr.io/linkerd-io/web:dev-487f897e-alex
+- gcr.io/linkerd-io/cli-bin:git-d21fda12
+- gcr.io/linkerd-io/cli-bin:git-2d12b881
 ### 2019-12-11 02:33:55 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.8.0-20191209172817
