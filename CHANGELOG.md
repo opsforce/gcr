@@ -1,3 +1,13 @@
+### 2019-12-14 02:08:11 Update:
+
+- gcr.io/google-containers/kube-state-metrics:v1.8.0
+- gcr.io/google-containers/kube-state-metrics-arm64:v1.8.0
+- gcr.io/google-containers/kube-state-metrics-amd64:v1.8.0
+- gcr.io/google-containers/kube-state-metrics-arm:v1.8.0
+- gcr.io/google-containers/kube-state-metrics-ppc64le:v1.8.0
+- gcr.io/google-containers/kube-state-metrics-s390x:v1.8.0
+- gcr.io/google-containers/cadvisor:v0.35.0
+- gcr.io/google-containers/coredns:1.6.6
 ### 2019-12-13 02:46:21 Update:
 
 - gcr.io/spinnaker-marketplace/rosco:0.16.0-20191211172816
