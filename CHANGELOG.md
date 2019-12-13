@@ -1,3 +1,47 @@
+### 2019-12-14 02:12:42 Update:
+
+- gcr.io/linkerd-io/debug:edge-19.12.2
+- gcr.io/linkerd-io/debug:git-a98fe03c
+- gcr.io/linkerd-io/debug:git-0c67d0ef
+- gcr.io/linkerd-io/debug:git-f83e3597
+- gcr.io/linkerd-io/debug:git-6fee38f8
+- gcr.io/linkerd-io/debug:git-d86244a2
+- gcr.io/linkerd-io/grafana:git-f83e3597
+- gcr.io/linkerd-io/grafana:git-0c67d0ef
+- gcr.io/linkerd-io/grafana:git-6fee38f8
+- gcr.io/linkerd-io/grafana:edge-19.12.2
+- gcr.io/linkerd-io/grafana:git-d86244a2
+- gcr.io/linkerd-io/grafana:git-a98fe03c
+- gcr.io/linkerd-io/cni-plugin:git-a98fe03c
+- gcr.io/linkerd-io/cni-plugin:edge-19.12.2
+- gcr.io/linkerd-io/cni-plugin:git-f83e3597
+- gcr.io/linkerd-io/cni-plugin:git-d86244a2
+- gcr.io/linkerd-io/cni-plugin:git-0c67d0ef
+- gcr.io/linkerd-io/cni-plugin:git-6fee38f8
+- gcr.io/linkerd-io/controller:edge-19.12.2
+- gcr.io/linkerd-io/controller:git-0c67d0ef
+- gcr.io/linkerd-io/controller:git-a98fe03c
+- gcr.io/linkerd-io/controller:git-d86244a2
+- gcr.io/linkerd-io/web:edge-19.12.2
+- gcr.io/linkerd-io/controller:git-6fee38f8
+- gcr.io/linkerd-io/web:git-d86244a2
+- gcr.io/linkerd-io/web:git-6fee38f8
+- gcr.io/linkerd-io/web:git-0c67d0ef
+- gcr.io/linkerd-io/controller:git-f83e3597
+- gcr.io/linkerd-io/web:git-f83e3597
+- gcr.io/linkerd-io/proxy:edge-19.12.2
+- gcr.io/linkerd-io/proxy:git-f83e3597
+- gcr.io/linkerd-io/proxy:git-d86244a2
+- gcr.io/linkerd-io/proxy:git-6fee38f8
+- gcr.io/linkerd-io/proxy:git-0c67d0ef
+- gcr.io/linkerd-io/web:git-a98fe03c
+- gcr.io/linkerd-io/proxy:git-a98fe03c
+- gcr.io/linkerd-io/cli-bin:edge-19.12.2
+- gcr.io/linkerd-io/cli-bin:git-a98fe03c
+- gcr.io/linkerd-io/cli-bin:git-0c67d0ef
+- gcr.io/linkerd-io/cli-bin:git-f83e3597
+- gcr.io/linkerd-io/cli-bin:git-6fee38f8
+- gcr.io/linkerd-io/cli-bin:git-d86244a2
 ### 2019-12-14 02:11:00 Update:
 
 - gcr.io/istio-release/mixer:release-1.2-20191213-11-15
