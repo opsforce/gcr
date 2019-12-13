@@ -1,3 +1,17 @@
+### 2019-12-14 02:15:06 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191213012817-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191213012817
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191212202818
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191212202818-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191213012817-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191213125115-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191212172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191213125115-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191213125115
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191212172816
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20191212172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191212202818-ubuntu
 ### 2019-12-14 02:12:42 Update:
 
 - gcr.io/linkerd-io/debug:edge-19.12.2
