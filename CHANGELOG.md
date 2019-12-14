@@ -1,3 +1,35 @@
+### 2019-12-15 02:22:54 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191214115049
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191214115049-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191213154039-ubuntu
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191214115049-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191213154039-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191213154039
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191214115049-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191214115049
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191213144303
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191213144303-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191214115049-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191214115049-slim
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191214115049
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191213144303-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191214115049-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191214115049
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191214115049-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191214115049-ubuntu
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191214115049
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191214115049-slim
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20191214115049-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191213144303
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191213144303-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191214115049-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191214115049
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191213144303-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191214115049-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191214115049-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191214115049
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20191214115049-ubuntu
 ### 2019-12-15 02:14:46 Update:
 
 - gcr.io/linkerd-io/proxy:git-2f492a77
