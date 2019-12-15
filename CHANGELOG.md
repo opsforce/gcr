@@ -1,3 +1,8 @@
+### 2019-12-16 02:12:34 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191214172814-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191214172814
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191214172814-slim
 ### 2019-12-16 02:11:27 Update:
 
 - gcr.io/istio-release/mixer:release-1.3-20191215-10-16-distroless
