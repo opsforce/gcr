@@ -1,3 +1,35 @@
+### 2019-12-17 02:12:31 Update:
+
+- gcr.io/istio-release/mixer:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/mixer:release-1.3-20191216-10-16
+- gcr.io/istio-release/galley:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/citadel:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/pilot:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/install-cni:release-1.3-20191216-10-16
+- gcr.io/istio-release/citadel:release-1.3-20191216-10-16
+- gcr.io/istio-release/app_sidecar:release-1.3-20191216-10-16
+- gcr.io/istio-release/app_sidecar:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/pilot:release-1.3-20191216-10-16
+- gcr.io/istio-release/galley:release-1.3-20191216-10-16
+- gcr.io/istio-release/kubectl:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/kubectl:release-1.3-20191216-10-16
+- gcr.io/istio-release/mixer_codegen:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/mixer_codegen:release-1.3-20191216-10-16
+- gcr.io/istio-release/node-agent-k8s:release-1.3-20191216-10-16
+- gcr.io/istio-release/node-agent-k8s:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/sidecar_injector:release-1.3-20191216-10-16
+- gcr.io/istio-release/sidecar_injector:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/proxyv2:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/proxy_init:release-1.3-20191216-10-16
+- gcr.io/istio-release/proxyv2:release-1.3-20191216-10-16
+- gcr.io/istio-release/proxy_init:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/test_policybackend:release-1.3-20191216-10-16
+- gcr.io/istio-release/test_policybackend:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/proxytproxy:release-1.3-20191216-10-16
+- gcr.io/istio-release/proxytproxy:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/app:release-1.3-20191216-10-16
+- gcr.io/istio-release/proxy_debug:release-1.3-20191216-10-16-distroless
+- gcr.io/istio-release/proxy_debug:release-1.3-20191216-10-16
 ### 2019-12-16 02:12:34 Update:
 
 - gcr.io/spinnaker-marketplace/deck:2.14.0-20191214172814-ubuntu
