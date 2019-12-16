@@ -1,3 +1,26 @@
+### 2019-12-17 02:14:13 Update:
+
+- gcr.io/linkerd-io/proxy:git-0b2f5d46
+- gcr.io/linkerd-io/controller:git-857a03c7
+- gcr.io/linkerd-io/controller:git-0b2f5d46
+- gcr.io/linkerd-io/debug:git-857a03c7
+- gcr.io/linkerd-io/grafana:git-c4dbaf34
+- gcr.io/linkerd-io/controller:git-c4dbaf34
+- gcr.io/linkerd-io/debug:git-c4dbaf34
+- gcr.io/linkerd-io/debug:git-0b2f5d46
+- gcr.io/linkerd-io/grafana:git-0b2f5d46
+- gcr.io/linkerd-io/grafana:git-857a03c7
+- gcr.io/linkerd-io/proxy:git-857a03c7
+- gcr.io/linkerd-io/proxy:git-c4dbaf34
+- gcr.io/linkerd-io/cni-plugin:git-0b2f5d46
+- gcr.io/linkerd-io/cni-plugin:git-857a03c7
+- gcr.io/linkerd-io/cni-plugin:git-c4dbaf34
+- gcr.io/linkerd-io/web:git-0b2f5d46
+- gcr.io/linkerd-io/web:git-857a03c7
+- gcr.io/linkerd-io/web:git-c4dbaf34
+- gcr.io/linkerd-io/cli-bin:git-0b2f5d46
+- gcr.io/linkerd-io/cli-bin:git-857a03c7
+- gcr.io/linkerd-io/cli-bin:git-c4dbaf34
 ### 2019-12-17 02:12:31 Update:
 
 - gcr.io/istio-release/mixer:release-1.3-20191216-10-16-distroless
