@@ -1,3 +1,42 @@
+### 2019-12-19 02:18:34 Update:
+
+- gcr.io/google-containers/kube-apiserver-s390x:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-arm:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-amd64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-apiserver:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.18.0-alpha.1
+- gcr.io/google-containers/conformance-arm:v1.18.0-alpha.1
+- gcr.io/google-containers/conformance-arm64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager:v1.18.0-alpha.1
+- gcr.io/google-containers/conformance:v1.18.0-alpha.1
+- gcr.io/google-containers/conformance-amd64:v1.18.0-alpha.1
+- gcr.io/google-containers/conformance-ppc64le:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-proxy-amd64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-proxy:v1.18.0-alpha.1
+- gcr.io/google-containers/conformance-s390x:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-proxy-s390x:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-proxy-arm:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-proxy-arm64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-s390x:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-amd64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-scheduler:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-scheduler-arm64:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.18.0-alpha.1
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.18.0-alpha.1
+- gcr.io/google-containers/hyperkube-s390x:v1.18.0-alpha.1
+- gcr.io/google-containers/hyperkube-arm:v1.18.0-alpha.1
+- gcr.io/google-containers/hyperkube:v1.18.0-alpha.1
+- gcr.io/google-containers/hyperkube-ppc64le:v1.18.0-alpha.1
+- gcr.io/google-containers/hyperkube-amd64:v1.18.0-alpha.1
+- gcr.io/google-containers/toolbox:20191217-00
+- gcr.io/google-containers/hyperkube-arm64:v1.18.0-alpha.1
 ### 2019-12-18 02:39:14 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.8.0-20191216202814-slim
