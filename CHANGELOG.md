@@ -1,3 +1,41 @@
+### 2019-12-19 02:23:12 Update:
+
+- gcr.io/linkerd-io/proxy:dev-ceb88c02-alex
+- gcr.io/linkerd-io/proxy:git-5eac50f6
+- gcr.io/linkerd-io/web:git-f55b2f4e
+- gcr.io/linkerd-io/proxy:git-60961842
+- gcr.io/linkerd-io/proxy:git-f55b2f4e
+- gcr.io/linkerd-io/web:dev-ceb88c02-alex
+- gcr.io/linkerd-io/proxy:stable-2.6.1
+- gcr.io/linkerd-io/web:git-60961842
+- gcr.io/linkerd-io/web:git-5eac50f6
+- gcr.io/linkerd-io/proxy:ver-tactical-buffering.1
+- gcr.io/linkerd-io/debug:git-60961842
+- gcr.io/linkerd-io/web:stable-2.6.1
+- gcr.io/linkerd-io/debug:git-5eac50f6
+- gcr.io/linkerd-io/debug:dev-ceb88c02-alex
+- gcr.io/linkerd-io/debug:git-f55b2f4e
+- gcr.io/linkerd-io/grafana:git-5eac50f6
+- gcr.io/linkerd-io/grafana:git-f55b2f4e
+- gcr.io/linkerd-io/grafana:git-60961842
+- gcr.io/linkerd-io/grafana:stable-2.6.1
+- gcr.io/linkerd-io/grafana:dev-ceb88c02-alex
+- gcr.io/linkerd-io/debug:stable-2.6.1
+- gcr.io/linkerd-io/controller:git-f55b2f4e
+- gcr.io/linkerd-io/controller:git-60961842
+- gcr.io/linkerd-io/controller:git-5eac50f6
+- gcr.io/linkerd-io/controller:dev-ceb88c02-alex
+- gcr.io/linkerd-io/controller:stable-2.6.1
+- gcr.io/linkerd-io/cli-bin:git-5eac50f6
+- gcr.io/linkerd-io/cli-bin:dev-ceb88c02-alex
+- gcr.io/linkerd-io/cni-plugin:git-60961842
+- gcr.io/linkerd-io/cni-plugin:git-5eac50f6
+- gcr.io/linkerd-io/cni-plugin:git-f55b2f4e
+- gcr.io/linkerd-io/cli-bin:git-60961842
+- gcr.io/linkerd-io/cli-bin:stable-2.6.1
+- gcr.io/linkerd-io/cli-bin:git-f55b2f4e
+- gcr.io/linkerd-io/cni-plugin:dev-ceb88c02-alex
+- gcr.io/linkerd-io/cni-plugin:stable-2.6.1
 ### 2019-12-19 02:21:38 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20191218-10-15-distroless
