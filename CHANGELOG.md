@@ -1,3 +1,6 @@
+### 2019-12-20 02:11:04 Update:
+
+- gcr.io/google-containers/toolbox:20191218-00
 ### 2019-12-19 02:32:33 Update:
 
 - gcr.io/spinnaker-marketplace/echo:2.10.0-20191217162816-ubuntu-java8
