@@ -1,3 +1,20 @@
+### 2019-12-21 02:22:06 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191219154515-java8
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191219154515-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191219154515-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191218202814-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191219154515-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191219154515
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191219154515-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191219154515-slim
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191219154515
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191219154515-slim
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20191219154515-ubuntu-java8
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191220102901-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191220102901
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191219154515-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20191219154515
 ### 2019-12-21 02:16:56 Update:
 
 - gcr.io/linkerd-io/proxy:edge-19.12.3
