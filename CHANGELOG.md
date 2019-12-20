@@ -1,3 +1,34 @@
+### 2019-12-21 02:16:56 Update:
+
+- gcr.io/linkerd-io/proxy:edge-19.12.3
+- gcr.io/linkerd-io/debug:git-c078b4ff
+- gcr.io/linkerd-io/debug:git-1ed70c8a
+- gcr.io/linkerd-io/debug:edge-19.12.3
+- gcr.io/linkerd-io/debug:git-7886938f
+- gcr.io/linkerd-io/grafana:git-c078b4ff
+- gcr.io/linkerd-io/grafana:edge-19.12.3
+- gcr.io/linkerd-io/grafana:git-1ed70c8a
+- gcr.io/linkerd-io/grafana:git-7886938f
+- gcr.io/linkerd-io/proxy:git-c078b4ff
+- gcr.io/linkerd-io/proxy:git-7886938f
+- gcr.io/linkerd-io/proxy:git-1ed70c8a
+- gcr.io/linkerd-io/web:git-1ed70c8a
+- gcr.io/linkerd-io/controller:git-7886938f
+- gcr.io/linkerd-io/controller:edge-19.12.3
+- gcr.io/linkerd-io/web:edge-19.12.3
+- gcr.io/linkerd-io/controller:git-1ed70c8a
+- gcr.io/linkerd-io/web:git-7886938f
+- gcr.io/linkerd-io/controller:git-c078b4ff
+- gcr.io/linkerd-io/web:git-c078b4ff
+- gcr.io/linkerd-io/cli-bin:git-1ed70c8a
+- gcr.io/linkerd-io/cli-bin:edge-19.12.3
+- gcr.io/linkerd-io/cli-bin:git-c078b4ff
+- gcr.io/linkerd-io/cni-plugin:edge-19.12.3
+- gcr.io/linkerd-io/cni-plugin:git-c078b4ff
+- gcr.io/linkerd-io/cni-plugin:git-7886938f
+- gcr.io/linkerd-io/cli-bin:git-7886938f
+- gcr.io/linkerd-io/cni-plugin:git-1ed70c8a
+- gcr.io/linkerd-io/go-deps:f6fda337
 ### 2019-12-21 02:14:09 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20191220-10-17-distroless
