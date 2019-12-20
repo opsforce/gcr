@@ -1,3 +1,12 @@
+### 2019-12-21 02:11:16 Update:
+
+- gcr.io/google-containers/kube-state-metrics-amd64:v1.9.0
+- gcr.io/google-containers/kube-state-metrics:v1.9.0
+- gcr.io/google-containers/kube-state-metrics-s390x:v1.9.0
+- gcr.io/google-containers/kube-state-metrics-ppc64le:v1.9.0
+- gcr.io/google-containers/prometheus-to-sd:v0.9.0
+- gcr.io/google-containers/kube-state-metrics-arm:v1.9.0
+- gcr.io/google-containers/kube-state-metrics-arm64:v1.9.0
 ### 2019-12-20 02:25:57 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.8.0-20191217162816
