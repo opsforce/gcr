@@ -1,3 +1,13 @@
+### 2019-12-22 02:17:01 Update:
+
+- gcr.io/linkerd-io/proxy:git-36478312
+- gcr.io/linkerd-io/controller:git-36478312
+- gcr.io/linkerd-io/cni-plugin:git-36478312
+- gcr.io/linkerd-io/debug:git-36478312
+- gcr.io/linkerd-io/web:git-36478312
+- gcr.io/linkerd-io/grafana:git-36478312
+- gcr.io/linkerd-io/cli-bin:git-36478312
+- gcr.io/linkerd-io/website-builder:1.3.1
 ### 2019-12-22 02:14:25 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20191221-10-16-distroless
