@@ -1,3 +1,40 @@
+### 2019-12-22 02:20:17 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191220160037-slim
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191220160037
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191220160037-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220160037-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220160037-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220160037
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191220160037-ubuntu
+- gcr.io/spinnaker-marketplace/gate:1.14.0-20191220160037-ubuntu-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220160037-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220160037-ubuntu-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220202816-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220202816-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220202816
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191220160037
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191220160037-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220202816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20191220202816-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191220160037-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191220160037-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20191220160037-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220154333-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220154333-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220154333
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220154333-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220154333-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220173020-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220173020-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220173020
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220173020-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220173020-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220202816-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220202816-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220202816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220202816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20191220202816-ubuntu-java8
 ### 2019-12-22 02:17:01 Update:
 
 - gcr.io/linkerd-io/proxy:git-36478312
