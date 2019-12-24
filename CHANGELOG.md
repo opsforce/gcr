@@ -1,3 +1,10 @@
+### 2019-12-25 02:17:23 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191223133609-java8
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191223133609
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191223133609-slim
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191223133609-ubuntu-java8
+- gcr.io/spinnaker-marketplace/kayenta:0.13.0-20191223133609-ubuntu
 ### 2019-12-25 02:16:38 Update:
 
 - gcr.io/linkerd-io/proxy:git-8c18b0b9
