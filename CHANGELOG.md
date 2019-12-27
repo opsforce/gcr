@@ -1,3 +1,10 @@
+### 2019-12-28 02:17:28 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:spinnaker-master-latest-unvalidated
+- gcr.io/spinnaker-marketplace/fiat:spinnaker-master-latest-unvalidated-slim
+- gcr.io/spinnaker-marketplace/fiat:spinnaker-master-latest-unvalidated-java8
+- gcr.io/spinnaker-marketplace/fiat:spinnaker-master-latest-unvalidated-ubuntu
+- gcr.io/spinnaker-marketplace/fiat:spinnaker-master-latest-unvalidated-ubuntu-java8
 ### 2019-12-28 02:16:33 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191227-10-15-distroless
