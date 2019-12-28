@@ -1,3 +1,10 @@
+### 2019-12-29 02:19:03 Update:
+
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191227151742-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191227151742-ubuntu-java8
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191227151742-slim
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191227151742-java8
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20191227151742
 ### 2019-12-29 02:17:41 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20191228-10-15-distroless
