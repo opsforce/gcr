@@ -1,3 +1,7 @@
+### 2019-12-30 02:18:27 Update:
+
+- gcr.io/linkerd-io/proxy:ver-make-router-buffer-thing-0
+- gcr.io/linkerd-io/proxy:ver-make-router-buffer-thing-1
 ### 2019-12-30 02:18:02 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20191229-10-15-distroless

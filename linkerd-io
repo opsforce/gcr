@@ -14930,6 +14930,8 @@
     "proxy:ver-eventless.0",
     "proxy:ver-grpc-eos-status-0",
     "proxy:ver-h2-logging-0",
+    "proxy:ver-make-router-buffer-thing-0",
+    "proxy:ver-make-router-buffer-thing-1",
     "proxy:ver-new-balance-0",
     "proxy:ver-profile-watch.0",
     "proxy:ver-protocol-error-fix-0",
