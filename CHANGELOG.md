@@ -1,3 +1,6 @@
+### 2019-12-31 02:18:29 Update:
+
+- gcr.io/linkerd-io/proxy:ver-make-router-buffer-thing.1
 ### 2019-12-31 02:18:06 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20191230-10-15-distroless
