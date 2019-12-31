@@ -1,3 +1,19 @@
+### 2020-01-01 02:19:38 Update:
+
+- gcr.io/linkerd-io/controller:git-bb790b22
+- gcr.io/linkerd-io/controller:git-576c2bec
+- gcr.io/linkerd-io/cli-bin:git-576c2bec
+- gcr.io/linkerd-io/web:git-bb790b22
+- gcr.io/linkerd-io/web:git-576c2bec
+- gcr.io/linkerd-io/debug:git-bb790b22
+- gcr.io/linkerd-io/debug:git-576c2bec
+- gcr.io/linkerd-io/grafana:git-bb790b22
+- gcr.io/linkerd-io/grafana:git-576c2bec
+- gcr.io/linkerd-io/cli-bin:git-bb790b22
+- gcr.io/linkerd-io/proxy:git-576c2bec
+- gcr.io/linkerd-io/proxy:git-bb790b22
+- gcr.io/linkerd-io/cni-plugin:git-576c2bec
+- gcr.io/linkerd-io/cni-plugin:git-bb790b22
 ### 2020-01-01 02:18:42 Update:
 
 - gcr.io/istio-release/galley:release-1.3-20191231-10-15-distroless
