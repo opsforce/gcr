@@ -1,3 +1,15 @@
+### 2020-01-04 02:21:01 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102202815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102202815-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102172815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102172815-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102202815
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102202815-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102202815-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102172815-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102172815
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200102172815-java8
 ### 2020-01-04 02:20:04 Update:
 
 - gcr.io/linkerd-io/controller:git-7307cf77
