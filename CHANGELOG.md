@@ -1,3 +1,14 @@
+### 2020-01-05 02:23:42 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200103172815-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200103172815-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200103172815-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200103172815
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200103172815-java8
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200103172815-java8
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200103172815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200103172815
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200103172815-ubuntu-java8
 ### 2020-01-05 02:19:59 Update:
 
 - gcr.io/linkerd-io/proxy:ver-2020-01-04.0
