@@ -1,3 +1,6 @@
+### 2020-01-06 02:20:20 Update:
+
+- gcr.io/linkerd-io/proxy:ver-2020-01-04.1
 ### 2020-01-06 02:19:57 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20200105-10-15-distroless
