@@ -1248,6 +1248,7 @@
     "clouddriver:6.5.0-20200103172815",
     "clouddriver:6.5.0-20200103172815-java8",
     "clouddriver:6.5.0-20200103172815-slim",
+    "clouddriver:6.5.0-20200103172815-ubuntu",
     "clouddriver:6.5.0-20200103172815-ubuntu-java8",
     "deck:1.2.0-33",
     "deck:1.2.0-411",

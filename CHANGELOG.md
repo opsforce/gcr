@@ -1,3 +1,6 @@
+### 2020-01-06 02:21:14 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200103172815-ubuntu
 ### 2020-01-06 02:20:20 Update:
 
 - gcr.io/linkerd-io/proxy:ver-2020-01-04.1
