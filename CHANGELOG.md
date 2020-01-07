@@ -1,3 +1,20 @@
+### 2020-01-08 02:25:00 Update:
+
+- gcr.io/linkerd-io/controller:git-76c53adf
+- gcr.io/linkerd-io/controller:git-f7dbc3f8
+- gcr.io/linkerd-io/web:git-2c0b6efc
+- gcr.io/linkerd-io/controller:git-2c0b6efc
+- gcr.io/linkerd-io/web:git-76c53adf
+- gcr.io/linkerd-io/debug:git-2c0b6efc
+- gcr.io/linkerd-io/grafana:git-f7dbc3f8
+- gcr.io/linkerd-io/grafana:git-76c53adf
+- gcr.io/linkerd-io/cli-bin:git-2c0b6efc
+- gcr.io/linkerd-io/proxy:git-2c0b6efc
+- gcr.io/linkerd-io/grafana:git-2c0b6efc
+- gcr.io/linkerd-io/proxy:git-76c53adf
+- gcr.io/linkerd-io/proxy:git-f7dbc3f8
+- gcr.io/linkerd-io/cni-plugin:git-2c0b6efc
+- gcr.io/linkerd-io/cni-plugin:git-f7dbc3f8
 ### 2020-01-08 02:23:55 Update:
 
 - gcr.io/istio-release/galley:release-1.3-20200107-10-15-distroless
