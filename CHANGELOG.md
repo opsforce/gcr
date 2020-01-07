@@ -1,3 +1,6 @@
+### 2020-01-08 02:20:43 Update:
+
+- gcr.io/google-containers/kube-cross:v1.13.5-1
 ### 2020-01-07 02:20:57 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200106-10-15
