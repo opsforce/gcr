@@ -1,3 +1,42 @@
+### 2020-01-08 02:30:32 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200106172816-slim
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200106172816-java8
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200106172816
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20200106202816-java8
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20200106202816-slim
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20200106202816
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200106172816-ubuntu
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200106172816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200106172816-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200106172816-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200106172816
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20200106202816-ubuntu
+- gcr.io/spinnaker-marketplace/rosco:0.16.0-20200106202816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200106172816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200106172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200106172816
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200106172816-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200106172816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200106172816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200106172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106172816-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106172816-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106172816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106172816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106172816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106202816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106202816-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106202816-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106202816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200106202816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20200106172816
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20200106172816-java8
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20200106172816-slim
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20200106172816-ubuntu
+- gcr.io/spinnaker-marketplace/fiat:1.9.0-20200106172816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20200106172816
+- gcr.io/spinnaker-marketplace/halyard:1.29.0-20200106172816-ubuntu
 ### 2020-01-08 02:25:00 Update:
 
 - gcr.io/linkerd-io/controller:git-76c53adf
