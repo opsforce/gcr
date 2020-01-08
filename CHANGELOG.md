@@ -1,3 +1,6 @@
+### 2020-01-09 02:18:32 Update:
+
+- gcr.io/google-containers/git-sync:v3.1.4
 ### 2020-01-08 02:30:32 Update:
 
 - gcr.io/spinnaker-marketplace/igor:1.8.0-20200106172816-slim
