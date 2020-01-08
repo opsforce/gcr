@@ -1,3 +1,23 @@
+### 2020-01-09 02:36:08 Update:
+
+- gcr.io/distroless/static-debian9:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/static:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/static:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/cc:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/cc:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/cc-debian9:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/cc-debian9:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/base:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/base:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/static-debian9:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/base-debian9:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/static-debian10:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/static-debian10:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/base-debian9:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/base-debian10:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/base-debian10:5f6acac4bfda8895244a07c2680bbba6e49f0519
+- gcr.io/distroless/cc-debian10:033175ee3aec3131b77eb662af303f20566b1e49
+- gcr.io/distroless/cc-debian10:5f6acac4bfda8895244a07c2680bbba6e49f0519
 ### 2020-01-09 02:35:44 Update:
 
 - gcr.io/spinnaker-marketplace/echo:2.10.0-20200107172815-ubuntu-java8
