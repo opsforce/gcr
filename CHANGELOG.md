@@ -1,3 +1,40 @@
+### 2020-01-09 02:23:18 Update:
+
+- gcr.io/linkerd-io/grafana:git-42b0c0f1
+- gcr.io/linkerd-io/grafana:git-63c8c65e
+- gcr.io/linkerd-io/grafana:git-419b9f15
+- gcr.io/linkerd-io/grafana:git-287900a6
+- gcr.io/linkerd-io/cni-plugin:git-419b9f15
+- gcr.io/linkerd-io/cni-plugin:git-63c8c65e
+- gcr.io/linkerd-io/cni-plugin:git-287900a6
+- gcr.io/linkerd-io/cni-plugin:git-42b0c0f1
+- gcr.io/linkerd-io/cni-plugin:dev-596fff42-kleimkuhler
+- gcr.io/linkerd-io/grafana:dev-596fff42-kleimkuhler
+- gcr.io/linkerd-io/debug:git-42b0c0f1
+- gcr.io/linkerd-io/debug:git-287900a6
+- gcr.io/linkerd-io/debug:git-63c8c65e
+- gcr.io/linkerd-io/debug:git-419b9f15
+- gcr.io/linkerd-io/proxy:git-42b0c0f1
+- gcr.io/linkerd-io/proxy:git-419b9f15
+- gcr.io/linkerd-io/proxy:git-287900a6
+- gcr.io/linkerd-io/proxy:dev-596fff42-kleimkuhler
+- gcr.io/linkerd-io/proxy:git-63c8c65e
+- gcr.io/linkerd-io/controller:git-419b9f15
+- gcr.io/linkerd-io/controller:dev-596fff42-kleimkuhler
+- gcr.io/linkerd-io/controller:git-42b0c0f1
+- gcr.io/linkerd-io/debug:dev-596fff42-kleimkuhler
+- gcr.io/linkerd-io/controller:git-287900a6
+- gcr.io/linkerd-io/controller:git-63c8c65e
+- gcr.io/linkerd-io/web:dev-596fff42-kleimkuhler
+- gcr.io/linkerd-io/web:git-287900a6
+- gcr.io/linkerd-io/web:git-42b0c0f1
+- gcr.io/linkerd-io/web:git-419b9f15
+- gcr.io/linkerd-io/web:git-63c8c65e
+- gcr.io/linkerd-io/cli-bin:dev-596fff42-kleimkuhler
+- gcr.io/linkerd-io/cli-bin:git-287900a6
+- gcr.io/linkerd-io/cli-bin:git-42b0c0f1
+- gcr.io/linkerd-io/cli-bin:git-419b9f15
+- gcr.io/linkerd-io/cli-bin:git-63c8c65e
 ### 2020-01-09 02:21:44 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200108-10-15
