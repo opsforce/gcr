@@ -1,3 +1,45 @@
+### 2020-01-10 02:35:14 Update:
+
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200108165340-java8
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20200108165340-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20200108165340-ubuntu-java8
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200108165340-ubuntu-java8
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200108165340
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200108165340-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108165340-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108165340
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108165340-slim
+- gcr.io/spinnaker-marketplace/igor:1.8.0-20200108165340-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20200108165340
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20200108165340-java8
+- gcr.io/spinnaker-marketplace/echo:2.10.0-20200108165340-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108165340-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108165340-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108202816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108202816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108202816
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109012817-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108202816-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109012817-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200108202816-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109012817
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109012817-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109012817-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109110314-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109110314-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109110314-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109110314-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200109110314
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200108165340-ubuntu-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200108165340-java8
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200108165340
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200108165340-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.12.0-20200108165340-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200109110314
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200109110314-ubuntu-java8
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200109110314-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200109110314-java8
+- gcr.io/spinnaker-marketplace/clouddriver:6.5.0-20200109110314-ubuntu
 ### 2020-01-10 02:24:06 Update:
 
 - gcr.io/linkerd-io/proxy:2020-01-08.0
