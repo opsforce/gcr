@@ -1,3 +1,19 @@
+### 2020-01-12 02:21:10 Update:
+
+- gcr.io/linkerd-io/proxy:git-4096e99b
+- gcr.io/linkerd-io/proxy:git-36ddc263
+- gcr.io/linkerd-io/debug:git-4096e99b
+- gcr.io/linkerd-io/debug:git-36ddc263
+- gcr.io/linkerd-io/controller:git-36ddc263
+- gcr.io/linkerd-io/web:git-36ddc263
+- gcr.io/linkerd-io/web:git-4096e99b
+- gcr.io/linkerd-io/controller:git-4096e99b
+- gcr.io/linkerd-io/cni-plugin:git-36ddc263
+- gcr.io/linkerd-io/cni-plugin:git-4096e99b
+- gcr.io/linkerd-io/grafana:git-4096e99b
+- gcr.io/linkerd-io/grafana:git-36ddc263
+- gcr.io/linkerd-io/cli-bin:git-4096e99b
+- gcr.io/linkerd-io/cli-bin:git-36ddc263
 ### 2020-01-11 02:45:28 Update:
 
 - gcr.io/spinnaker-marketplace/orca:2.12.0-20200109202817
