@@ -1,3 +1,30 @@
+### 2020-01-12 02:25:10 Update:
+
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110151149-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110163631-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110163631
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110163631-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110151149
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110151149-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110172816-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110151149-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110172816
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110163631-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110151149-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110163631-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110172816-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110202817-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110172816-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110172816-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110202817-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110202817
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110202817-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200110151149-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200110151149
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200110151149-slim
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200110151149-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200110151149-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200110202817-ubuntu-java8
 ### 2020-01-12 02:21:10 Update:
 
 - gcr.io/linkerd-io/proxy:git-4096e99b
