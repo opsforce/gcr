@@ -1,3 +1,15 @@
+### 2020-01-14 02:25:22 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200113121000-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200113121000-ubuntu-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200113121000
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200113121000-java8
+- gcr.io/spinnaker-marketplace/deck:2.14.0-20200113121000-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200112202817
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200112202817-slim
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200112202817-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200112202817-ubuntu-java8
+- gcr.io/spinnaker-marketplace/front50:0.21.0-20200112202817-ubuntu
 ### 2020-01-14 02:23:23 Update:
 
 - gcr.io/istio-release/mixer:release-1.3-20200113-10-16-distroless
