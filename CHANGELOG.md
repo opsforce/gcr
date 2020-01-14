@@ -1,3 +1,13 @@
+### 2020-01-15 02:25:45 Update:
+
+- gcr.io/linkerd-io/controller:git-0ee409ea
+- gcr.io/linkerd-io/web:git-0ee409ea
+- gcr.io/linkerd-io/cli-bin:git-0ee409ea
+- gcr.io/linkerd-io/cni-plugin:git-0ee409ea
+- gcr.io/linkerd-io/proxy:git-0ee409ea
+- gcr.io/linkerd-io/grafana:git-0ee409ea
+- gcr.io/linkerd-io/debug:git-0ee409ea
+- gcr.io/linkerd-io/go-deps:462bbba0
 ### 2020-01-15 02:23:46 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200114-10-16
