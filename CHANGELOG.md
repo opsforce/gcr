@@ -1,3 +1,6 @@
+### 2020-01-18 02:22:19 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.8.1
 ### 2020-01-17 02:41:28 Update:
 
 - gcr.io/linkerd-io/controller:git-dba20ce3
