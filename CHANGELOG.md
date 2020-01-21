@@ -1,3 +1,13 @@
+### 2020-01-22 02:46:43 Update:
+
+- gcr.io/linkerd-io/proxy:ver-backpressure-retry-smpfy-metrics.2020-01-21.0
+- gcr.io/linkerd-io/controller:git-26f62977
+- gcr.io/linkerd-io/web:git-26f62977
+- gcr.io/linkerd-io/proxy:git-26f62977
+- gcr.io/linkerd-io/debug:git-26f62977
+- gcr.io/linkerd-io/grafana:git-26f62977
+- gcr.io/linkerd-io/cli-bin:git-26f62977
+- gcr.io/linkerd-io/cni-plugin:git-26f62977
 ### 2020-01-22 02:45:48 Update:
 
 - gcr.io/istio-release/mixer:release-1.3-20200121-10-16
