@@ -1,3 +1,53 @@
+### 2020-01-23 02:39:25 Update:
+
+- gcr.io/linkerd-io/proxy:git-5b75a217
+- gcr.io/linkerd-io/grafana:git-5b75a217
+- gcr.io/linkerd-io/grafana:git-b5e39bcb
+- gcr.io/linkerd-io/grafana:git-60ac0d55
+- gcr.io/linkerd-io/proxy:git-5a1d642b
+- gcr.io/linkerd-io/proxy:dev-a343223a-alex
+- gcr.io/linkerd-io/grafana:dev-a343223a-alex
+- gcr.io/linkerd-io/grafana:git-f93d4266
+- gcr.io/linkerd-io/grafana:git-e456abeb
+- gcr.io/linkerd-io/proxy:git-b5e39bcb
+- gcr.io/linkerd-io/proxy:git-60ac0d55
+- gcr.io/linkerd-io/proxy:git-e456abeb
+- gcr.io/linkerd-io/proxy:git-f93d4266
+- gcr.io/linkerd-io/grafana:git-5a1d642b
+- gcr.io/linkerd-io/debug:git-60ac0d55
+- gcr.io/linkerd-io/debug:git-b5e39bcb
+- gcr.io/linkerd-io/debug:git-5b75a217
+- gcr.io/linkerd-io/debug:git-e456abeb
+- gcr.io/linkerd-io/debug:git-f93d4266
+- gcr.io/linkerd-io/debug:dev-a343223a-alex
+- gcr.io/linkerd-io/web:git-5b75a217
+- gcr.io/linkerd-io/web:git-b5e39bcb
+- gcr.io/linkerd-io/web:dev-a343223a-alex
+- gcr.io/linkerd-io/web:git-e456abeb
+- gcr.io/linkerd-io/web:git-5a1d642b
+- gcr.io/linkerd-io/web:git-f93d4266
+- gcr.io/linkerd-io/controller:git-5a1d642b
+- gcr.io/linkerd-io/controller:git-5b75a217
+- gcr.io/linkerd-io/controller:git-b5e39bcb
+- gcr.io/linkerd-io/web:git-60ac0d55
+- gcr.io/linkerd-io/controller:dev-a343223a-alex
+- gcr.io/linkerd-io/cni-plugin:dev-a343223a-alex
+- gcr.io/linkerd-io/controller:git-60ac0d55
+- gcr.io/linkerd-io/controller:git-e456abeb
+- gcr.io/linkerd-io/cni-plugin:git-5b75a217
+- gcr.io/linkerd-io/cni-plugin:git-b5e39bcb
+- gcr.io/linkerd-io/cni-plugin:git-e456abeb
+- gcr.io/linkerd-io/controller:git-f93d4266
+- gcr.io/linkerd-io/cni-plugin:git-5a1d642b
+- gcr.io/linkerd-io/cni-plugin:git-f93d4266
+- gcr.io/linkerd-io/cni-plugin:git-60ac0d55
+- gcr.io/linkerd-io/cli-bin:dev-a343223a-alex
+- gcr.io/linkerd-io/cli-bin:git-5a1d642b
+- gcr.io/linkerd-io/cli-bin:git-5b75a217
+- gcr.io/linkerd-io/cli-bin:git-e456abeb
+- gcr.io/linkerd-io/cli-bin:git-b5e39bcb
+- gcr.io/linkerd-io/cli-bin:git-60ac0d55
+- gcr.io/linkerd-io/cli-bin:git-f93d4266
 ### 2020-01-23 02:37:31 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20200122-10-15
