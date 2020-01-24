@@ -1,3 +1,33 @@
+### 2020-01-25 02:33:09 Update:
+
+- gcr.io/linkerd-io/debug:edge-20.1.3
+- gcr.io/linkerd-io/controller:edge-20.1.3
+- gcr.io/linkerd-io/grafana:edge-20.1.3
+- gcr.io/linkerd-io/grafana:git-0dac9203
+- gcr.io/linkerd-io/grafana:git-9c852897
+- gcr.io/linkerd-io/grafana:dev-60ac0d55-alex
+- gcr.io/linkerd-io/controller:git-0dac9203
+- gcr.io/linkerd-io/debug:dev-60ac0d55-alex
+- gcr.io/linkerd-io/debug:git-9c852897
+- gcr.io/linkerd-io/controller:git-9c852897
+- gcr.io/linkerd-io/proxy:dev-60ac0d55-alex
+- gcr.io/linkerd-io/proxy:git-9c852897
+- gcr.io/linkerd-io/debug:git-0dac9203
+- gcr.io/linkerd-io/cni-plugin:dev-60ac0d55-alex
+- gcr.io/linkerd-io/proxy:edge-20.1.3
+- gcr.io/linkerd-io/cni-plugin:git-9c852897
+- gcr.io/linkerd-io/controller:dev-60ac0d55-alex
+- gcr.io/linkerd-io/proxy:git-0dac9203
+- gcr.io/linkerd-io/cni-plugin:edge-20.1.3
+- gcr.io/linkerd-io/cni-plugin:git-0dac9203
+- gcr.io/linkerd-io/web:git-9c852897
+- gcr.io/linkerd-io/web:dev-60ac0d55-alex
+- gcr.io/linkerd-io/web:edge-20.1.3
+- gcr.io/linkerd-io/web:git-0dac9203
+- gcr.io/linkerd-io/cli-bin:git-0dac9203
+- gcr.io/linkerd-io/cli-bin:edge-20.1.3
+- gcr.io/linkerd-io/cli-bin:git-9c852897
+- gcr.io/linkerd-io/cli-bin:dev-60ac0d55-alex
 ### 2020-01-25 02:31:39 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20200124-10-15-distroless
