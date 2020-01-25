@@ -1,3 +1,31 @@
+### 2020-01-26 02:30:18 Update:
+
+- gcr.io/linkerd-io/proxy:dev-91bc0544-alex
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-24.0
+- gcr.io/linkerd-io/proxy:git-feea96c4
+- gcr.io/linkerd-io/web:git-8c9498de
+- gcr.io/linkerd-io/proxy:git-8c9498de
+- gcr.io/linkerd-io/web:dev-91bc0544-alex
+- gcr.io/linkerd-io/grafana:git-feea96c4
+- gcr.io/linkerd-io/grafana:git-8c9498de
+- gcr.io/linkerd-io/grafana:dev-91bc0544-alex
+- gcr.io/linkerd-io/web:git-feea96c4
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-24.1
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-24.2
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-25.5
+- gcr.io/linkerd-io/debug:git-8c9498de
+- gcr.io/linkerd-io/debug:git-feea96c4
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-24.3
+- gcr.io/linkerd-io/debug:dev-91bc0544-alex
+- gcr.io/linkerd-io/controller:git-8c9498de
+- gcr.io/linkerd-io/controller:dev-91bc0544-alex
+- gcr.io/linkerd-io/controller:git-feea96c4
+- gcr.io/linkerd-io/cli-bin:dev-91bc0544-alex
+- gcr.io/linkerd-io/cni-plugin:git-8c9498de
+- gcr.io/linkerd-io/cli-bin:git-feea96c4
+- gcr.io/linkerd-io/cli-bin:git-8c9498de
+- gcr.io/linkerd-io/cni-plugin:dev-91bc0544-alex
+- gcr.io/linkerd-io/cni-plugin:git-feea96c4
 ### 2020-01-26 02:29:05 Update:
 
 - gcr.io/istio-release/mixer:release-1.3-20200125-10-15-distroless
