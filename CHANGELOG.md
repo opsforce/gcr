@@ -1,3 +1,9 @@
+### 2020-01-27 02:29:51 Update:
+
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-25.2
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-25.3
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-25.0
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-25.1
 ### 2020-01-27 02:29:26 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200126-10-15
