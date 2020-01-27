@@ -1,3 +1,13 @@
+### 2020-01-28 02:31:15 Update:
+
+- gcr.io/linkerd-io/proxy:git-afb93cdd
+- gcr.io/linkerd-io/web:git-afb93cdd
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-27.0
+- gcr.io/linkerd-io/controller:git-afb93cdd
+- gcr.io/linkerd-io/debug:git-afb93cdd
+- gcr.io/linkerd-io/cni-plugin:git-afb93cdd
+- gcr.io/linkerd-io/grafana:git-afb93cdd
+- gcr.io/linkerd-io/cli-bin:git-afb93cdd
 ### 2020-01-28 02:30:20 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200127-10-18
