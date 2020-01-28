@@ -1,3 +1,26 @@
+### 2020-01-29 02:32:00 Update:
+
+- gcr.io/linkerd-io/proxy:dev-dadb3023-alex
+- gcr.io/linkerd-io/proxy:git-7f026c96
+- gcr.io/linkerd-io/proxy:git-5fc83bc1
+- gcr.io/linkerd-io/web:dev-dadb3023-alex
+- gcr.io/linkerd-io/controller:dev-dadb3023-alex
+- gcr.io/linkerd-io/grafana:dev-dadb3023-alex
+- gcr.io/linkerd-io/grafana:git-5fc83bc1
+- gcr.io/linkerd-io/grafana:git-7f026c96
+- gcr.io/linkerd-io/controller:git-5fc83bc1
+- gcr.io/linkerd-io/debug:git-7f026c96
+- gcr.io/linkerd-io/debug:git-5fc83bc1
+- gcr.io/linkerd-io/controller:git-7f026c96
+- gcr.io/linkerd-io/web:git-7f026c96
+- gcr.io/linkerd-io/web:git-5fc83bc1
+- gcr.io/linkerd-io/cni-plugin:dev-dadb3023-alex
+- gcr.io/linkerd-io/debug:dev-dadb3023-alex
+- gcr.io/linkerd-io/cli-bin:dev-dadb3023-alex
+- gcr.io/linkerd-io/cli-bin:git-5fc83bc1
+- gcr.io/linkerd-io/cni-plugin:git-7f026c96
+- gcr.io/linkerd-io/cni-plugin:git-5fc83bc1
+- gcr.io/linkerd-io/cli-bin:git-7f026c96
 ### 2020-01-29 02:30:48 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20200128-10-17-distroless
