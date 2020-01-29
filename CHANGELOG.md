@@ -1,3 +1,37 @@
+### 2020-01-30 02:32:37 Update:
+
+- gcr.io/linkerd-io/debug:edge-20.1.4
+- gcr.io/linkerd-io/debug:git-26de5cf6
+- gcr.io/linkerd-io/debug:git-69ce7ab0
+- gcr.io/linkerd-io/cni-plugin:git-26de5cf6
+- gcr.io/linkerd-io/cni-plugin:edge-20.1.4
+- gcr.io/linkerd-io/cni-plugin:git-69ce7ab0
+- gcr.io/linkerd-io/grafana:git-26de5cf6
+- gcr.io/linkerd-io/grafana:git-69ce7ab0
+- gcr.io/linkerd-io/debug:git-81049da1
+- gcr.io/linkerd-io/cni-plugin:git-81049da1
+- gcr.io/linkerd-io/grafana:edge-20.1.4
+- gcr.io/linkerd-io/grafana:git-81049da1
+- gcr.io/linkerd-io/controller:edge-20.1.4
+- gcr.io/linkerd-io/controller:git-69ce7ab0
+- gcr.io/linkerd-io/controller:git-26de5cf6
+- gcr.io/linkerd-io/controller:git-81049da1
+- gcr.io/linkerd-io/cli-bin:git-69ce7ab0
+- gcr.io/linkerd-io/cli-bin:edge-20.1.4
+- gcr.io/linkerd-io/cli-bin:git-81049da1
+- gcr.io/linkerd-io/cli-bin:git-26de5cf6
+- gcr.io/linkerd-io/proxy:git-69ce7ab0
+- gcr.io/linkerd-io/proxy:edge-20.1.4
+- gcr.io/linkerd-io/proxy:git-26de5cf6
+- gcr.io/linkerd-io/web:git-69ce7ab0
+- gcr.io/linkerd-io/web:git-26de5cf6
+- gcr.io/linkerd-io/web:edge-20.1.4
+- gcr.io/linkerd-io/proxy:git-81049da1
+- gcr.io/linkerd-io/web:git-81049da1
+- gcr.io/linkerd-io/proxy:ver-jeep.2020-01-29.0
+- gcr.io/linkerd-io/proxy:ver-backpressure-stack-metrics.2020-01-28.0
+- gcr.io/linkerd-io/proxy:ver-jeep.2020-01-29.3
+- gcr.io/linkerd-io/proxy:ver-jeep.2020-01-29.1
 ### 2020-01-30 02:31:19 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200129-10-16
