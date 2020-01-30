@@ -1,3 +1,55 @@
+### 2020-01-31 02:30:27 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-3c1ee013
+- gcr.io/linkerd-io/cli-bin:git-487fb0a4
+- gcr.io/linkerd-io/cli-bin:git-40bc8d8b
+- gcr.io/linkerd-io/cni-plugin:git-40bc8d8b
+- gcr.io/linkerd-io/cni-plugin:git-487fb0a4
+- gcr.io/linkerd-io/cni-plugin:git-faa74bf6
+- gcr.io/linkerd-io/cni-plugin:git-a54c5b6b
+- gcr.io/linkerd-io/cni-plugin:git-3c1ee013
+- gcr.io/linkerd-io/cli-bin:git-a54c5b6b
+- gcr.io/linkerd-io/cni-plugin:git-d21f7b52
+- gcr.io/linkerd-io/proxy:git-40bc8d8b
+- gcr.io/linkerd-io/proxy:git-a54c5b6b
+- gcr.io/linkerd-io/proxy:git-3c1ee013
+- gcr.io/linkerd-io/proxy:git-faa74bf6
+- gcr.io/linkerd-io/proxy:git-487fb0a4
+- gcr.io/linkerd-io/cli-bin:git-d21f7b52
+- gcr.io/linkerd-io/proxy:git-c64e106b
+- gcr.io/linkerd-io/proxy:git-d21f7b52
+- gcr.io/linkerd-io/cli-bin:git-faa74bf6
+- gcr.io/linkerd-io/proxy:ver-2020-01-29.0
+- gcr.io/linkerd-io/proxy:ver-jeep-master-2020-01-30.1
+- gcr.io/linkerd-io/proxy:ver-jeep-2020-01-30.0
+- gcr.io/linkerd-io/web:git-487fb0a4
+- gcr.io/linkerd-io/web:git-3c1ee013
+- gcr.io/linkerd-io/web:git-a54c5b6b
+- gcr.io/linkerd-io/web:git-40bc8d8b
+- gcr.io/linkerd-io/proxy:ver-jeep-master-2020-01-30.2
+- gcr.io/linkerd-io/web:git-c64e106b
+- gcr.io/linkerd-io/web:git-faa74bf6
+- gcr.io/linkerd-io/web:git-d21f7b52
+- gcr.io/linkerd-io/debug:git-faa74bf6
+- gcr.io/linkerd-io/debug:git-a54c5b6b
+- gcr.io/linkerd-io/debug:git-487fb0a4
+- gcr.io/linkerd-io/debug:git-40bc8d8b
+- gcr.io/linkerd-io/debug:git-3c1ee013
+- gcr.io/linkerd-io/grafana:git-487fb0a4
+- gcr.io/linkerd-io/grafana:git-3c1ee013
+- gcr.io/linkerd-io/grafana:git-40bc8d8b
+- gcr.io/linkerd-io/grafana:git-a54c5b6b
+- gcr.io/linkerd-io/grafana:git-faa74bf6
+- gcr.io/linkerd-io/grafana:git-c64e106b
+- gcr.io/linkerd-io/controller:git-40bc8d8b
+- gcr.io/linkerd-io/grafana:git-d21f7b52
+- gcr.io/linkerd-io/controller:git-487fb0a4
+- gcr.io/linkerd-io/controller:git-3c1ee013
+- gcr.io/linkerd-io/controller:git-a54c5b6b
+- gcr.io/linkerd-io/debug:git-d21f7b52
+- gcr.io/linkerd-io/controller:git-faa74bf6
+- gcr.io/linkerd-io/controller:git-d21f7b52
+- gcr.io/linkerd-io/controller:git-c64e106b
 ### 2020-01-31 02:28:11 Update:
 
 - gcr.io/google-containers/managed-certificate-controller:v0.4.0
