@@ -1,3 +1,6 @@
+### 2020-01-31 02:28:11 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.4.0
 ### 2020-01-30 02:32:37 Update:
 
 - gcr.io/linkerd-io/debug:edge-20.1.4
