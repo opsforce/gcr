@@ -1,3 +1,14 @@
+### 2020-02-02 02:32:35 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-98412db6
+- gcr.io/linkerd-io/web:git-98412db6
+- gcr.io/linkerd-io/cni-plugin:git-98412db6
+- gcr.io/linkerd-io/debug:git-98412db6
+- gcr.io/linkerd-io/proxy:ver-slab-patch-2020-01-31.0
+- gcr.io/linkerd-io/grafana:git-98412db6
+- gcr.io/linkerd-io/proxy:git-98412db6
+- gcr.io/linkerd-io/proxy:ver-slab-patch-2020-01-31.1
+- gcr.io/linkerd-io/controller:git-98412db6
 ### 2020-02-02 02:31:53 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20200201-10-16-distroless
