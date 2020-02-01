@@ -1,3 +1,6 @@
+### 2020-02-02 02:28:43 Update:
+
+- gcr.io/google-containers/git-sync:v3.1.5
 ### 2020-02-01 02:34:57 Update:
 
 - gcr.io/linkerd-io/controller:git-15b1e46b
