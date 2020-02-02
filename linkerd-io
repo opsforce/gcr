@@ -15352,6 +15352,7 @@
     "proxy:ver-2020-01-29.0",
     "proxy:ver-backpressure-2020-01-30.6",
     "proxy:ver-backpressure-retry-smpfy-metrics.2020-01-21.0",
+    "proxy:ver-backpressure-slab-patch-2020-02-02.0",
     "proxy:ver-backpressure-stack-metrics.2020-01-24.0",
     "proxy:ver-backpressure-stack-metrics.2020-01-24.1",
     "proxy:ver-backpressure-stack-metrics.2020-01-24.2",

@@ -1,3 +1,6 @@
+### 2020-02-03 02:32:10 Update:
+
+- gcr.io/linkerd-io/proxy:ver-backpressure-slab-patch-2020-02-02.0
 ### 2020-02-03 02:31:45 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20200202-10-16-distroless
