@@ -1,3 +1,8 @@
+### 2020-02-04 02:33:16 Update:
+
+- gcr.io/linkerd-io/proxy:ver-backpressure-slab-patch-2020-02-02.1
+- gcr.io/linkerd-io/proxy:ver-backpressure-slab-patch-2020-02-02.3
+- gcr.io/linkerd-io/proxy:ver-backpressure-slab-patch-2020-02-03.0
 ### 2020-02-04 02:32:51 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200203-10-16
