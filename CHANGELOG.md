@@ -1,3 +1,57 @@
+### 2020-02-06 02:38:43 Update:
+
+- gcr.io/linkerd-io/debug:git-67fe02e6
+- gcr.io/linkerd-io/proxy:git-98884182
+- gcr.io/linkerd-io/grafana:edge-20.2.1
+- gcr.io/linkerd-io/grafana:git-67fe02e6
+- gcr.io/linkerd-io/grafana:dev-bfe04d47-cpretzer
+- gcr.io/linkerd-io/debug:git-98884182
+- gcr.io/linkerd-io/debug:git-afcbebd3
+- gcr.io/linkerd-io/debug:git-c609564d
+- gcr.io/linkerd-io/debug:git-9f4aa278
+- gcr.io/linkerd-io/debug:dev-bfe04d47-cpretzer
+- gcr.io/linkerd-io/grafana:git-afcbebd3
+- gcr.io/linkerd-io/grafana:git-9f4aa278
+- gcr.io/linkerd-io/grafana:git-98884182
+- gcr.io/linkerd-io/grafana:git-c609564d
+- gcr.io/linkerd-io/debug:edge-20.2.1
+- gcr.io/linkerd-io/web:dev-bfe04d47-cpretzer
+- gcr.io/linkerd-io/web:edge-20.2.1
+- gcr.io/linkerd-io/web:git-67fe02e6
+- gcr.io/linkerd-io/web:git-98884182
+- gcr.io/linkerd-io/web:git-afcbebd3
+- gcr.io/linkerd-io/web:git-c609564d
+- gcr.io/linkerd-io/web:git-9f4aa278
+- gcr.io/linkerd-io/proxy:dev-bfe04d47-cpretzer
+- gcr.io/linkerd-io/proxy:edge-20.2.1
+- gcr.io/linkerd-io/proxy:git-67fe02e6
+- gcr.io/linkerd-io/proxy:git-c609564d
+- gcr.io/linkerd-io/proxy:git-9f4aa278
+- gcr.io/linkerd-io/proxy:git-afcbebd3
+- gcr.io/linkerd-io/proxy:eliza-patch-subscriber-2-2020-02-03.1
+- gcr.io/linkerd-io/proxy:ver-backpressure-profilee-2020-02-05.0
+- gcr.io/linkerd-io/proxy:eliza-patch-subscriber-2-2020-02-03.2
+- gcr.io/linkerd-io/proxy:ver-2020-02-04.3
+- gcr.io/linkerd-io/controller:edge-20.2.1
+- gcr.io/linkerd-io/controller:dev-bfe04d47-cpretzer
+- gcr.io/linkerd-io/controller:git-67fe02e6
+- gcr.io/linkerd-io/controller:git-9f4aa278
+- gcr.io/linkerd-io/controller:git-afcbebd3
+- gcr.io/linkerd-io/cni-plugin:git-67fe02e6
+- gcr.io/linkerd-io/controller:git-c609564d
+- gcr.io/linkerd-io/controller:git-98884182
+- gcr.io/linkerd-io/cni-plugin:dev-bfe04d47-cpretzer
+- gcr.io/linkerd-io/cni-plugin:edge-20.2.1
+- gcr.io/linkerd-io/cni-plugin:git-c609564d
+- gcr.io/linkerd-io/cni-plugin:git-afcbebd3
+- gcr.io/linkerd-io/cni-plugin:git-9f4aa278
+- gcr.io/linkerd-io/cni-plugin:git-98884182
+- gcr.io/linkerd-io/cli-bin:git-67fe02e6
+- gcr.io/linkerd-io/cli-bin:git-afcbebd3
+- gcr.io/linkerd-io/cli-bin:git-9f4aa278
+- gcr.io/linkerd-io/cli-bin:git-98884182
+- gcr.io/linkerd-io/cli-bin:edge-20.2.1
+- gcr.io/linkerd-io/cli-bin:git-c609564d
 ### 2020-02-06 02:36:20 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20200205-10-19-distroless
