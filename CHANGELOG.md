@@ -1,3 +1,6 @@
+### 2020-02-07 02:37:06 Update:
+
+- gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.1
 ### 2020-02-06 02:38:43 Update:
 
 - gcr.io/linkerd-io/debug:git-67fe02e6
