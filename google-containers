@@ -21270,6 +21270,7 @@
     "watcher-daemonset:alpha3",
     "watcher-daemonset:alpha4",
     "watcher-daemonset:alpha5",
+    "watcher-daemonset:alpha6",
     "watcher-daemonset:latest",
     "webhooks-publisher:v20160915-162352",
     "webhooks-publisher:v20160919-140720",

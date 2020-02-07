@@ -1,3 +1,6 @@
+### 2020-02-08 02:31:16 Update:
+
+- gcr.io/google-containers/watcher-daemonset:alpha6
 ### 2020-02-07 02:41:04 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20200206-10-15-distroless
