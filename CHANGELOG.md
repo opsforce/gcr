@@ -1,3 +1,34 @@
+### 2020-02-08 02:37:27 Update:
+
+- gcr.io/linkerd-io/controller:stable-2.7.0
+- gcr.io/linkerd-io/controller:git-5cd3655b
+- gcr.io/linkerd-io/debug:git-6c6514f1
+- gcr.io/linkerd-io/debug:git-76d32852
+- gcr.io/linkerd-io/debug:git-5cd3655b
+- gcr.io/linkerd-io/debug:stable-2.7.0
+- gcr.io/linkerd-io/grafana:git-76d32852
+- gcr.io/linkerd-io/grafana:stable-2.7.0
+- gcr.io/linkerd-io/grafana:git-6c6514f1
+- gcr.io/linkerd-io/grafana:git-5cd3655b
+- gcr.io/linkerd-io/controller:git-6c6514f1
+- gcr.io/linkerd-io/controller:git-76d32852
+- gcr.io/linkerd-io/proxy:stable-2.7.0
+- gcr.io/linkerd-io/proxy:git-6c6514f1
+- gcr.io/linkerd-io/proxy:git-5cd3655b
+- gcr.io/linkerd-io/proxy:git-76d32852
+- gcr.io/linkerd-io/web:git-5cd3655b
+- gcr.io/linkerd-io/web:git-76d32852
+- gcr.io/linkerd-io/cni-plugin:git-76d32852
+- gcr.io/linkerd-io/cni-plugin:git-6c6514f1
+- gcr.io/linkerd-io/cni-plugin:git-5cd3655b
+- gcr.io/linkerd-io/web:stable-2.7.0
+- gcr.io/linkerd-io/cni-plugin:stable-2.7.0
+- gcr.io/linkerd-io/web:git-6c6514f1
+- gcr.io/linkerd-io/cli-bin:git-76d32852
+- gcr.io/linkerd-io/cli-bin:git-5cd3655b
+- gcr.io/linkerd-io/cli-bin:git-6c6514f1
+- gcr.io/linkerd-io/cli-bin:stable-2.7.0
+- gcr.io/linkerd-io/go-deps:93ea34a8
 ### 2020-02-08 02:35:09 Update:
 
 - gcr.io/istio-release/test_policybackend:release-1.3-20200207-10-15
