@@ -1,3 +1,35 @@
+### 2020-02-09 02:35:23 Update:
+
+- gcr.io/istio-release/mixer_codegen:release-1.3-20200208-10-15
+- gcr.io/istio-release/citadel:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/mixer_codegen:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/galley:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/galley:release-1.3-20200208-10-15
+- gcr.io/istio-release/mixer:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/mixer:release-1.3-20200208-10-15
+- gcr.io/istio-release/citadel:release-1.3-20200208-10-15
+- gcr.io/istio-release/app_sidecar:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/app_sidecar:release-1.3-20200208-10-15
+- gcr.io/istio-release/install-cni:release-1.3-20200208-10-15
+- gcr.io/istio-release/kubectl:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/kubectl:release-1.3-20200208-10-15
+- gcr.io/istio-release/pilot:release-1.3-20200208-10-15
+- gcr.io/istio-release/pilot:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/sidecar_injector:release-1.3-20200208-10-15
+- gcr.io/istio-release/sidecar_injector:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/node-agent-k8s:release-1.3-20200208-10-15
+- gcr.io/istio-release/proxyv2:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/proxyv2:release-1.3-20200208-10-15
+- gcr.io/istio-release/test_policybackend:release-1.3-20200208-10-15
+- gcr.io/istio-release/proxy_init:release-1.3-20200208-10-15
+- gcr.io/istio-release/test_policybackend:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/app:release-1.3-20200208-10-15
+- gcr.io/istio-release/proxy_init:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/node-agent-k8s:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/proxytproxy:release-1.3-20200208-10-15
+- gcr.io/istio-release/proxytproxy:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/proxy_debug:release-1.3-20200208-10-15-distroless
+- gcr.io/istio-release/proxy_debug:release-1.3-20200208-10-15
 ### 2020-02-08 02:37:27 Update:
 
 - gcr.io/linkerd-io/controller:stable-2.7.0
