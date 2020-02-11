@@ -1,3 +1,6 @@
+### 2020-02-12 02:32:27 Update:
+
+- gcr.io/google-containers/kubelet-to-gcm:1.3.0
 ### 2020-02-11 02:36:28 Update:
 
 - gcr.io/istio-release/proxy_init:release-1.3-20200210-10-16-distroless
