@@ -1,3 +1,26 @@
+### 2020-02-12 02:36:58 Update:
+
+- gcr.io/linkerd-io/proxy:git-21f1d85c
+- gcr.io/linkerd-io/web:git-21f1d85c
+- gcr.io/linkerd-io/web:git-9b29a915
+- gcr.io/linkerd-io/web:git-f46f372e
+- gcr.io/linkerd-io/grafana:git-f46f372e
+- gcr.io/linkerd-io/proxy:git-9b29a915
+- gcr.io/linkerd-io/grafana:git-9b29a915
+- gcr.io/linkerd-io/proxy:git-f46f372e
+- gcr.io/linkerd-io/grafana:git-21f1d85c
+- gcr.io/linkerd-io/controller:git-21f1d85c
+- gcr.io/linkerd-io/controller:git-9b29a915
+- gcr.io/linkerd-io/debug:git-9b29a915
+- gcr.io/linkerd-io/debug:git-f46f372e
+- gcr.io/linkerd-io/controller:git-f46f372e
+- gcr.io/linkerd-io/debug:git-21f1d85c
+- gcr.io/linkerd-io/cni-plugin:git-f46f372e
+- gcr.io/linkerd-io/cni-plugin:git-21f1d85c
+- gcr.io/linkerd-io/cni-plugin:git-9b29a915
+- gcr.io/linkerd-io/cli-bin:git-9b29a915
+- gcr.io/linkerd-io/cli-bin:git-21f1d85c
+- gcr.io/linkerd-io/cli-bin:git-f46f372e
 ### 2020-02-12 02:35:52 Update:
 
 - gcr.io/istio-release/mixer_codegen:release-1.3-20200211-10-15
