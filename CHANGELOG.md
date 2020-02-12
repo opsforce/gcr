@@ -1,3 +1,20 @@
+### 2020-02-13 02:58:37 Update:
+
+- gcr.io/linkerd-io/controller:git-089b11d8
+- gcr.io/linkerd-io/proxy:git-089b11d8
+- gcr.io/linkerd-io/proxy:git-7584f88b
+- gcr.io/linkerd-io/debug:git-089b11d8
+- gcr.io/linkerd-io/debug:git-7584f88b
+- gcr.io/linkerd-io/cni-plugin:git-089b11d8
+- gcr.io/linkerd-io/cni-plugin:git-7584f88b
+- gcr.io/linkerd-io/controller:git-7584f88b
+- gcr.io/linkerd-io/proxy:ver-backpressure-debug-lock-2020-02-11.0
+- gcr.io/linkerd-io/web:git-7584f88b
+- gcr.io/linkerd-io/grafana:git-089b11d8
+- gcr.io/linkerd-io/grafana:git-7584f88b
+- gcr.io/linkerd-io/web:git-089b11d8
+- gcr.io/linkerd-io/cli-bin:git-7584f88b
+- gcr.io/linkerd-io/cli-bin:git-089b11d8
 ### 2020-02-13 02:57:50 Update:
 
 - gcr.io/istio-release/node-agent-k8s:release-1.3-20200212-10-16-distroless
