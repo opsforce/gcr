@@ -1,3 +1,14 @@
+### 2020-02-15 02:39:13 Update:
+
+- gcr.io/linkerd-io/grafana:dev-ee055237-alex
+- gcr.io/linkerd-io/proxy:ver-backpressure-debug-lock-2020-02-14.1
+- gcr.io/linkerd-io/controller:git-1e4b3cd0
+- gcr.io/linkerd-io/cli-bin:git-1e4b3cd0
+- gcr.io/linkerd-io/web:git-1e4b3cd0
+- gcr.io/linkerd-io/grafana:git-1e4b3cd0
+- gcr.io/linkerd-io/proxy:git-1e4b3cd0
+- gcr.io/linkerd-io/debug:git-1e4b3cd0
+- gcr.io/linkerd-io/cni-plugin:git-1e4b3cd0
 ### 2020-02-15 02:38:11 Update:
 
 - gcr.io/istio-release/citadel:release-1.3-20200214-10-15-distroless
