@@ -1,3 +1,7 @@
+### 2020-02-15 02:34:27 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.17.1
+- gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.2
 ### 2020-02-14 02:43:54 Update:
 
 - gcr.io/linkerd-io/proxy:git-4913d254
