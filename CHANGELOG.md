@@ -1,3 +1,19 @@
+### 2020-02-16 02:35:48 Update:
+
+- gcr.io/linkerd-io/proxy:git-3538944d
+- gcr.io/linkerd-io/proxy:git-6fa94073
+- gcr.io/linkerd-io/debug:git-3538944d
+- gcr.io/linkerd-io/grafana:git-6fa94073
+- gcr.io/linkerd-io/grafana:git-3538944d
+- gcr.io/linkerd-io/debug:git-6fa94073
+- gcr.io/linkerd-io/controller:git-6fa94073
+- gcr.io/linkerd-io/controller:git-3538944d
+- gcr.io/linkerd-io/cni-plugin:git-3538944d
+- gcr.io/linkerd-io/cni-plugin:git-6fa94073
+- gcr.io/linkerd-io/web:git-3538944d
+- gcr.io/linkerd-io/web:git-6fa94073
+- gcr.io/linkerd-io/cli-bin:git-3538944d
+- gcr.io/linkerd-io/cli-bin:git-6fa94073
 ### 2020-02-16 02:34:25 Update:
 
 - gcr.io/google-containers/pause-arm64:3.2
