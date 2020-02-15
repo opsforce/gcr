@@ -1,3 +1,12 @@
+### 2020-02-16 02:34:25 Update:
+
+- gcr.io/google-containers/pause-arm64:3.2
+- gcr.io/google-containers/pause-arm:3.2
+- gcr.io/google-containers/pause-s390x:3.2
+- gcr.io/google-containers/pause-amd64:3.2
+- gcr.io/google-containers/pause:3.2
+- gcr.io/google-containers/pause-ppc64le:3.2
+- gcr.io/google-containers/coredns:1.6.7
 ### 2020-02-15 02:39:13 Update:
 
 - gcr.io/linkerd-io/grafana:dev-ee055237-alex
