@@ -1,3 +1,6 @@
+### 2020-02-17 02:35:54 Update:
+
+- gcr.io/linkerd-io/proxy:ver-backpressure-badlock-2020-02-16.1
 ### 2020-02-16 02:35:48 Update:
 
 - gcr.io/linkerd-io/proxy:git-3538944d
