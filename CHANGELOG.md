@@ -1,3 +1,13 @@
+### 2020-02-18 02:36:32 Update:
+
+- gcr.io/linkerd-io/controller:git-19806e36
+- gcr.io/linkerd-io/proxy:git-19806e36
+- gcr.io/linkerd-io/proxy:ver-backpressure-badlock-2020-02-16.2
+- gcr.io/linkerd-io/debug:git-19806e36
+- gcr.io/linkerd-io/cli-bin:git-19806e36
+- gcr.io/linkerd-io/cni-plugin:git-19806e36
+- gcr.io/linkerd-io/grafana:git-19806e36
+- gcr.io/linkerd-io/web:git-19806e36
 ### 2020-02-17 02:35:54 Update:
 
 - gcr.io/linkerd-io/proxy:ver-backpressure-badlock-2020-02-16.1
