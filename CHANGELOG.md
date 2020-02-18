@@ -1,3 +1,32 @@
+### 2020-02-19 02:38:31 Update:
+
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.9
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.9
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.9
+- gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.9
+- gcr.io/google-containers/k8s-dns-kube-dns:1.15.9
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.15.9
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-s390x:1.15.9
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm64:1.15.9
+- gcr.io/google-containers/kube-apiserver-amd64:v1.18.0-beta.0
+- gcr.io/google-containers/conformance-amd64:v1.18.0-beta.0
+- gcr.io/google-containers/k8s-dns-kube-dns-arm:1.15.9
+- gcr.io/google-containers/k8s-dns-kube-dns-arm64:1.15.9
+- gcr.io/google-containers/hyperkube-amd64:v1.18.0-beta.0
+- gcr.io/google-containers/k8s-dns-node-cache-arm64:1.15.9
+- gcr.io/google-containers/k8s-dns-node-cache-arm:1.15.9
+- gcr.io/google-containers/k8s-dns-kube-dns-ppc64le:1.15.9
+- gcr.io/google-containers/k8s-dns-kube-dns-s390x:1.15.9
+- gcr.io/google-containers/k8s-dns-node-cache:1.15.9
+- gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.9
+- gcr.io/google-containers/k8s-dns-node-cache-ppc64le:1.15.9
+- gcr.io/google-containers/k8s-dns-sidecar:1.15.9
+- gcr.io/google-containers/k8s-dns-node-cache-s390x:1.15.9
+- gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.9
+- gcr.io/google-containers/k8s-dns-sidecar-arm64:1.15.9
+- gcr.io/google-containers/k8s-dns-sidecar-s390x:1.15.9
+- gcr.io/google-containers/k8s-dns-sidecar-ppc64le:1.15.9
+- gcr.io/google-containers/k8s-dns-sidecar-arm:1.15.9
 ### 2020-02-18 02:36:32 Update:
 
 - gcr.io/linkerd-io/controller:git-19806e36
