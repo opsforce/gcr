@@ -1,3 +1,30 @@
+### 2020-02-19 02:40:22 Update:
+
+- gcr.io/linkerd-io/debug:git-77af716a
+- gcr.io/linkerd-io/debug:git-3c3a4a5f
+- gcr.io/linkerd-io/controller:git-3c3a4a5f
+- gcr.io/linkerd-io/cni-plugin:git-3c3a4a5f
+- gcr.io/linkerd-io/cni-plugin:git-77af716a
+- gcr.io/linkerd-io/cni-plugin:git-e0292f77
+- gcr.io/linkerd-io/grafana:git-3c3a4a5f
+- gcr.io/linkerd-io/grafana:git-77af716a
+- gcr.io/linkerd-io/controller:git-77af716a
+- gcr.io/linkerd-io/debug:git-e0292f77
+- gcr.io/linkerd-io/controller:git-e0292f77
+- gcr.io/linkerd-io/proxy:git-77af716a
+- gcr.io/linkerd-io/proxy:git-3c3a4a5f
+- gcr.io/linkerd-io/grafana:git-e0292f77
+- gcr.io/linkerd-io/proxy:git-e0292f77
+- gcr.io/linkerd-io/proxy:ver-stack-metrics-2020-02-18.3
+- gcr.io/linkerd-io/proxy:ver-stack-metrics-2020-02-18.1
+- gcr.io/linkerd-io/proxy:ver-stack-metrics-2020-02-18.0
+- gcr.io/linkerd-io/proxy:ver-stack-metrics-2020-02-18.2
+- gcr.io/linkerd-io/web:git-3c3a4a5f
+- gcr.io/linkerd-io/web:git-77af716a
+- gcr.io/linkerd-io/web:git-e0292f77
+- gcr.io/linkerd-io/cli-bin:git-3c3a4a5f
+- gcr.io/linkerd-io/cli-bin:git-77af716a
+- gcr.io/linkerd-io/cli-bin:git-e0292f77
 ### 2020-02-19 02:38:31 Update:
 
 - gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.9
