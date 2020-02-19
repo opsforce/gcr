@@ -1,3 +1,26 @@
+### 2020-02-20 02:50:08 Update:
+
+- gcr.io/linkerd-io/proxy:git-dea8b8c5
+- gcr.io/linkerd-io/proxy:git-aa1f200d
+- gcr.io/linkerd-io/proxy:git-67f83cf5
+- gcr.io/linkerd-io/web:git-67f83cf5
+- gcr.io/linkerd-io/grafana:git-aa1f200d
+- gcr.io/linkerd-io/grafana:git-67f83cf5
+- gcr.io/linkerd-io/controller:git-67f83cf5
+- gcr.io/linkerd-io/grafana:git-dea8b8c5
+- gcr.io/linkerd-io/controller:git-aa1f200d
+- gcr.io/linkerd-io/controller:git-dea8b8c5
+- gcr.io/linkerd-io/debug:git-aa1f200d
+- gcr.io/linkerd-io/debug:git-67f83cf5
+- gcr.io/linkerd-io/debug:git-dea8b8c5
+- gcr.io/linkerd-io/web:git-dea8b8c5
+- gcr.io/linkerd-io/web:git-aa1f200d
+- gcr.io/linkerd-io/cni-plugin:git-dea8b8c5
+- gcr.io/linkerd-io/cni-plugin:git-aa1f200d
+- gcr.io/linkerd-io/cni-plugin:git-67f83cf5
+- gcr.io/linkerd-io/cli-bin:git-dea8b8c5
+- gcr.io/linkerd-io/cli-bin:git-67f83cf5
+- gcr.io/linkerd-io/cli-bin:git-aa1f200d
 ### 2020-02-20 02:48:29 Update:
 
 - gcr.io/google-containers/kube-controller-manager-amd64:v1.18.0-beta.0
