@@ -1,3 +1,11 @@
+### 2020-02-21 02:37:36 Update:
+
+- gcr.io/google-containers/debian-base-arm:v1.0.1
+- gcr.io/google-containers/debian-base:v1.0.1
+- gcr.io/google-containers/debian-base-amd64:v1.0.1
+- gcr.io/google-containers/debian-base-arm64:v1.0.1
+- gcr.io/google-containers/debian-base-s390x:v1.0.1
+- gcr.io/google-containers/debian-base-ppc64le:v1.0.1
 ### 2020-02-20 02:50:08 Update:
 
 - gcr.io/linkerd-io/proxy:git-dea8b8c5
