@@ -1,3 +1,34 @@
+### 2020-02-21 02:39:27 Update:
+
+- gcr.io/linkerd-io/controller:git-7cff974a
+- gcr.io/linkerd-io/controller:git-42efc1da
+- gcr.io/linkerd-io/cni-plugin:git-df2011db
+- gcr.io/linkerd-io/cni-plugin:git-dc451208
+- gcr.io/linkerd-io/grafana:git-7cff974a
+- gcr.io/linkerd-io/grafana:git-dc451208
+- gcr.io/linkerd-io/grafana:git-42efc1da
+- gcr.io/linkerd-io/grafana:git-df2011db
+- gcr.io/linkerd-io/controller:git-df2011db
+- gcr.io/linkerd-io/cni-plugin:git-7cff974a
+- gcr.io/linkerd-io/cni-plugin:git-42efc1da
+- gcr.io/linkerd-io/controller:git-dc451208
+- gcr.io/linkerd-io/proxy:git-7cff974a
+- gcr.io/linkerd-io/proxy:git-42efc1da
+- gcr.io/linkerd-io/proxy:git-dc451208
+- gcr.io/linkerd-io/proxy:git-df2011db
+- gcr.io/linkerd-io/web:git-dc451208
+- gcr.io/linkerd-io/web:git-df2011db
+- gcr.io/linkerd-io/web:git-42efc1da
+- gcr.io/linkerd-io/web:git-7cff974a
+- gcr.io/linkerd-io/proxy:ver-backpressure-2020-02-20.0
+- gcr.io/linkerd-io/debug:git-df2011db
+- gcr.io/linkerd-io/debug:git-7cff974a
+- gcr.io/linkerd-io/debug:git-dc451208
+- gcr.io/linkerd-io/debug:git-42efc1da
+- gcr.io/linkerd-io/cli-bin:git-42efc1da
+- gcr.io/linkerd-io/cli-bin:git-7cff974a
+- gcr.io/linkerd-io/cli-bin:git-dc451208
+- gcr.io/linkerd-io/cli-bin:git-df2011db
 ### 2020-02-21 02:37:36 Update:
 
 - gcr.io/google-containers/debian-base-arm:v1.0.1
