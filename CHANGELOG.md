@@ -1,3 +1,19 @@
+### 2020-02-25 02:41:16 Update:
+
+- gcr.io/linkerd-io/controller:git-f9b940e8
+- gcr.io/linkerd-io/controller:git-1c19e314
+- gcr.io/linkerd-io/proxy:git-f9b940e8
+- gcr.io/linkerd-io/proxy:git-1c19e314
+- gcr.io/linkerd-io/cni-plugin:git-1c19e314
+- gcr.io/linkerd-io/cni-plugin:git-f9b940e8
+- gcr.io/linkerd-io/grafana:git-f9b940e8
+- gcr.io/linkerd-io/grafana:git-1c19e314
+- gcr.io/linkerd-io/debug:git-f9b940e8
+- gcr.io/linkerd-io/debug:git-1c19e314
+- gcr.io/linkerd-io/web:git-f9b940e8
+- gcr.io/linkerd-io/web:git-1c19e314
+- gcr.io/linkerd-io/cli-bin:git-1c19e314
+- gcr.io/linkerd-io/cli-bin:git-f9b940e8
 ### 2020-02-25 02:39:41 Update:
 
 - gcr.io/google-containers/kube-state-metrics-amd64:v1.9.5
