@@ -1,3 +1,12 @@
+### 2020-02-25 02:39:41 Update:
+
+- gcr.io/google-containers/kube-state-metrics-amd64:v1.9.5
+- gcr.io/google-containers/kube-state-metrics-arm64:v1.9.5
+- gcr.io/google-containers/kube-state-metrics-ppc64le:v1.9.5
+- gcr.io/google-containers/kube-state-metrics:v1.9.5
+- gcr.io/google-containers/kube-state-metrics-arm:v1.9.5
+- gcr.io/google-containers/kube-state-metrics-s390x:v1.9.5
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.8.2
 ### 2020-02-24 02:40:02 Update:
 
 - gcr.io/linkerd-io/controller:git-4aac6445
