@@ -7311,6 +7311,7 @@
     "ingress-gce-glbc-amd64:v1.7.1-rc2",
     "ingress-gce-glbc-amd64:v1.7.1-rc3",
     "ingress-gce-glbc-amd64:v1.7.2",
+    "ingress-gce-glbc-amd64:v1.7.3",
     "ingress-gce-glbc-amd64:v1.8.0",
     "ingress-gce-glbc-amd64:v1.8.0-rc1",
     "ingress-gce-glbc-amd64:v1.8.0-rc2",
