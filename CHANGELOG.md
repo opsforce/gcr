@@ -1,3 +1,40 @@
+### 2020-02-27 02:49:31 Update:
+
+- gcr.io/linkerd-io/debug:dev-d9956f3b-alex
+- gcr.io/linkerd-io/debug:git-ae880f0e
+- gcr.io/linkerd-io/debug:edge-93.1.4
+- gcr.io/linkerd-io/debug:git-c355ae8f
+- gcr.io/linkerd-io/debug:git-948dc22a
+- gcr.io/linkerd-io/grafana:git-ae880f0e
+- gcr.io/linkerd-io/grafana:git-948dc22a
+- gcr.io/linkerd-io/grafana:git-c355ae8f
+- gcr.io/linkerd-io/grafana:edge-93.1.4
+- gcr.io/linkerd-io/grafana:dev-d9956f3b-alex
+- gcr.io/linkerd-io/proxy:dev-d9956f3b-alex
+- gcr.io/linkerd-io/proxy:edge-93.1.4
+- gcr.io/linkerd-io/proxy:git-948dc22a
+- gcr.io/linkerd-io/proxy:git-c355ae8f
+- gcr.io/linkerd-io/proxy:git-ae880f0e
+- gcr.io/linkerd-io/cni-plugin:git-ae880f0e
+- gcr.io/linkerd-io/cni-plugin:git-c355ae8f
+- gcr.io/linkerd-io/cni-plugin:edge-93.1.4
+- gcr.io/linkerd-io/cni-plugin:git-948dc22a
+- gcr.io/linkerd-io/controller:git-ae880f0e
+- gcr.io/linkerd-io/controller:git-c355ae8f
+- gcr.io/linkerd-io/controller:edge-93.1.4
+- gcr.io/linkerd-io/cni-plugin:dev-d9956f3b-alex
+- gcr.io/linkerd-io/web:edge-93.1.4
+- gcr.io/linkerd-io/controller:dev-d9956f3b-alex
+- gcr.io/linkerd-io/web:git-ae880f0e
+- gcr.io/linkerd-io/controller:git-948dc22a
+- gcr.io/linkerd-io/web:git-c355ae8f
+- gcr.io/linkerd-io/web:dev-d9956f3b-alex
+- gcr.io/linkerd-io/web:git-948dc22a
+- gcr.io/linkerd-io/cli-bin:dev-d9956f3b-alex
+- gcr.io/linkerd-io/cli-bin:edge-93.1.4
+- gcr.io/linkerd-io/cli-bin:git-948dc22a
+- gcr.io/linkerd-io/cli-bin:git-c355ae8f
+- gcr.io/linkerd-io/cli-bin:git-ae880f0e
 ### 2020-02-27 02:47:32 Update:
 
 - gcr.io/google-containers/kube-apiserver-arm64:v1.18.0-beta.1
