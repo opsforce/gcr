@@ -1,3 +1,16 @@
+### 2020-02-29 02:43:14 Update:
+
+- gcr.io/google-containers/etcd-version-monitor:0.1.2-rc.0
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.2.18-0
+- gcr.io/google-containers/cadvisor:v.25.0
+- gcr.io/google-containers/node-problem-detector:v0.8.1
+- gcr.io/google-containers/nginx-ingress-controller-arm:0.9.0-beta.9
+- gcr.io/google-containers/nginx-ingress-controller-amd64:0.9.0-beta.9
+- gcr.io/google-containers/nginx-ingress-controller:0.9.0-beta.9
+- gcr.io/google-containers/custom-metrics-stackdriver-adapter:v1.0
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.6.2
+- gcr.io/google-containers/etcd-amd64:3.1.2
+- gcr.io/google-containers/nginx-ingress-controller-ppc64le:0.9.0-beta.9
 ### 2020-02-28 02:42:25 Update:
 
 - gcr.io/linkerd-io/cni-plugin:git-e37cb3b9
