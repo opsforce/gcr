@@ -1,3 +1,20 @@
+### 2020-02-29 02:44:37 Update:
+
+- gcr.io/linkerd-io/controller:edge-20.2.3
+- gcr.io/linkerd-io/controller:git-44f10784
+- gcr.io/linkerd-io/web:git-44f10784
+- gcr.io/linkerd-io/cni-plugin:git-44f10784
+- gcr.io/linkerd-io/web:edge-20.2.3
+- gcr.io/linkerd-io/cni-plugin:edge-20.2.3
+- gcr.io/linkerd-io/debug:git-44f10784
+- gcr.io/linkerd-io/debug:edge-20.2.3
+- gcr.io/linkerd-io/proxy:edge-20.2.3
+- gcr.io/linkerd-io/proxy:git-44f10784
+- gcr.io/linkerd-io/grafana:edge-20.2.3
+- gcr.io/linkerd-io/grafana:git-44f10784
+- gcr.io/linkerd-io/proxy:ver-backpressure-2020-02-27.0
+- gcr.io/linkerd-io/cli-bin:edge-20.2.3
+- gcr.io/linkerd-io/cli-bin:git-44f10784
 ### 2020-02-29 02:43:14 Update:
 
 - gcr.io/google-containers/etcd-version-monitor:0.1.2-rc.0
