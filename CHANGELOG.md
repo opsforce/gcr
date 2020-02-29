@@ -1,3 +1,12 @@
+### 2020-03-01 02:43:47 Update:
+
+- gcr.io/linkerd-io/proxy:git-8111e546
+- gcr.io/linkerd-io/controller:git-8111e546
+- gcr.io/linkerd-io/web:git-8111e546
+- gcr.io/linkerd-io/grafana:git-8111e546
+- gcr.io/linkerd-io/debug:git-8111e546
+- gcr.io/linkerd-io/cni-plugin:git-8111e546
+- gcr.io/linkerd-io/cli-bin:git-8111e546
 ### 2020-02-29 02:44:37 Update:
 
 - gcr.io/linkerd-io/controller:edge-20.2.3
