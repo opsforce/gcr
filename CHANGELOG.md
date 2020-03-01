@@ -1,3 +1,6 @@
+### 2020-03-02 02:44:19 Update:
+
+- gcr.io/linkerd-io/proxy:ver-backpressure-2020-03-01.0
 ### 2020-03-01 02:43:47 Update:
 
 - gcr.io/linkerd-io/proxy:git-8111e546
