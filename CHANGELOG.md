@@ -1,3 +1,6 @@
+### 2020-03-03 02:44:09 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.9.1
 ### 2020-03-02 02:44:19 Update:
 
 - gcr.io/linkerd-io/proxy:ver-backpressure-2020-03-01.0

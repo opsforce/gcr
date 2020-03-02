@@ -21310,6 +21310,7 @@
     "prometheus-to-sd:v0.8.1",
     "prometheus-to-sd:v0.8.2",
     "prometheus-to-sd:v0.9.0",
+    "prometheus-to-sd:v0.9.1",
     "proxy-agent:v0.0.1",
     "proxy-agent:v0.0.2",
     "proxy-agent:v0.0.3",
