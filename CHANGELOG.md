@@ -1,3 +1,19 @@
+### 2020-03-03 02:45:54 Update:
+
+- gcr.io/linkerd-io/proxy:git-71d6a00f
+- gcr.io/linkerd-io/proxy:git-65eae40b
+- gcr.io/linkerd-io/web:git-71d6a00f
+- gcr.io/linkerd-io/web:git-65eae40b
+- gcr.io/linkerd-io/controller:git-71d6a00f
+- gcr.io/linkerd-io/grafana:git-71d6a00f
+- gcr.io/linkerd-io/grafana:git-65eae40b
+- gcr.io/linkerd-io/controller:git-65eae40b
+- gcr.io/linkerd-io/debug:git-71d6a00f
+- gcr.io/linkerd-io/cni-plugin:git-65eae40b
+- gcr.io/linkerd-io/debug:git-65eae40b
+- gcr.io/linkerd-io/cni-plugin:git-71d6a00f
+- gcr.io/linkerd-io/cli-bin:git-65eae40b
+- gcr.io/linkerd-io/cli-bin:git-71d6a00f
 ### 2020-03-03 02:44:09 Update:
 
 - gcr.io/google-containers/prometheus-to-sd:v0.9.1
