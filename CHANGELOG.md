@@ -1,3 +1,54 @@
+### 2020-03-04 02:46:51 Update:
+
+- gcr.io/linkerd-io/debug:git-a65f76ed
+- gcr.io/linkerd-io/debug:git-2d17d625
+- gcr.io/linkerd-io/debug:git-edd7fd20
+- gcr.io/linkerd-io/debug:dev-0d749f04-alex
+- gcr.io/linkerd-io/debug:git-a37316a3
+- gcr.io/linkerd-io/debug:git-b52dc355
+- gcr.io/linkerd-io/debug:git-d78d56ed
+- gcr.io/linkerd-io/grafana:dev-0d749f04-alex
+- gcr.io/linkerd-io/grafana:git-edd7fd20
+- gcr.io/linkerd-io/grafana:git-a65f76ed
+- gcr.io/linkerd-io/grafana:git-b52dc355
+- gcr.io/linkerd-io/grafana:git-2d17d625
+- gcr.io/linkerd-io/grafana:git-a37316a3
+- gcr.io/linkerd-io/grafana:git-d78d56ed
+- gcr.io/linkerd-io/proxy:git-a37316a3
+- gcr.io/linkerd-io/proxy:git-2d17d625
+- gcr.io/linkerd-io/proxy:git-a65f76ed
+- gcr.io/linkerd-io/proxy:git-b52dc355
+- gcr.io/linkerd-io/proxy:git-edd7fd20
+- gcr.io/linkerd-io/proxy:dev-0d749f04-alex
+- gcr.io/linkerd-io/proxy:git-d78d56ed
+- gcr.io/linkerd-io/controller:git-2d17d625
+- gcr.io/linkerd-io/controller:git-edd7fd20
+- gcr.io/linkerd-io/controller:git-b52dc355
+- gcr.io/linkerd-io/controller:git-a65f76ed
+- gcr.io/linkerd-io/controller:git-a37316a3
+- gcr.io/linkerd-io/controller:dev-0d749f04-alex
+- gcr.io/linkerd-io/controller:git-d78d56ed
+- gcr.io/linkerd-io/web:dev-0d749f04-alex
+- gcr.io/linkerd-io/web:git-a37316a3
+- gcr.io/linkerd-io/web:git-a65f76ed
+- gcr.io/linkerd-io/web:git-2d17d625
+- gcr.io/linkerd-io/web:git-edd7fd20
+- gcr.io/linkerd-io/web:git-b52dc355
+- gcr.io/linkerd-io/web:git-d78d56ed
+- gcr.io/linkerd-io/cni-plugin:dev-0d749f04-alex
+- gcr.io/linkerd-io/cni-plugin:git-a37316a3
+- gcr.io/linkerd-io/cni-plugin:git-b52dc355
+- gcr.io/linkerd-io/cni-plugin:git-a65f76ed
+- gcr.io/linkerd-io/cni-plugin:git-2d17d625
+- gcr.io/linkerd-io/cni-plugin:git-edd7fd20
+- gcr.io/linkerd-io/cni-plugin:git-d78d56ed
+- gcr.io/linkerd-io/cli-bin:dev-0d749f04-alex
+- gcr.io/linkerd-io/cli-bin:git-2d17d625
+- gcr.io/linkerd-io/cli-bin:git-a65f76ed
+- gcr.io/linkerd-io/cli-bin:git-a37316a3
+- gcr.io/linkerd-io/cli-bin:git-b52dc355
+- gcr.io/linkerd-io/cli-bin:git-d78d56ed
+- gcr.io/linkerd-io/cli-bin:git-edd7fd20
 ### 2020-03-04 02:44:24 Update:
 
 - gcr.io/google-containers/cluster-autoscaler:v1.18.0-beta.0
