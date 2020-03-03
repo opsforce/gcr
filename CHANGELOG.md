@@ -1,3 +1,7 @@
+### 2020-03-04 02:44:24 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.18.0-beta.0
+- gcr.io/google-containers/cadvisor:v0.36.0
 ### 2020-03-03 02:45:54 Update:
 
 - gcr.io/linkerd-io/proxy:git-71d6a00f
