@@ -1,3 +1,12 @@
+### 2020-03-05 02:46:47 Update:
+
+- gcr.io/linkerd-io/grafana:git-72fc94b0
+- gcr.io/linkerd-io/proxy:git-72fc94b0
+- gcr.io/linkerd-io/web:git-72fc94b0
+- gcr.io/linkerd-io/cni-plugin:git-72fc94b0
+- gcr.io/linkerd-io/debug:git-72fc94b0
+- gcr.io/linkerd-io/controller:git-72fc94b0
+- gcr.io/linkerd-io/cli-bin:git-72fc94b0
 ### 2020-03-05 02:45:32 Update:
 
 - gcr.io/google-containers/kube-dns-perf-client-amd64:2.0
