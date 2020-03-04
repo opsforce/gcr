@@ -1,3 +1,21 @@
+### 2020-03-05 02:45:32 Update:
+
+- gcr.io/google-containers/kube-dns-perf-client-amd64:2.0
+- gcr.io/google-containers/addon-resizer-arm:2.3
+- gcr.io/google-containers/addon-resizer-s390x:2.3
+- gcr.io/google-containers/addon-resizer-arm64:2.3
+- gcr.io/google-containers/debian-iptables-arm:v11.0.3
+- gcr.io/google-containers/addon-resizer-ppc64le:2.3
+- gcr.io/google-containers/addon-resizer-amd64:2.3
+- gcr.io/google-containers/debian-iptables-arm64:v11.0.3
+- gcr.io/google-containers/debian-iptables:v11.0.3
+- gcr.io/google-containers/debian-iptables-ppc64le:v11.0.3
+- gcr.io/google-containers/debian-iptables-s390x:v11.0.3
+- gcr.io/google-containers/debian-iptables-amd64:v11.0.3
+- gcr.io/google-containers/prometheus-to-sd:v0.9.2
+- gcr.io/google-containers/vpa-recommender:0.7.0
+- gcr.io/google-containers/vpa-admission-controller:0.7.0
+- gcr.io/google-containers/vpa-updater:0.7.0
 ### 2020-03-04 02:46:51 Update:
 
 - gcr.io/linkerd-io/debug:git-a65f76ed
