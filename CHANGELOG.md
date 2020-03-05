@@ -1,3 +1,35 @@
+### 2020-03-06 02:48:05 Update:
+
+- gcr.io/linkerd-io/controller:git-578a2d19
+- gcr.io/linkerd-io/controller:git-54deffaa
+- gcr.io/linkerd-io/web:git-54deffaa
+- gcr.io/linkerd-io/web:git-7f6bbc73
+- gcr.io/linkerd-io/web:git-578a2d19
+- gcr.io/linkerd-io/grafana:git-578a2d19
+- gcr.io/linkerd-io/grafana:git-54deffaa
+- gcr.io/linkerd-io/controller:git-7f6bbc73
+- gcr.io/linkerd-io/grafana:git-7f6bbc73
+- gcr.io/linkerd-io/grafana:git-ad542c98
+- gcr.io/linkerd-io/proxy:git-54deffaa
+- gcr.io/linkerd-io/proxy:git-578a2d19
+- gcr.io/linkerd-io/web:git-ad542c98
+- gcr.io/linkerd-io/proxy:git-7f6bbc73
+- gcr.io/linkerd-io/debug:git-54deffaa
+- gcr.io/linkerd-io/debug:git-578a2d19
+- gcr.io/linkerd-io/controller:git-ad542c98
+- gcr.io/linkerd-io/proxy:git-ad542c98
+- gcr.io/linkerd-io/cni-plugin:git-54deffaa
+- gcr.io/linkerd-io/cni-plugin:git-578a2d19
+- gcr.io/linkerd-io/proxy:ver-backpressure-2020-03-05.0
+- gcr.io/linkerd-io/proxy:ver-backpressure-2020-03-04.0
+- gcr.io/linkerd-io/debug:git-7f6bbc73
+- gcr.io/linkerd-io/debug:git-ad542c98
+- gcr.io/linkerd-io/cni-plugin:git-7f6bbc73
+- gcr.io/linkerd-io/cni-plugin:git-ad542c98
+- gcr.io/linkerd-io/cli-bin:git-578a2d19
+- gcr.io/linkerd-io/cli-bin:git-54deffaa
+- gcr.io/linkerd-io/cli-bin:git-7f6bbc73
+- gcr.io/linkerd-io/cli-bin:git-ad542c98
 ### 2020-03-05 02:46:47 Update:
 
 - gcr.io/linkerd-io/grafana:git-72fc94b0
