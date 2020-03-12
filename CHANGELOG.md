@@ -1,3 +1,20 @@
+### 2020-03-13 02:49:37 Update:
+
+- gcr.io/linkerd-io/controller:git-7c0e6a86
+- gcr.io/linkerd-io/controller:edge-20.3.2
+- gcr.io/linkerd-io/web:git-7c0e6a86
+- gcr.io/linkerd-io/cni-plugin:edge-20.3.2
+- gcr.io/linkerd-io/proxy:git-7c0e6a86
+- gcr.io/linkerd-io/cni-plugin:git-7c0e6a86
+- gcr.io/linkerd-io/proxy:edge-20.3.2
+- gcr.io/linkerd-io/web:edge-20.3.2
+- gcr.io/linkerd-io/grafana:edge-20.3.2
+- gcr.io/linkerd-io/grafana:git-7c0e6a86
+- gcr.io/linkerd-io/debug:edge-20.3.2
+- gcr.io/linkerd-io/debug:git-7c0e6a86
+- gcr.io/linkerd-io/cli-bin:git-40b0ad2f
+- gcr.io/linkerd-io/cli-bin:edge-20.3.2
+- gcr.io/linkerd-io/cli-bin:git-7c0e6a86
 ### 2020-03-13 02:48:03 Update:
 
 - gcr.io/google-containers/ingress-gce-glbc-amd64:v1.6.3
