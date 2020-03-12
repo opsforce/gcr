@@ -1,3 +1,6 @@
+### 2020-03-13 02:48:03 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.6.3
 ### 2020-03-12 02:55:34 Update:
 
 - gcr.io/linkerd-io/proxy:git-88cafa36
