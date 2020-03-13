@@ -1,3 +1,23 @@
+### 2020-03-14 03:10:51 Update:
+
+- gcr.io/linkerd-io/proxy:git-794abfe0
+- gcr.io/linkerd-io/proxy-init:v1.3.2
+- gcr.io/linkerd-io/proxy:git-18b6e4a7
+- gcr.io/linkerd-io/web:git-794abfe0
+- gcr.io/linkerd-io/web:git-18b6e4a7
+- gcr.io/linkerd-io/grafana:git-18b6e4a7
+- gcr.io/linkerd-io/grafana:git-794abfe0
+- gcr.io/linkerd-io/debug:git-18b6e4a7
+- gcr.io/linkerd-io/debug:git-794abfe0
+- gcr.io/linkerd-io/proxy:multicluster
+- gcr.io/linkerd-io/cni-plugin:git-18b6e4a7
+- gcr.io/linkerd-io/cni-plugin:git-794abfe0
+- gcr.io/linkerd-io/cli-bin:git-78eb9498
+- gcr.io/linkerd-io/controller:git-18b6e4a7
+- gcr.io/linkerd-io/controller:git-794abfe0
+- gcr.io/linkerd-io/cli-bin:git-18b6e4a7
+- gcr.io/linkerd-io/cli-bin:git-1d063f13
+- gcr.io/linkerd-io/cli-bin:git-794abfe0
 ### 2020-03-14 03:09:18 Update:
 
 - gcr.io/google-containers/kube-controller-manager-arm:v1.16.8
