@@ -1,3 +1,6 @@
+### 2020-03-17 02:49:34 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.4.1
 ### 2020-03-14 03:10:51 Update:
 
 - gcr.io/linkerd-io/proxy:git-794abfe0
