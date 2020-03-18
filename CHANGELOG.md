@@ -1,3 +1,7 @@
+### 2020-03-19 02:51:12 Update:
+
+- gcr.io/google-containers/managed-certificate-controller:v0.4.2
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.9.0
 ### 2020-03-18 03:00:45 Update:
 
 - gcr.io/linkerd-io/proxy:dev-9520f49d-alex
