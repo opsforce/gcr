@@ -1,3 +1,20 @@
+### 2020-03-19 02:53:49 Update:
+
+- gcr.io/linkerd-io/controller:git-8f79e07e
+- gcr.io/linkerd-io/controller:git-1cbc26a2
+- gcr.io/linkerd-io/debug:git-1cbc26a2
+- gcr.io/linkerd-io/debug:git-8f79e07e
+- gcr.io/linkerd-io/proxy:git-8f79e07e
+- gcr.io/linkerd-io/proxy:git-1cbc26a2
+- gcr.io/linkerd-io/web:git-1cbc26a2
+- gcr.io/linkerd-io/grafana:git-8f79e07e
+- gcr.io/linkerd-io/web:git-8f79e07e
+- gcr.io/linkerd-io/grafana:git-1cbc26a2
+- gcr.io/linkerd-io/cni-plugin:git-1cbc26a2
+- gcr.io/linkerd-io/cni-plugin:git-8f79e07e
+- gcr.io/linkerd-io/cli-bin:git-8f79e07e
+- gcr.io/linkerd-io/cli-bin:git-1cbc26a2
+- gcr.io/linkerd-io/go-deps:6b9a8ea4
 ### 2020-03-19 02:51:12 Update:
 
 - gcr.io/google-containers/managed-certificate-controller:v0.4.2
