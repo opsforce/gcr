@@ -1,3 +1,40 @@
+### 2020-03-21 02:55:10 Update:
+
+- gcr.io/linkerd-io/controller:git-29db6c12
+- gcr.io/linkerd-io/controller:git-8d64f4e1
+- gcr.io/linkerd-io/controller:edge-20.3.3
+- gcr.io/linkerd-io/proxy:edge-20.3.3
+- gcr.io/linkerd-io/proxy:git-ab75bcdf
+- gcr.io/linkerd-io/proxy:git-29db6c12
+- gcr.io/linkerd-io/proxy:git-963b9b04
+- gcr.io/linkerd-io/proxy:git-8d64f4e1
+- gcr.io/linkerd-io/controller:git-ab75bcdf
+- gcr.io/linkerd-io/controller:git-963b9b04
+- gcr.io/linkerd-io/web:git-8d64f4e1
+- gcr.io/linkerd-io/web:git-29db6c12
+- gcr.io/linkerd-io/web:edge-20.3.3
+- gcr.io/linkerd-io/debug:git-29db6c12
+- gcr.io/linkerd-io/debug:git-963b9b04
+- gcr.io/linkerd-io/debug:git-ab75bcdf
+- gcr.io/linkerd-io/debug:git-8d64f4e1
+- gcr.io/linkerd-io/debug:edge-20.3.3
+- gcr.io/linkerd-io/web:git-963b9b04
+- gcr.io/linkerd-io/web:git-ab75bcdf
+- gcr.io/linkerd-io/cni-plugin:git-8d64f4e1
+- gcr.io/linkerd-io/cni-plugin:edge-20.3.3
+- gcr.io/linkerd-io/cni-plugin:git-ab75bcdf
+- gcr.io/linkerd-io/cni-plugin:git-963b9b04
+- gcr.io/linkerd-io/cni-plugin:git-29db6c12
+- gcr.io/linkerd-io/grafana:git-963b9b04
+- gcr.io/linkerd-io/grafana:git-29db6c12
+- gcr.io/linkerd-io/grafana:edge-20.3.3
+- gcr.io/linkerd-io/grafana:git-ab75bcdf
+- gcr.io/linkerd-io/grafana:git-8d64f4e1
+- gcr.io/linkerd-io/cli-bin:edge-20.3.3
+- gcr.io/linkerd-io/cli-bin:git-ab75bcdf
+- gcr.io/linkerd-io/cli-bin:git-963b9b04
+- gcr.io/linkerd-io/cli-bin:git-8d64f4e1
+- gcr.io/linkerd-io/cli-bin:git-29db6c12
 ### 2020-03-21 02:53:28 Update:
 
 - gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.11
