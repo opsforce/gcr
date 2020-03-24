@@ -1,3 +1,6 @@
+### 2020-03-25 03:44:49 Update:
+
+- gcr.io/google-containers/etcd:3.4.4-0
 ### 2020-03-24 02:56:48 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.16.4

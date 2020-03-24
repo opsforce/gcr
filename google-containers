@@ -3736,6 +3736,7 @@
     "etcd:3.4.3",
     "etcd:3.4.3-0",
     "etcd:3.4.4",
+    "etcd:3.4.4-0",
     "etcd:v2.0.3",
     "etcd:v3.3.8-0-gke.1",
     "etcd_monitor_shyamjvs:test",
