@@ -1,3 +1,14 @@
+### 2020-04-03 03:02:23 Update:
+
+- gcr.io/linkerd-io/web:git-fee70c06
+- gcr.io/linkerd-io/proxy:git-fee70c06
+- gcr.io/linkerd-io/debug:git-fee70c06
+- gcr.io/linkerd-io/cni-plugin:git-fee70c06
+- gcr.io/linkerd-io/controller:git-fee70c06
+- gcr.io/linkerd-io/grafana:git-fee70c06
+- gcr.io/linkerd-io/proxy:ver-wide-inbound.3
+- gcr.io/linkerd-io/proxy:ver-wide-inbound.1
+- gcr.io/linkerd-io/cli-bin:git-fee70c06
 ### 2020-04-02 03:04:00 Update:
 
 - gcr.io/linkerd-io/grafana:git-0c8171d4
