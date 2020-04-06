@@ -1,3 +1,12 @@
+### 2020-04-07 03:04:56 Update:
+
+- gcr.io/linkerd-io/controller:git-d6460cf0
+- gcr.io/linkerd-io/proxy:git-d6460cf0
+- gcr.io/linkerd-io/web:git-d6460cf0
+- gcr.io/linkerd-io/cli-bin:git-d6460cf0
+- gcr.io/linkerd-io/debug:git-d6460cf0
+- gcr.io/linkerd-io/cni-plugin:git-d6460cf0
+- gcr.io/linkerd-io/grafana:git-d6460cf0
 ### 2020-04-06 03:03:36 Update:
 
 - gcr.io/google-containers/toolbox:20200404-00
