@@ -1,3 +1,54 @@
+### 2020-04-11 03:09:13 Update:
+
+- gcr.io/linkerd-io/debug:git-26c14d3c
+- gcr.io/linkerd-io/debug:git-7b9d475f
+- gcr.io/linkerd-io/grafana:git-26c14d3c
+- gcr.io/linkerd-io/grafana:git-7b9d475f
+- gcr.io/linkerd-io/grafana:git-ed4ad337
+- gcr.io/linkerd-io/grafana:dev-1c8107d9-kleimkuhler
+- gcr.io/linkerd-io/grafana:git-c6d6f9f1
+- gcr.io/linkerd-io/grafana:git-b7cc397f
+- gcr.io/linkerd-io/grafana:stable-2.7.1
+- gcr.io/linkerd-io/debug:git-ed4ad337
+- gcr.io/linkerd-io/debug:git-c6d6f9f1
+- gcr.io/linkerd-io/debug:dev-1c8107d9-kleimkuhler
+- gcr.io/linkerd-io/debug:stable-2.7.1
+- gcr.io/linkerd-io/debug:git-b7cc397f
+- gcr.io/linkerd-io/controller:dev-1c8107d9-kleimkuhler
+- gcr.io/linkerd-io/controller:git-26c14d3c
+- gcr.io/linkerd-io/controller:git-c6d6f9f1
+- gcr.io/linkerd-io/controller:git-7b9d475f
+- gcr.io/linkerd-io/controller:git-b7cc397f
+- gcr.io/linkerd-io/controller:stable-2.7.1
+- gcr.io/linkerd-io/controller:git-ed4ad337
+- gcr.io/linkerd-io/proxy:git-b7cc397f
+- gcr.io/linkerd-io/proxy:git-c6d6f9f1
+- gcr.io/linkerd-io/proxy:git-ed4ad337
+- gcr.io/linkerd-io/proxy:dev-1c8107d9-kleimkuhler
+- gcr.io/linkerd-io/proxy:git-7b9d475f
+- gcr.io/linkerd-io/proxy:git-26c14d3c
+- gcr.io/linkerd-io/cni-plugin:git-7b9d475f
+- gcr.io/linkerd-io/cni-plugin:git-26c14d3c
+- gcr.io/linkerd-io/proxy:stable-2.7.1
+- gcr.io/linkerd-io/cni-plugin:stable-2.7.1
+- gcr.io/linkerd-io/cni-plugin:git-b7cc397f
+- gcr.io/linkerd-io/cni-plugin:git-c6d6f9f1
+- gcr.io/linkerd-io/cni-plugin:git-ed4ad337
+- gcr.io/linkerd-io/cni-plugin:dev-1c8107d9-kleimkuhler
+- gcr.io/linkerd-io/cli-bin:dev-1c8107d9-kleimkuhler
+- gcr.io/linkerd-io/cli-bin:git-26c14d3c
+- gcr.io/linkerd-io/cli-bin:git-b7cc397f
+- gcr.io/linkerd-io/cli-bin:git-7b9d475f
+- gcr.io/linkerd-io/cli-bin:git-c6d6f9f1
+- gcr.io/linkerd-io/cli-bin:git-ed4ad337
+- gcr.io/linkerd-io/web:git-7b9d475f
+- gcr.io/linkerd-io/web:git-26c14d3c
+- gcr.io/linkerd-io/cli-bin:stable-2.7.1
+- gcr.io/linkerd-io/web:dev-1c8107d9-kleimkuhler
+- gcr.io/linkerd-io/web:git-ed4ad337
+- gcr.io/linkerd-io/web:git-c6d6f9f1
+- gcr.io/linkerd-io/web:git-b7cc397f
+- gcr.io/linkerd-io/web:stable-2.7.1
 ### 2020-04-10 03:16:33 Update:
 
 - gcr.io/google-containers/kube-apiserver:v1.18.2-beta.0
