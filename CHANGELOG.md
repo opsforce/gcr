@@ -1,3 +1,16 @@
+### 2020-04-14 03:11:28 Update:
+
+- gcr.io/google-containers/etcd-empty-dir-cleanup:3.4.7.0
+- gcr.io/google-containers/etcd-arm64:3.4.7-0
+- gcr.io/google-containers/etcd-arm64:3.4.7
+- gcr.io/google-containers/etcd-arm:3.4.7
+- gcr.io/google-containers/etcd-arm:3.4.7-0
+- gcr.io/google-containers/etcd-amd64:3.4.7
+- gcr.io/google-containers/etcd-amd64:3.4.7-0
+- gcr.io/google-containers/etcd-s390x:3.4.7-0
+- gcr.io/google-containers/etcd:3.4.7
+- gcr.io/google-containers/etcd-ppc64le:3.4.7
+- gcr.io/google-containers/etcd-ppc64le:3.4.7-0
 ### 2020-04-13 03:09:13 Update:
 
 - gcr.io/linkerd-io/web:git-58f29cde
