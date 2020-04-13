@@ -1,3 +1,14 @@
+### 2020-04-14 03:12:48 Update:
+
+- gcr.io/linkerd-io/web:git-940d04af
+- gcr.io/linkerd-io/proxy:git-940d04af
+- gcr.io/linkerd-io/debug:git-940d04af
+- gcr.io/linkerd-io/cni-plugin:git-940d04af
+- gcr.io/linkerd-io/controller:git-940d04af
+- gcr.io/linkerd-io/proxy:recognize-debug2
+- gcr.io/linkerd-io/grafana:git-940d04af
+- gcr.io/linkerd-io/proxy:recognize-debug
+- gcr.io/linkerd-io/cli-bin:git-940d04af
 ### 2020-04-14 03:11:28 Update:
 
 - gcr.io/google-containers/etcd-empty-dir-cleanup:3.4.7.0
