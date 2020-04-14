@@ -1,3 +1,7 @@
+### 2020-04-15 03:09:08 Update:
+
+- gcr.io/google-containers/etcd:3.4.7-0
+- gcr.io/google-containers/etcd-s390x:3.4.7
 ### 2020-04-14 03:12:48 Update:
 
 - gcr.io/linkerd-io/web:git-940d04af
