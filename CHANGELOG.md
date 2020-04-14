@@ -1,3 +1,15 @@
+### 2020-04-15 03:10:26 Update:
+
+- gcr.io/linkerd-io/cni-plugin:git-920c742a
+- gcr.io/linkerd-io/proxy:recognize-debug5
+- gcr.io/linkerd-io/proxy:recognize-debug3
+- gcr.io/linkerd-io/debug:git-920c742a
+- gcr.io/linkerd-io/proxy:recognize-debug4
+- gcr.io/linkerd-io/proxy:git-920c742a
+- gcr.io/linkerd-io/grafana:git-920c742a
+- gcr.io/linkerd-io/web:git-920c742a
+- gcr.io/linkerd-io/controller:git-920c742a
+- gcr.io/linkerd-io/cli-bin:git-920c742a
 ### 2020-04-15 03:09:08 Update:
 
 - gcr.io/google-containers/etcd:3.4.7-0
