@@ -1,3 +1,6 @@
+### 2020-04-16 03:09:25 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.16.6
 ### 2020-04-15 03:10:26 Update:
 
 - gcr.io/linkerd-io/cni-plugin:git-920c742a
