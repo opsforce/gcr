@@ -1,3 +1,26 @@
+### 2020-04-18 03:34:49 Update:
+
+- gcr.io/linkerd-io/controller:git-b13e2442
+- gcr.io/linkerd-io/controller:git-8e561667
+- gcr.io/linkerd-io/controller:dev-8e561667-alex
+- gcr.io/linkerd-io/grafana:git-b13e2442
+- gcr.io/linkerd-io/grafana:git-8e561667
+- gcr.io/linkerd-io/debug:git-8e561667
+- gcr.io/linkerd-io/debug:git-b13e2442
+- gcr.io/linkerd-io/web:dev-8e561667-alex
+- gcr.io/linkerd-io/grafana:dev-8e561667-alex
+- gcr.io/linkerd-io/debug:dev-8e561667-alex
+- gcr.io/linkerd-io/web:git-8e561667
+- gcr.io/linkerd-io/proxy:git-8e561667
+- gcr.io/linkerd-io/web:git-b13e2442
+- gcr.io/linkerd-io/proxy:git-b13e2442
+- gcr.io/linkerd-io/proxy:dev-8e561667-alex
+- gcr.io/linkerd-io/cni-plugin:dev-8e561667-alex
+- gcr.io/linkerd-io/cni-plugin:git-b13e2442
+- gcr.io/linkerd-io/cni-plugin:git-8e561667
+- gcr.io/linkerd-io/cli-bin:dev-8e561667-alex
+- gcr.io/linkerd-io/cli-bin:git-8e561667
+- gcr.io/linkerd-io/cli-bin:git-b13e2442
 ### 2020-04-18 03:32:57 Update:
 
 - gcr.io/google-containers/conformance-arm64:v1.18.2
