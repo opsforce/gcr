@@ -1,3 +1,26 @@
+### 2020-04-23 03:17:14 Update:
+
+- gcr.io/linkerd-io/proxy:git-2b1cbc6f
+- gcr.io/linkerd-io/proxy:git-00b8ea22
+- gcr.io/linkerd-io/controller:git-b00a8412
+- gcr.io/linkerd-io/proxy:git-b00a8412
+- gcr.io/linkerd-io/grafana:git-00b8ea22
+- gcr.io/linkerd-io/grafana:git-b00a8412
+- gcr.io/linkerd-io/debug:git-00b8ea22
+- gcr.io/linkerd-io/debug:git-2b1cbc6f
+- gcr.io/linkerd-io/grafana:git-2b1cbc6f
+- gcr.io/linkerd-io/debug:git-b00a8412
+- gcr.io/linkerd-io/controller:git-00b8ea22
+- gcr.io/linkerd-io/controller:git-2b1cbc6f
+- gcr.io/linkerd-io/web:git-b00a8412
+- gcr.io/linkerd-io/web:git-2b1cbc6f
+- gcr.io/linkerd-io/web:git-00b8ea22
+- gcr.io/linkerd-io/cni-plugin:git-b00a8412
+- gcr.io/linkerd-io/cni-plugin:git-00b8ea22
+- gcr.io/linkerd-io/cni-plugin:git-2b1cbc6f
+- gcr.io/linkerd-io/cli-bin:git-b00a8412
+- gcr.io/linkerd-io/cli-bin:git-00b8ea22
+- gcr.io/linkerd-io/cli-bin:git-2b1cbc6f
 ### 2020-04-23 03:15:37 Update:
 
 - gcr.io/google-containers/kube-apiserver-amd64:v1.19.0-alpha.2
