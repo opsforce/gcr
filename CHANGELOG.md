@@ -1,3 +1,6 @@
+### 2020-04-29 03:15:46 Update:
+
+- gcr.io/google-containers/cpvpa-amd64:v0.8.2
 ### 2020-04-28 03:16:49 Update:
 
 - gcr.io/linkerd-io/controller:git-09262ebd
