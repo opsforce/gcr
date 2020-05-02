@@ -1,3 +1,12 @@
+### 2020-05-03 03:18:32 Update:
+
+- gcr.io/linkerd-io/proxy:git-2cd48bc4
+- gcr.io/linkerd-io/controller:git-2cd48bc4
+- gcr.io/linkerd-io/debug:git-2cd48bc4
+- gcr.io/linkerd-io/web:git-2cd48bc4
+- gcr.io/linkerd-io/cni-plugin:git-2cd48bc4
+- gcr.io/linkerd-io/grafana:git-2cd48bc4
+- gcr.io/linkerd-io/cli-bin:git-2cd48bc4
 ### 2020-05-03 03:17:19 Update:
 
 - gcr.io/google-containers/git-sync:v3.1.6
