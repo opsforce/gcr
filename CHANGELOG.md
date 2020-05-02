@@ -1,3 +1,6 @@
+### 2020-05-03 03:17:19 Update:
+
+- gcr.io/google-containers/git-sync:v3.1.6
 ### 2020-05-02 03:18:44 Update:
 
 - gcr.io/linkerd-io/proxy:edge-20.4.5
