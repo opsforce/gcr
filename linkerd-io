@@ -16722,6 +16722,7 @@
     "proxy:ver-profile-watch.0",
     "proxy:ver-protocol-error-fix-0",
     "proxy:ver-protocol-error-fix-1",
+    "proxy:ver-proxy-idle-jitter.0",
     "proxy:ver-reconnect-backoff",
     "proxy:ver-route-actual.0",
     "proxy:ver-slab-patch-2020-01-31.0",

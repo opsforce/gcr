@@ -1,3 +1,6 @@
+### 2020-05-04 03:18:53 Update:
+
+- gcr.io/linkerd-io/proxy:ver-proxy-idle-jitter.0
 ### 2020-05-03 03:18:32 Update:
 
 - gcr.io/linkerd-io/proxy:git-2cd48bc4
