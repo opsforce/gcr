@@ -1,3 +1,15 @@
+### 2020-05-05 03:18:56 Update:
+
+- gcr.io/linkerd-io/controller:git-6aa1e760
+- gcr.io/linkerd-io/proxy:git-6aa1e760
+- gcr.io/linkerd-io/proxy:ver-idle-buffer-2020-05-04.0
+- gcr.io/linkerd-io/web:git-6aa1e760
+- gcr.io/linkerd-io/proxy:ver-idle-buffer-2020-05-04.1
+- gcr.io/linkerd-io/proxy:ver-idle-buffer-2020-05-04.2
+- gcr.io/linkerd-io/grafana:git-6aa1e760
+- gcr.io/linkerd-io/cli-bin:git-6aa1e760
+- gcr.io/linkerd-io/debug:git-6aa1e760
+- gcr.io/linkerd-io/cni-plugin:git-6aa1e760
 ### 2020-05-04 03:18:53 Update:
 
 - gcr.io/linkerd-io/proxy:ver-proxy-idle-jitter.0
