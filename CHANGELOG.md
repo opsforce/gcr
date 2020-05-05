@@ -1,3 +1,35 @@
+### 2020-05-06 03:21:24 Update:
+
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-apiserver-amd64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-apiserver-arm:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-apiserver-s390x:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-apiserver-arm64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-controller-manager-arm:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-proxy-amd64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-scheduler-amd64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-apiserver:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-proxy:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-proxy-arm64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-scheduler-s390x:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-proxy-s390x:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-scheduler-arm:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-scheduler-arm64:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-scheduler:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-controller-manager:v1.19.0-alpha.3
+- gcr.io/google-containers/kube-proxy-arm:v1.19.0-alpha.3
+- gcr.io/google-containers/conformance-arm:v1.19.0-alpha.3
+- gcr.io/google-containers/conformance-ppc64le:v1.19.0-alpha.3
+- gcr.io/google-containers/conformance-arm64:v1.19.0-alpha.3
+- gcr.io/google-containers/conformance-amd64:v1.19.0-alpha.3
+- gcr.io/google-containers/conformance-s390x:v1.19.0-alpha.3
+- gcr.io/google-containers/conformance:v1.19.0-alpha.3
 ### 2020-05-05 03:18:56 Update:
 
 - gcr.io/linkerd-io/controller:git-6aa1e760
