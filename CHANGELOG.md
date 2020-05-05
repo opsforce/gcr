@@ -1,3 +1,6 @@
+### 2020-05-06 03:21:51 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.16.7
 ### 2020-05-06 03:21:24 Update:
 
 - gcr.io/google-containers/kube-controller-manager-ppc64le:v1.19.0-alpha.3
