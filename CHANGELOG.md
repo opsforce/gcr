@@ -1,3 +1,52 @@
+### 2020-05-08 03:30:49 Update:
+
+- gcr.io/linkerd-io/cni-plugin:git-2a95d373
+- gcr.io/linkerd-io/cni-plugin:git-2d2fd3f1
+- gcr.io/linkerd-io/debug:git-a35ad28e
+- gcr.io/linkerd-io/debug:git-2a95d373
+- gcr.io/linkerd-io/debug:git-5b7c8f82
+- gcr.io/linkerd-io/debug:git-2d2fd3f1
+- gcr.io/linkerd-io/cni-plugin:git-a35ad28e
+- gcr.io/linkerd-io/cni-plugin:git-5b7c8f82
+- gcr.io/linkerd-io/cni-plugin:git-0fad50fe
+- gcr.io/linkerd-io/controller:lockdown3
+- gcr.io/linkerd-io/debug:git-0fad50fe
+- gcr.io/linkerd-io/cni-plugin:git-b4a3a6e0
+- gcr.io/linkerd-io/controller:git-0fad50fe
+- gcr.io/linkerd-io/grafana:git-2a95d373
+- gcr.io/linkerd-io/grafana:git-5b7c8f82
+- gcr.io/linkerd-io/grafana:git-a35ad28e
+- gcr.io/linkerd-io/grafana:git-2d2fd3f1
+- gcr.io/linkerd-io/grafana:git-b4a3a6e0
+- gcr.io/linkerd-io/grafana:git-0fad50fe
+- gcr.io/linkerd-io/debug:git-b4a3a6e0
+- gcr.io/linkerd-io/controller:git-2d2fd3f1
+- gcr.io/linkerd-io/controller:git-2a95d373
+- gcr.io/linkerd-io/controller:git-5b7c8f82
+- gcr.io/linkerd-io/controller:git-a35ad28e
+- gcr.io/linkerd-io/controller:lockdown
+- gcr.io/linkerd-io/controller:lockdown2
+- gcr.io/linkerd-io/proxy:kevleim-rem-buffer
+- gcr.io/linkerd-io/controller:git-b4a3a6e0
+- gcr.io/linkerd-io/cli-bin:git-5b7c8f82
+- gcr.io/linkerd-io/cli-bin:git-2a95d373
+- gcr.io/linkerd-io/proxy:git-0fad50fe
+- gcr.io/linkerd-io/proxy:git-2d2fd3f1
+- gcr.io/linkerd-io/proxy:git-2a95d373
+- gcr.io/linkerd-io/proxy:git-5b7c8f82
+- gcr.io/linkerd-io/proxy:git-a35ad28e
+- gcr.io/linkerd-io/cli-bin:git-2d2fd3f1
+- gcr.io/linkerd-io/cli-bin:git-a35ad28e
+- gcr.io/linkerd-io/proxy:git-b4a3a6e0
+- gcr.io/linkerd-io/web:git-5b7c8f82
+- gcr.io/linkerd-io/proxy:kevleim-2.95.0
+- gcr.io/linkerd-io/web:git-a35ad28e
+- gcr.io/linkerd-io/proxy:kevleim-unrem-buffer
+- gcr.io/linkerd-io/web:git-2d2fd3f1
+- gcr.io/linkerd-io/proxy:portslockdown
+- gcr.io/linkerd-io/web:git-0fad50fe
+- gcr.io/linkerd-io/web:git-2a95d373
+- gcr.io/linkerd-io/web:git-b4a3a6e0
 ### 2020-05-08 03:28:17 Update:
 
 - gcr.io/google-containers/cloud-controller-manager-arm:v1.15.12
