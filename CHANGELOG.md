@@ -1,3 +1,33 @@
+### 2020-05-12 03:23:55 Update:
+
+- gcr.io/linkerd-io/proxy:git-edd9b654
+- gcr.io/linkerd-io/grafana:git-edd9b654
+- gcr.io/linkerd-io/controller:git-3008f1f8
+- gcr.io/linkerd-io/grafana:git-45ccc24a
+- gcr.io/linkerd-io/grafana:git-fd59ce53
+- gcr.io/linkerd-io/grafana:git-3008f1f8
+- gcr.io/linkerd-io/debug:git-fd59ce53
+- gcr.io/linkerd-io/debug:git-45ccc24a
+- gcr.io/linkerd-io/debug:git-edd9b654
+- gcr.io/linkerd-io/debug:git-3008f1f8
+- gcr.io/linkerd-io/controller:git-45ccc24a
+- gcr.io/linkerd-io/controller:git-fd59ce53
+- gcr.io/linkerd-io/controller:git-edd9b654
+- gcr.io/linkerd-io/proxy:git-fd59ce53
+- gcr.io/linkerd-io/proxy:git-45ccc24a
+- gcr.io/linkerd-io/proxy:git-3008f1f8
+- gcr.io/linkerd-io/cni-plugin:git-45ccc24a
+- gcr.io/linkerd-io/web:git-45ccc24a
+- gcr.io/linkerd-io/web:git-3008f1f8
+- gcr.io/linkerd-io/cni-plugin:git-edd9b654
+- gcr.io/linkerd-io/web:git-edd9b654
+- gcr.io/linkerd-io/cni-plugin:git-fd59ce53
+- gcr.io/linkerd-io/web:git-fd59ce53
+- gcr.io/linkerd-io/cni-plugin:git-3008f1f8
+- gcr.io/linkerd-io/cli-bin:git-3008f1f8
+- gcr.io/linkerd-io/cli-bin:git-45ccc24a
+- gcr.io/linkerd-io/cli-bin:git-edd9b654
+- gcr.io/linkerd-io/cli-bin:git-fd59ce53
 ### 2020-05-12 03:21:58 Update:
 
 - gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.13
