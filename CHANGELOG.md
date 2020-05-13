@@ -1,3 +1,13 @@
+### 2020-05-14 03:23:15 Update:
+
+- gcr.io/linkerd-io/proxy:git-640699ed
+- gcr.io/linkerd-io/debug:git-640699ed
+- gcr.io/linkerd-io/proxy:kevleim-2.89.0
+- gcr.io/linkerd-io/cni-plugin:git-640699ed
+- gcr.io/linkerd-io/web:git-640699ed
+- gcr.io/linkerd-io/grafana:git-640699ed
+- gcr.io/linkerd-io/controller:git-640699ed
+- gcr.io/linkerd-io/cli-bin:git-640699ed
 ### 2020-05-13 03:22:40 Update:
 
 - gcr.io/linkerd-io/controller:git-a12073d6
