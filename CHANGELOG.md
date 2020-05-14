@@ -1,3 +1,54 @@
+### 2020-05-15 03:24:18 Update:
+
+- gcr.io/linkerd-io/debug:git-bfe02490
+- gcr.io/linkerd-io/grafana:git-bfe02490
+- gcr.io/linkerd-io/grafana:git-4176580a
+- gcr.io/linkerd-io/grafana:git-115bab98
+- gcr.io/linkerd-io/grafana:git-8b0122bf
+- gcr.io/linkerd-io/grafana:git-dc5ca1a7
+- gcr.io/linkerd-io/grafana:git-e91dbda2
+- gcr.io/linkerd-io/grafana:git-ef1a2c2b
+- gcr.io/linkerd-io/debug:git-dc5ca1a7
+- gcr.io/linkerd-io/debug:git-8b0122bf
+- gcr.io/linkerd-io/debug:git-4176580a
+- gcr.io/linkerd-io/debug:git-ef1a2c2b
+- gcr.io/linkerd-io/debug:git-e91dbda2
+- gcr.io/linkerd-io/debug:git-115bab98
+- gcr.io/linkerd-io/cni-plugin:git-bfe02490
+- gcr.io/linkerd-io/cni-plugin:git-115bab98
+- gcr.io/linkerd-io/cni-plugin:git-ef1a2c2b
+- gcr.io/linkerd-io/cni-plugin:git-dc5ca1a7
+- gcr.io/linkerd-io/cni-plugin:git-8b0122bf
+- gcr.io/linkerd-io/cni-plugin:git-e91dbda2
+- gcr.io/linkerd-io/cni-plugin:git-4176580a
+- gcr.io/linkerd-io/proxy:git-8b0122bf
+- gcr.io/linkerd-io/proxy:git-4176580a
+- gcr.io/linkerd-io/proxy:git-115bab98
+- gcr.io/linkerd-io/proxy:git-ef1a2c2b
+- gcr.io/linkerd-io/proxy:git-dc5ca1a7
+- gcr.io/linkerd-io/proxy:git-e91dbda2
+- gcr.io/linkerd-io/proxy:git-bfe02490
+- gcr.io/linkerd-io/controller:git-115bab98
+- gcr.io/linkerd-io/controller:git-4176580a
+- gcr.io/linkerd-io/controller:git-dc5ca1a7
+- gcr.io/linkerd-io/controller:git-8b0122bf
+- gcr.io/linkerd-io/controller:git-bfe02490
+- gcr.io/linkerd-io/controller:git-e91dbda2
+- gcr.io/linkerd-io/controller:git-ef1a2c2b
+- gcr.io/linkerd-io/cli-bin:git-115bab98
+- gcr.io/linkerd-io/cli-bin:git-4176580a
+- gcr.io/linkerd-io/cli-bin:git-8b0122bf
+- gcr.io/linkerd-io/cli-bin:git-bfe02490
+- gcr.io/linkerd-io/cli-bin:git-e91dbda2
+- gcr.io/linkerd-io/cli-bin:git-dc5ca1a7
+- gcr.io/linkerd-io/web:git-115bab98
+- gcr.io/linkerd-io/web:git-dc5ca1a7
+- gcr.io/linkerd-io/web:git-4176580a
+- gcr.io/linkerd-io/web:git-8b0122bf
+- gcr.io/linkerd-io/cli-bin:git-ef1a2c2b
+- gcr.io/linkerd-io/web:git-ef1a2c2b
+- gcr.io/linkerd-io/web:git-bfe02490
+- gcr.io/linkerd-io/web:git-e91dbda2
 ### 2020-05-14 03:23:15 Update:
 
 - gcr.io/linkerd-io/proxy:git-640699ed
