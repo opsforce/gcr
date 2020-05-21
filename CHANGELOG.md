@@ -1,3 +1,9 @@
+### 2020-05-22 03:24:58 Update:
+
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm:1.8.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-amd64:1.8.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le:1.8.0
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.8.0
 ### 2020-05-21 03:50:07 Update:
 
 - gcr.io/linkerd-io/debug:git-5f37a9f7
