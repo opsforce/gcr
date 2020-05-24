@@ -1,3 +1,11 @@
+### 2020-05-25 03:27:42 Update:
+
+- gcr.io/linkerd-io/web:git-15dd5156
+- gcr.io/linkerd-io/proxy:git-15dd5156
+- gcr.io/linkerd-io/cli-bin:git-15dd5156
+- gcr.io/linkerd-io/debug:git-15dd5156
+- gcr.io/linkerd-io/grafana:git-15dd5156
+- gcr.io/linkerd-io/cni-plugin:git-15dd5156
 ### 2020-05-23 03:29:34 Update:
 
 - gcr.io/linkerd-io/debug:edge-20.5.4
