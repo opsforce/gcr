@@ -1,3 +1,13 @@
+### 2020-05-26 03:27:31 Update:
+
+- gcr.io/linkerd-io/controller:dev-85bbce16-zaharidichev
+- gcr.io/linkerd-io/controller:git-85bbce16
+- gcr.io/linkerd-io/proxy:git-85bbce16
+- gcr.io/linkerd-io/proxy:dev-85bbce16-zaharidichev
+- gcr.io/linkerd-io/grafana:dev-85bbce16-zaharidichev
+- gcr.io/linkerd-io/grafana:git-85bbce16
+- gcr.io/linkerd-io/web:dev-85bbce16-zaharidichev
+- gcr.io/linkerd-io/web:git-85bbce16
 ### 2020-05-25 03:27:42 Update:
 
 - gcr.io/linkerd-io/web:git-15dd5156
