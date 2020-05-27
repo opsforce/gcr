@@ -1,3 +1,54 @@
+### 2020-05-28 03:29:34 Update:
+
+- gcr.io/linkerd-io/debug:git-bfedcd54
+- gcr.io/linkerd-io/grafana:git-4879f073
+- gcr.io/linkerd-io/grafana:git-07d1b2a5
+- gcr.io/linkerd-io/grafana:git-1844fd57
+- gcr.io/linkerd-io/grafana:git-bfedcd54
+- gcr.io/linkerd-io/debug:git-de5b22ff
+- gcr.io/linkerd-io/grafana:git-cd8ef388
+- gcr.io/linkerd-io/debug:git-4879f073
+- gcr.io/linkerd-io/grafana:git-de5b22ff
+- gcr.io/linkerd-io/debug:git-cd8ef388
+- gcr.io/linkerd-io/debug:git-1844fd57
+- gcr.io/linkerd-io/grafana:git-b3c4cd78
+- gcr.io/linkerd-io/debug:git-07d1b2a5
+- gcr.io/linkerd-io/debug:git-b3c4cd78
+- gcr.io/linkerd-io/proxy:git-4879f073
+- gcr.io/linkerd-io/proxy:git-cd8ef388
+- gcr.io/linkerd-io/proxy:git-07d1b2a5
+- gcr.io/linkerd-io/proxy:git-1844fd57
+- gcr.io/linkerd-io/proxy:git-bfedcd54
+- gcr.io/linkerd-io/proxy:git-de5b22ff
+- gcr.io/linkerd-io/proxy:git-b3c4cd78
+- gcr.io/linkerd-io/controller:git-bfedcd54
+- gcr.io/linkerd-io/controller:git-de5b22ff
+- gcr.io/linkerd-io/controller:git-07d1b2a5
+- gcr.io/linkerd-io/controller:git-cd8ef388
+- gcr.io/linkerd-io/controller:git-1844fd57
+- gcr.io/linkerd-io/controller:git-4879f073
+- gcr.io/linkerd-io/controller:git-b3c4cd78
+- gcr.io/linkerd-io/web:git-07d1b2a5
+- gcr.io/linkerd-io/web:git-1844fd57
+- gcr.io/linkerd-io/web:git-cd8ef388
+- gcr.io/linkerd-io/web:git-de5b22ff
+- gcr.io/linkerd-io/web:git-4879f073
+- gcr.io/linkerd-io/web:git-bfedcd54
+- gcr.io/linkerd-io/web:git-b3c4cd78
+- gcr.io/linkerd-io/cni-plugin:git-1844fd57
+- gcr.io/linkerd-io/cni-plugin:git-07d1b2a5
+- gcr.io/linkerd-io/cni-plugin:git-de5b22ff
+- gcr.io/linkerd-io/cni-plugin:git-4879f073
+- gcr.io/linkerd-io/cni-plugin:git-bfedcd54
+- gcr.io/linkerd-io/cni-plugin:git-cd8ef388
+- gcr.io/linkerd-io/cni-plugin:git-b3c4cd78
+- gcr.io/linkerd-io/cli-bin:git-07d1b2a5
+- gcr.io/linkerd-io/cli-bin:git-1844fd57
+- gcr.io/linkerd-io/cli-bin:git-4879f073
+- gcr.io/linkerd-io/cli-bin:git-b3c4cd78
+- gcr.io/linkerd-io/cli-bin:git-bfedcd54
+- gcr.io/linkerd-io/cli-bin:git-cd8ef388
+- gcr.io/linkerd-io/cli-bin:git-de5b22ff
 ### 2020-05-27 03:28:59 Update:
 
 - gcr.io/linkerd-io/controller:git-b6c074d7
