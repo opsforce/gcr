@@ -1,3 +1,26 @@
+### 2020-05-29 03:29:54 Update:
+
+- gcr.io/linkerd-io/proxy:git-7b466828
+- gcr.io/linkerd-io/proxy:git-9a02e0d3
+- gcr.io/linkerd-io/debug:git-d4cdd956
+- gcr.io/linkerd-io/debug:git-9a02e0d3
+- gcr.io/linkerd-io/debug:git-7b466828
+- gcr.io/linkerd-io/web:git-7b466828
+- gcr.io/linkerd-io/proxy:git-d4cdd956
+- gcr.io/linkerd-io/grafana:git-d4cdd956
+- gcr.io/linkerd-io/grafana:git-7b466828
+- gcr.io/linkerd-io/grafana:git-9a02e0d3
+- gcr.io/linkerd-io/web:git-d4cdd956
+- gcr.io/linkerd-io/web:git-9a02e0d3
+- gcr.io/linkerd-io/controller:git-d4cdd956
+- gcr.io/linkerd-io/cni-plugin:git-9a02e0d3
+- gcr.io/linkerd-io/cni-plugin:git-7b466828
+- gcr.io/linkerd-io/cni-plugin:git-d4cdd956
+- gcr.io/linkerd-io/controller:git-9a02e0d3
+- gcr.io/linkerd-io/controller:git-7b466828
+- gcr.io/linkerd-io/cli-bin:git-d4cdd956
+- gcr.io/linkerd-io/cli-bin:git-9a02e0d3
+- gcr.io/linkerd-io/cli-bin:git-7b466828
 ### 2020-05-29 03:28:24 Update:
 
 - gcr.io/google-containers/addon-resizer:1.8.9
