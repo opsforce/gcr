@@ -1,3 +1,31 @@
+### 2020-05-30 03:30:48 Update:
+
+- gcr.io/linkerd-io/proxy:dev-d0dc98d2-zaharidichev
+- gcr.io/linkerd-io/controller:git-8f5ff8d9
+- gcr.io/linkerd-io/proxy:dev-9a02e0d3-zaharidichev
+- gcr.io/linkerd-io/debug:edge-20.5.5
+- gcr.io/linkerd-io/debug:git-8f5ff8d9
+- gcr.io/linkerd-io/grafana:git-8f5ff8d9
+- gcr.io/linkerd-io/grafana:dev-9a02e0d3-zaharidichev
+- gcr.io/linkerd-io/grafana:git-1adf743e
+- gcr.io/linkerd-io/grafana:edge-20.5.5
+- gcr.io/linkerd-io/grafana:dev-d0dc98d2-zaharidichev
+- gcr.io/linkerd-io/proxy:git-1adf743e
+- gcr.io/linkerd-io/proxy:edge-20.5.5
+- gcr.io/linkerd-io/proxy:git-8f5ff8d9
+- gcr.io/linkerd-io/controller:edge-20.5.5
+- gcr.io/linkerd-io/controller:git-1adf743e
+- gcr.io/linkerd-io/controller:dev-d0dc98d2-zaharidichev
+- gcr.io/linkerd-io/controller:dev-9a02e0d3-zaharidichev
+- gcr.io/linkerd-io/web:git-8f5ff8d9
+- gcr.io/linkerd-io/cni-plugin:git-8f5ff8d9
+- gcr.io/linkerd-io/cni-plugin:edge-20.5.5
+- gcr.io/linkerd-io/web:edge-20.5.5
+- gcr.io/linkerd-io/web:dev-9a02e0d3-zaharidichev
+- gcr.io/linkerd-io/web:dev-d0dc98d2-zaharidichev
+- gcr.io/linkerd-io/web:git-1adf743e
+- gcr.io/linkerd-io/cli-bin:git-8f5ff8d9
+- gcr.io/linkerd-io/cli-bin:edge-20.5.5
 ### 2020-05-30 03:29:09 Update:
 
 - gcr.io/google-containers/cpvpa-amd64:v0.8.3
