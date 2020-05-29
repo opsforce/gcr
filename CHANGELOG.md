@@ -1,3 +1,7 @@
+### 2020-05-30 03:29:09 Update:
+
+- gcr.io/google-containers/cpvpa-amd64:v0.8.3
+- gcr.io/google-containers/node-problem-detector:v0.8.2
 ### 2020-05-29 03:29:54 Update:
 
 - gcr.io/linkerd-io/proxy:git-7b466828
