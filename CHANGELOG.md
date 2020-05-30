@@ -1,3 +1,26 @@
+### 2020-05-31 03:30:49 Update:
+
+- gcr.io/linkerd-io/proxy:git-fa8656db
+- gcr.io/linkerd-io/controller:git-a55f0215
+- gcr.io/linkerd-io/proxy:git-cc7b24c5
+- gcr.io/linkerd-io/proxy:git-a55f0215
+- gcr.io/linkerd-io/cni-plugin:git-cc7b24c5
+- gcr.io/linkerd-io/cni-plugin:git-fa8656db
+- gcr.io/linkerd-io/cni-plugin:git-a55f0215
+- gcr.io/linkerd-io/debug:git-cc7b24c5
+- gcr.io/linkerd-io/debug:git-fa8656db
+- gcr.io/linkerd-io/debug:git-a55f0215
+- gcr.io/linkerd-io/controller:git-cc7b24c5
+- gcr.io/linkerd-io/controller:git-fa8656db
+- gcr.io/linkerd-io/web:git-a55f0215
+- gcr.io/linkerd-io/web:git-cc7b24c5
+- gcr.io/linkerd-io/web:git-fa8656db
+- gcr.io/linkerd-io/grafana:git-a55f0215
+- gcr.io/linkerd-io/grafana:git-cc7b24c5
+- gcr.io/linkerd-io/grafana:git-fa8656db
+- gcr.io/linkerd-io/cli-bin:git-fa8656db
+- gcr.io/linkerd-io/cli-bin:git-a55f0215
+- gcr.io/linkerd-io/cli-bin:git-cc7b24c5
 ### 2020-05-30 03:30:48 Update:
 
 - gcr.io/linkerd-io/proxy:dev-d0dc98d2-zaharidichev
