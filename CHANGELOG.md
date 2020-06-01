@@ -1,3 +1,46 @@
+### 2020-06-02 03:31:17 Update:
+
+- gcr.io/linkerd-io/debug:git-1adf743e
+- gcr.io/linkerd-io/grafana:dev-c3e71873-zaharidichev
+- gcr.io/linkerd-io/grafana:dev-ca909d9c-zaharidichev
+- gcr.io/linkerd-io/grafana:git-ca909d9c
+- gcr.io/linkerd-io/grafana:dev-789921c9-zaharidichev
+- gcr.io/linkerd-io/grafana:dev-1adf743e-zaharidichev
+- gcr.io/linkerd-io/grafana:dev-e2c8559f-zaharidichev
+- gcr.io/linkerd-io/grafana:git-015d352f
+- gcr.io/linkerd-io/grafana:git-16d2d4bf
+- gcr.io/linkerd-io/proxy:dev-e2c8559f-zaharidichev
+- gcr.io/linkerd-io/proxy:dev-1adf743e-zaharidichev
+- gcr.io/linkerd-io/proxy:dev-c3e71873-zaharidichev
+- gcr.io/linkerd-io/proxy:dev-ca909d9c-zaharidichev
+- gcr.io/linkerd-io/proxy:dev-789921c9-zaharidichev
+- gcr.io/linkerd-io/debug:git-16d2d4bf
+- gcr.io/linkerd-io/debug:git-015d352f
+- gcr.io/linkerd-io/proxy:git-ca909d9c
+- gcr.io/linkerd-io/proxy:git-16d2d4bf
+- gcr.io/linkerd-io/proxy:git-015d352f
+- gcr.io/linkerd-io/web:dev-1adf743e-zaharidichev
+- gcr.io/linkerd-io/web:dev-789921c9-zaharidichev
+- gcr.io/linkerd-io/web:git-ca909d9c
+- gcr.io/linkerd-io/web:dev-e2c8559f-zaharidichev
+- gcr.io/linkerd-io/web:dev-c3e71873-zaharidichev
+- gcr.io/linkerd-io/web:dev-ca909d9c-zaharidichev
+- gcr.io/linkerd-io/web:git-16d2d4bf
+- gcr.io/linkerd-io/web:git-015d352f
+- gcr.io/linkerd-io/controller:dev-789921c9-zaharidichev
+- gcr.io/linkerd-io/controller:dev-1adf743e-zaharidichev
+- gcr.io/linkerd-io/controller:dev-c3e71873-zaharidichev
+- gcr.io/linkerd-io/controller:git-ca909d9c
+- gcr.io/linkerd-io/controller:dev-ca909d9c-zaharidichev
+- gcr.io/linkerd-io/controller:dev-e2c8559f-zaharidichev
+- gcr.io/linkerd-io/controller:git-015d352f
+- gcr.io/linkerd-io/controller:git-16d2d4bf
+- gcr.io/linkerd-io/cni-plugin:git-16d2d4bf
+- gcr.io/linkerd-io/cni-plugin:git-015d352f
+- gcr.io/linkerd-io/cni-plugin:git-1adf743e
+- gcr.io/linkerd-io/cli-bin:git-1adf743e
+- gcr.io/linkerd-io/cli-bin:git-015d352f
+- gcr.io/linkerd-io/cli-bin:git-16d2d4bf
 ### 2020-05-31 03:30:49 Update:
 
 - gcr.io/linkerd-io/proxy:git-fa8656db
