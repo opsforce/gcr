@@ -1,3 +1,12 @@
+### 2020-06-11 03:36:39 Update:
+
+- gcr.io/linkerd-io/controller:dev-7a9527bf-alex
+- gcr.io/linkerd-io/debug:dev-7a9527bf-alex
+- gcr.io/linkerd-io/proxy:dev-7a9527bf-alex
+- gcr.io/linkerd-io/cni-plugin:dev-7a9527bf-alex
+- gcr.io/linkerd-io/web:dev-7a9527bf-alex
+- gcr.io/linkerd-io/grafana:dev-7a9527bf-alex
+- gcr.io/linkerd-io/cli-bin:dev-7a9527bf-alex
 ### 2020-06-11 03:35:36 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.16.8
