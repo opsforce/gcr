@@ -1,3 +1,12 @@
+### 2020-06-13 03:40:44 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-6174b194
+- gcr.io/linkerd-io/cni-plugin:git-6174b194
+- gcr.io/linkerd-io/controller:git-6174b194
+- gcr.io/linkerd-io/debug:git-6174b194
+- gcr.io/linkerd-io/web:git-6174b194
+- gcr.io/linkerd-io/proxy:git-6174b194
+- gcr.io/linkerd-io/grafana:git-6174b194
 ### 2020-06-13 03:39:17 Update:
 
 - gcr.io/google-containers/kube-controller-manager-arm:v1.19.0-beta.2
