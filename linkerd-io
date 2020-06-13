@@ -4,6 +4,7 @@
     "base:2019-08-14.01",
     "base:2019-09-04.01",
     "base:2019-09-17.01",
+    "base:2020-06-08.01",
     "carol-demo1:v1",
     "carol-test:v1",
     "cli-bin:2241-bump-docker-base",

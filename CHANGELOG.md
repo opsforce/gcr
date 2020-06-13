@@ -1,3 +1,6 @@
+### 2020-06-14 03:37:49 Update:
+
+- gcr.io/linkerd-io/base:2020-06-08.01
 ### 2020-06-13 03:40:44 Update:
 
 - gcr.io/linkerd-io/cli-bin:git-6174b194
