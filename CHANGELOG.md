@@ -1,3 +1,53 @@
+### 2020-06-16 03:40:23 Update:
+
+- gcr.io/linkerd-io/debug:git-6965f525
+- gcr.io/linkerd-io/grafana:git-e344fe2f
+- gcr.io/linkerd-io/grafana:git-6965f525
+- gcr.io/linkerd-io/debug:git-755538b8
+- gcr.io/linkerd-io/grafana:git-755538b8
+- gcr.io/linkerd-io/grafana:git-b509742c
+- gcr.io/linkerd-io/grafana:git-99a9f1c2
+- gcr.io/linkerd-io/grafana:git-57f321b1
+- gcr.io/linkerd-io/debug:git-7d5d11a2
+- gcr.io/linkerd-io/debug:git-99a9f1c2
+- gcr.io/linkerd-io/debug:git-e344fe2f
+- gcr.io/linkerd-io/debug:git-b509742c
+- gcr.io/linkerd-io/grafana:git-7d5d11a2
+- gcr.io/linkerd-io/debug:git-57f321b1
+- gcr.io/linkerd-io/controller:git-6965f525
+- gcr.io/linkerd-io/controller:git-755538b8
+- gcr.io/linkerd-io/controller:git-57f321b1
+- gcr.io/linkerd-io/controller:git-7d5d11a2
+- gcr.io/linkerd-io/controller:git-b509742c
+- gcr.io/linkerd-io/controller:git-99a9f1c2
+- gcr.io/linkerd-io/controller:git-e344fe2f
+- gcr.io/linkerd-io/cni-plugin:git-6965f525
+- gcr.io/linkerd-io/cni-plugin:git-e344fe2f
+- gcr.io/linkerd-io/cni-plugin:git-57f321b1
+- gcr.io/linkerd-io/cni-plugin:git-755538b8
+- gcr.io/linkerd-io/cni-plugin:git-b509742c
+- gcr.io/linkerd-io/proxy:git-6965f525
+- gcr.io/linkerd-io/cni-plugin:git-7d5d11a2
+- gcr.io/linkerd-io/cni-plugin:git-99a9f1c2
+- gcr.io/linkerd-io/proxy:git-57f321b1
+- gcr.io/linkerd-io/proxy:git-99a9f1c2
+- gcr.io/linkerd-io/proxy:git-b509742c
+- gcr.io/linkerd-io/proxy:git-7d5d11a2
+- gcr.io/linkerd-io/proxy:git-755538b8
+- gcr.io/linkerd-io/proxy:git-e344fe2f
+- gcr.io/linkerd-io/web:git-6965f525
+- gcr.io/linkerd-io/web:git-57f321b1
+- gcr.io/linkerd-io/web:git-755538b8
+- gcr.io/linkerd-io/web:git-b509742c
+- gcr.io/linkerd-io/web:git-7d5d11a2
+- gcr.io/linkerd-io/web:git-99a9f1c2
+- gcr.io/linkerd-io/web:git-e344fe2f
+- gcr.io/linkerd-io/cli-bin:git-6965f525
+- gcr.io/linkerd-io/cli-bin:git-57f321b1
+- gcr.io/linkerd-io/cli-bin:git-755538b8
+- gcr.io/linkerd-io/cli-bin:git-b509742c
+- gcr.io/linkerd-io/cli-bin:git-99a9f1c2
+- gcr.io/linkerd-io/cli-bin:git-e344fe2f
 ### 2020-06-14 03:37:49 Update:
 
 - gcr.io/linkerd-io/base:2020-06-08.01
