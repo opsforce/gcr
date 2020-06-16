@@ -1,3 +1,6 @@
+### 2020-06-17 03:38:53 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.16.9
 ### 2020-06-16 03:40:23 Update:
 
 - gcr.io/linkerd-io/debug:git-6965f525
