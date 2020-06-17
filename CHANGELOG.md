@@ -1,3 +1,55 @@
+### 2020-06-18 04:04:08 Update:
+
+- gcr.io/linkerd-io/proxy:git-8adb0b38
+- gcr.io/linkerd-io/proxy:git-219fecfd
+- gcr.io/linkerd-io/proxy:git-375b2d54
+- gcr.io/linkerd-io/proxy:git-bf264aa4
+- gcr.io/linkerd-io/grafana:git-8adb0b38
+- gcr.io/linkerd-io/grafana:git-ff3e619a
+- gcr.io/linkerd-io/grafana:git-219fecfd
+- gcr.io/linkerd-io/proxy:git-bb01b94e
+- gcr.io/linkerd-io/grafana:git-bf264aa4
+- gcr.io/linkerd-io/grafana:git-bb01b94e
+- gcr.io/linkerd-io/grafana:git-fe71ef04
+- gcr.io/linkerd-io/proxy:git-fe71ef04
+- gcr.io/linkerd-io/grafana:git-375b2d54
+- gcr.io/linkerd-io/proxy:git-ff3e619a
+- gcr.io/linkerd-io/web:git-fe71ef04
+- gcr.io/linkerd-io/web:git-bb01b94e
+- gcr.io/linkerd-io/web:git-375b2d54
+- gcr.io/linkerd-io/web:git-8adb0b38
+- gcr.io/linkerd-io/controller:git-219fecfd
+- gcr.io/linkerd-io/web:git-ff3e619a
+- gcr.io/linkerd-io/web:git-bf264aa4
+- gcr.io/linkerd-io/web:git-219fecfd
+- gcr.io/linkerd-io/controller:git-bb01b94e
+- gcr.io/linkerd-io/controller:git-fe71ef04
+- gcr.io/linkerd-io/controller:git-1ef00ce5
+- gcr.io/linkerd-io/controller:git-8adb0b38
+- gcr.io/linkerd-io/controller:git-375b2d54
+- gcr.io/linkerd-io/controller:git-bf264aa4
+- gcr.io/linkerd-io/debug:git-219fecfd
+- gcr.io/linkerd-io/controller:git-ff3e619a
+- gcr.io/linkerd-io/cni-plugin:git-219fecfd
+- gcr.io/linkerd-io/cni-plugin:git-375b2d54
+- gcr.io/linkerd-io/debug:git-8adb0b38
+- gcr.io/linkerd-io/cni-plugin:git-1ef00ce5
+- gcr.io/linkerd-io/debug:git-ff3e619a
+- gcr.io/linkerd-io/debug:git-bf264aa4
+- gcr.io/linkerd-io/cni-plugin:git-bb01b94e
+- gcr.io/linkerd-io/cni-plugin:git-fe71ef04
+- gcr.io/linkerd-io/debug:git-375b2d54
+- gcr.io/linkerd-io/debug:git-fe71ef04
+- gcr.io/linkerd-io/debug:git-bb01b94e
+- gcr.io/linkerd-io/cni-plugin:git-ff3e619a
+- gcr.io/linkerd-io/cni-plugin:git-8adb0b38
+- gcr.io/linkerd-io/cni-plugin:git-bf264aa4
+- gcr.io/linkerd-io/cli-bin:git-8adb0b38
+- gcr.io/linkerd-io/cli-bin:git-219fecfd
+- gcr.io/linkerd-io/cli-bin:git-fe71ef04
+- gcr.io/linkerd-io/cli-bin:git-bb01b94e
+- gcr.io/linkerd-io/cli-bin:git-ff3e619a
+- gcr.io/linkerd-io/cli-bin:git-bf264aa4
 ### 2020-06-18 04:01:30 Update:
 
 - gcr.io/google-containers/kube-apiserver-arm:v1.16.12-rc.0
