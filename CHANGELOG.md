@@ -1,3 +1,12 @@
+### 2020-06-24 03:43:30 Update:
+
+- gcr.io/linkerd-io/controller:stable-2.8.1
+- gcr.io/linkerd-io/proxy:stable-2.8.1
+- gcr.io/linkerd-io/web:stable-2.8.1
+- gcr.io/linkerd-io/cni-plugin:stable-2.8.1
+- gcr.io/linkerd-io/debug:stable-2.8.1
+- gcr.io/linkerd-io/grafana:stable-2.8.1
+- gcr.io/linkerd-io/cli-bin:stable-2.8.1
 ### 2020-06-23 03:42:57 Update:
 
 - gcr.io/linkerd-io/grafana:git-27b2838c
