@@ -1,3 +1,35 @@
+### 2020-06-26 04:01:17 Update:
+
+- gcr.io/linkerd-io/grafana:git-c4d649e2
+- gcr.io/linkerd-io/grafana:git-4372ed56
+- gcr.io/linkerd-io/grafana:git-29bcb57d
+- gcr.io/linkerd-io/grafana:git-ee7a73cd
+- gcr.io/linkerd-io/controller:git-29bcb57d
+- gcr.io/linkerd-io/controller:git-ee7a73cd
+- gcr.io/linkerd-io/controller:git-4372ed56
+- gcr.io/linkerd-io/controller:git-c4d649e2
+- gcr.io/linkerd-io/proxy:git-29bcb57d
+- gcr.io/linkerd-io/proxy:git-c4d649e2
+- gcr.io/linkerd-io/proxy:git-4372ed56
+- gcr.io/linkerd-io/proxy:git-ee7a73cd
+- gcr.io/linkerd-io/web:git-4372ed56
+- gcr.io/linkerd-io/web:git-c4d649e2
+- gcr.io/linkerd-io/debug:git-c4d649e2
+- gcr.io/linkerd-io/debug:git-4372ed56
+- gcr.io/linkerd-io/web:git-ee7a73cd
+- gcr.io/linkerd-io/web:git-29bcb57d
+- gcr.io/linkerd-io/proxy:tap-server-1
+- gcr.io/linkerd-io/debug:git-29bcb57d
+- gcr.io/linkerd-io/debug:git-ee7a73cd
+- gcr.io/linkerd-io/cli-bin:git-4372ed56
+- gcr.io/linkerd-io/cli-bin:git-29bcb57d
+- gcr.io/linkerd-io/cni-plugin:git-29bcb57d
+- gcr.io/linkerd-io/cni-plugin:git-ee7a73cd
+- gcr.io/linkerd-io/cli-bin:git-ee7a73cd
+- gcr.io/linkerd-io/cli-bin:git-c4d649e2
+- gcr.io/linkerd-io/cni-plugin:git-4372ed56
+- gcr.io/linkerd-io/cni-plugin:git-c4d649e2
+- gcr.io/linkerd-io/go-deps:30d997a8
 ### 2020-06-26 03:57:49 Update:
 
 - gcr.io/google-containers/kube-proxy-s390x:v1.18.5-rc.1
