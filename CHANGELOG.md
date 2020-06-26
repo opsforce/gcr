@@ -1,3 +1,28 @@
+### 2020-06-27 04:01:10 Update:
+
+- gcr.io/linkerd-io/proxy:edge-20.6.4
+- gcr.io/linkerd-io/web:edge-20.6.4
+- gcr.io/linkerd-io/web:git-aea541d6
+- gcr.io/linkerd-io/proxy:git-aea541d6
+- gcr.io/linkerd-io/debug:git-ff4ee2ba
+- gcr.io/linkerd-io/debug:edge-20.6.4
+- gcr.io/linkerd-io/proxy:git-ff4ee2ba
+- gcr.io/linkerd-io/proxy:tap-server-2
+- gcr.io/linkerd-io/debug:git-aea541d6
+- gcr.io/linkerd-io/grafana:edge-20.6.4
+- gcr.io/linkerd-io/grafana:git-ff4ee2ba
+- gcr.io/linkerd-io/grafana:git-aea541d6
+- gcr.io/linkerd-io/controller:edge-20.6.4
+- gcr.io/linkerd-io/web:git-ff4ee2ba
+- gcr.io/linkerd-io/controller:git-aea541d6
+- gcr.io/linkerd-io/controller:git-ff4ee2ba
+- gcr.io/linkerd-io/cli-bin:edge-20.6.4
+- gcr.io/linkerd-io/cli-bin:git-aea541d6
+- gcr.io/linkerd-io/cni-plugin:edge-20.6.4
+- gcr.io/linkerd-io/cli-bin:git-ff4ee2ba
+- gcr.io/linkerd-io/cni-plugin:git-aea541d6
+- gcr.io/linkerd-io/cni-plugin:git-ff4ee2ba
+- gcr.io/linkerd-io/go-deps:a525d867
 ### 2020-06-27 03:57:34 Update:
 
 - gcr.io/google-containers/kube-apiserver-ppc64le:v1.16.12
