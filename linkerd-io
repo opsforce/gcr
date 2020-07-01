@@ -13433,6 +13433,7 @@
     "proxy-init:alex-3601",
     "proxy-init:alex-60",
     "proxy-init:bullseye-test",
+    "proxy-init:buster-test",
     "proxy-init:close-wait",
     "proxy-init:dev-011346f8-alex",
     "proxy-init:dev-0929e121-kl",

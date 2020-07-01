@@ -1,3 +1,6 @@
+### 2020-07-02 03:46:30 Update:
+
+- gcr.io/linkerd-io/proxy-init:buster-test
 ### 2020-07-01 03:48:01 Update:
 
 - gcr.io/linkerd-io/grafana:dev-ec3789a2-alex
