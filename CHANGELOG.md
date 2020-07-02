@@ -1,3 +1,57 @@
+### 2020-07-03 03:48:13 Update:
+
+- gcr.io/linkerd-io/cni-plugin:dev-766f70c0-alex
+- gcr.io/linkerd-io/proxy:git-361d35bb
+- gcr.io/linkerd-io/proxy:dev-766f70c0-alex
+- gcr.io/linkerd-io/proxy:errorsdst2
+- gcr.io/linkerd-io/proxy:git-7cd188dc
+- gcr.io/linkerd-io/proxy:git-c3131cde
+- gcr.io/linkerd-io/proxy:git-cf34a149
+- gcr.io/linkerd-io/proxy:git-fcc3eb54
+- gcr.io/linkerd-io/cni-plugin:git-c3131cde
+- gcr.io/linkerd-io/cni-plugin:git-361d35bb
+- gcr.io/linkerd-io/cni-plugin:git-cf34a149
+- gcr.io/linkerd-io/cni-plugin:git-92dd2928
+- gcr.io/linkerd-io/cni-plugin:git-fcc3eb54
+- gcr.io/linkerd-io/cni-plugin:git-7cd188dc
+- gcr.io/linkerd-io/proxy:git-92dd2928
+- gcr.io/linkerd-io/proxy:hatesting
+- gcr.io/linkerd-io/proxy:tap-server-3
+- gcr.io/linkerd-io/web:dev-766f70c0-alex
+- gcr.io/linkerd-io/controller:dev-766f70c0-alex
+- gcr.io/linkerd-io/web:git-cf34a149
+- gcr.io/linkerd-io/web:git-92dd2928
+- gcr.io/linkerd-io/web:git-c3131cde
+- gcr.io/linkerd-io/web:git-fcc3eb54
+- gcr.io/linkerd-io/web:git-361d35bb
+- gcr.io/linkerd-io/web:git-7cd188dc
+- gcr.io/linkerd-io/controller:git-c3131cde
+- gcr.io/linkerd-io/controller:git-7cd188dc
+- gcr.io/linkerd-io/controller:git-92dd2928
+- gcr.io/linkerd-io/controller:git-361d35bb
+- gcr.io/linkerd-io/controller:git-cf34a149
+- gcr.io/linkerd-io/controller:git-fcc3eb54
+- gcr.io/linkerd-io/grafana:dev-766f70c0-alex
+- gcr.io/linkerd-io/debug:dev-766f70c0-alex
+- gcr.io/linkerd-io/grafana:git-c3131cde
+- gcr.io/linkerd-io/grafana:git-7cd188dc
+- gcr.io/linkerd-io/grafana:git-cf34a149
+- gcr.io/linkerd-io/grafana:git-92dd2928
+- gcr.io/linkerd-io/grafana:git-fcc3eb54
+- gcr.io/linkerd-io/grafana:git-361d35bb
+- gcr.io/linkerd-io/debug:git-c3131cde
+- gcr.io/linkerd-io/debug:git-cf34a149
+- gcr.io/linkerd-io/debug:git-7cd188dc
+- gcr.io/linkerd-io/debug:git-361d35bb
+- gcr.io/linkerd-io/debug:git-92dd2928
+- gcr.io/linkerd-io/debug:git-fcc3eb54
+- gcr.io/linkerd-io/cli-bin:git-92dd2928
+- gcr.io/linkerd-io/cli-bin:dev-766f70c0-alex
+- gcr.io/linkerd-io/cli-bin:git-361d35bb
+- gcr.io/linkerd-io/cli-bin:git-7cd188dc
+- gcr.io/linkerd-io/cli-bin:git-fcc3eb54
+- gcr.io/linkerd-io/cli-bin:git-cf34a149
+- gcr.io/linkerd-io/cli-bin:git-c3131cde
 ### 2020-07-02 03:46:30 Update:
 
 - gcr.io/linkerd-io/proxy-init:buster-test
