@@ -1,3 +1,8 @@
+### 2020-07-07 03:48:35 Update:
+
+- gcr.io/linkerd-io/proxy:errorsdst8
+- gcr.io/linkerd-io/proxy:errorsdst7
+- gcr.io/linkerd-io/proxy:errorsdst6
 ### 2020-07-04 03:48:01 Update:
 
 - gcr.io/linkerd-io/controller:git-eb3c52d9
