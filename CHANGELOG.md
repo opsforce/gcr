@@ -1,3 +1,26 @@
+### 2020-07-08 03:52:04 Update:
+
+- gcr.io/linkerd-io/controller:dev-b135e12b-alex
+- gcr.io/linkerd-io/controller:git-b9f0208f
+- gcr.io/linkerd-io/debug:dev-b135e12b-alex
+- gcr.io/linkerd-io/grafana:dev-b135e12b-alex
+- gcr.io/linkerd-io/cni-plugin:git-b9f0208f
+- gcr.io/linkerd-io/grafana:git-a2bd230c
+- gcr.io/linkerd-io/controller:git-a2bd230c
+- gcr.io/linkerd-io/grafana:git-b9f0208f
+- gcr.io/linkerd-io/cni-plugin:dev-b135e12b-alex
+- gcr.io/linkerd-io/proxy:dev-b135e12b-alex
+- gcr.io/linkerd-io/cni-plugin:git-a2bd230c
+- gcr.io/linkerd-io/debug:git-b9f0208f
+- gcr.io/linkerd-io/debug:git-a2bd230c
+- gcr.io/linkerd-io/proxy:git-a2bd230c
+- gcr.io/linkerd-io/web:dev-b135e12b-alex
+- gcr.io/linkerd-io/proxy:git-b9f0208f
+- gcr.io/linkerd-io/web:git-a2bd230c
+- gcr.io/linkerd-io/web:git-b9f0208f
+- gcr.io/linkerd-io/cli-bin:dev-b135e12b-alex
+- gcr.io/linkerd-io/cli-bin:git-a2bd230c
+- gcr.io/linkerd-io/cli-bin:git-b9f0208f
 ### 2020-07-08 03:50:00 Update:
 
 - gcr.io/google-containers/etcd-amd64:3.4.9-1
