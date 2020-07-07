@@ -1,3 +1,17 @@
+### 2020-07-08 03:50:00 Update:
+
+- gcr.io/google-containers/etcd-amd64:3.4.9-1
+- gcr.io/google-containers/etcd-amd64:3.4.9
+- gcr.io/google-containers/etcd-s390x:3.4.9-1
+- gcr.io/google-containers/etcd-s390x:3.4.9
+- gcr.io/google-containers/etcd-ppc64le:3.4.9
+- gcr.io/google-containers/etcd-ppc64le:3.4.9-1
+- gcr.io/google-containers/etcd-arm:3.4.9-1
+- gcr.io/google-containers/etcd-arm:3.4.9
+- gcr.io/google-containers/etcd:3.4.9
+- gcr.io/google-containers/etcd:3.4.9-1
+- gcr.io/google-containers/etcd-arm64:3.4.9
+- gcr.io/google-containers/etcd-arm64:3.4.9-1
 ### 2020-07-07 03:48:35 Update:
 
 - gcr.io/linkerd-io/proxy:errorsdst8
