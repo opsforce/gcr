@@ -1,3 +1,53 @@
+### 2020-07-09 03:51:44 Update:
+
+- gcr.io/linkerd-io/grafana:git-9908b2b8
+- gcr.io/linkerd-io/grafana:git-9d8d89cc
+- gcr.io/linkerd-io/grafana:git-6e776f09
+- gcr.io/linkerd-io/debug:git-93bf0796
+- gcr.io/linkerd-io/debug:git-9908b2b8
+- gcr.io/linkerd-io/debug:git-9d8d89cc
+- gcr.io/linkerd-io/debug:git-d7dbe9cb
+- gcr.io/linkerd-io/grafana:git-e4273522
+- gcr.io/linkerd-io/grafana:git-1dd8ae42
+- gcr.io/linkerd-io/grafana:git-d7dbe9cb
+- gcr.io/linkerd-io/grafana:git-93bf0796
+- gcr.io/linkerd-io/debug:git-6e776f09
+- gcr.io/linkerd-io/debug:git-e4273522
+- gcr.io/linkerd-io/debug:git-1dd8ae42
+- gcr.io/linkerd-io/controller:git-1dd8ae42
+- gcr.io/linkerd-io/controller:git-e4273522
+- gcr.io/linkerd-io/controller:git-6e776f09
+- gcr.io/linkerd-io/controller:git-9908b2b8
+- gcr.io/linkerd-io/controller:git-9d8d89cc
+- gcr.io/linkerd-io/controller:git-93bf0796
+- gcr.io/linkerd-io/controller:git-d7dbe9cb
+- gcr.io/linkerd-io/proxy:git-1dd8ae42
+- gcr.io/linkerd-io/proxy:git-93bf0796
+- gcr.io/linkerd-io/proxy:git-9908b2b8
+- gcr.io/linkerd-io/proxy:git-6e776f09
+- gcr.io/linkerd-io/proxy:git-e4273522
+- gcr.io/linkerd-io/proxy:git-9d8d89cc
+- gcr.io/linkerd-io/proxy:git-d7dbe9cb
+- gcr.io/linkerd-io/cni-plugin:git-6e776f09
+- gcr.io/linkerd-io/cni-plugin:git-9908b2b8
+- gcr.io/linkerd-io/cni-plugin:git-9d8d89cc
+- gcr.io/linkerd-io/cni-plugin:git-d7dbe9cb
+- gcr.io/linkerd-io/cni-plugin:git-93bf0796
+- gcr.io/linkerd-io/cni-plugin:git-1dd8ae42
+- gcr.io/linkerd-io/cni-plugin:git-e4273522
+- gcr.io/linkerd-io/web:git-1dd8ae42
+- gcr.io/linkerd-io/web:git-e4273522
+- gcr.io/linkerd-io/web:git-6e776f09
+- gcr.io/linkerd-io/web:git-9d8d89cc
+- gcr.io/linkerd-io/web:git-9908b2b8
+- gcr.io/linkerd-io/web:git-d7dbe9cb
+- gcr.io/linkerd-io/web:git-93bf0796
+- gcr.io/linkerd-io/cli-bin:git-93bf0796
+- gcr.io/linkerd-io/cli-bin:git-1dd8ae42
+- gcr.io/linkerd-io/cli-bin:git-9908b2b8
+- gcr.io/linkerd-io/cli-bin:git-9d8d89cc
+- gcr.io/linkerd-io/cli-bin:git-d7dbe9cb
+- gcr.io/linkerd-io/cli-bin:git-e4273522
 ### 2020-07-08 03:52:04 Update:
 
 - gcr.io/linkerd-io/controller:dev-b135e12b-alex
