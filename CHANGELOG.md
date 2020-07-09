@@ -1,3 +1,6 @@
+### 2020-07-10 03:49:22 Update:
+
+- gcr.io/google-containers/addon-resizer:1.8.11
 ### 2020-07-09 03:51:44 Update:
 
 - gcr.io/linkerd-io/grafana:git-9908b2b8
