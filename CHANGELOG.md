@@ -1,3 +1,35 @@
+### 2020-07-15 03:52:51 Update:
+
+- gcr.io/google-containers/kube-apiserver-s390x:v1.19.0-rc.1
+- gcr.io/google-containers/kube-controller-manager-arm64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-controller-manager-amd64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-apiserver-arm:v1.19.0-rc.1
+- gcr.io/google-containers/kube-controller-manager-arm:v1.19.0-rc.1
+- gcr.io/google-containers/kube-controller-manager-s390x:v1.19.0-rc.1
+- gcr.io/google-containers/kube-apiserver-arm64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-apiserver-amd64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-apiserver-ppc64le:v1.19.0-rc.1
+- gcr.io/google-containers/kube-controller-manager:v1.19.0-rc.1
+- gcr.io/google-containers/kube-controller-manager-ppc64le:v1.19.0-rc.1
+- gcr.io/google-containers/kube-apiserver:v1.19.0-rc.1
+- gcr.io/google-containers/kube-proxy-arm64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-proxy-arm:v1.19.0-rc.1
+- gcr.io/google-containers/kube-scheduler-arm:v1.19.0-rc.1
+- gcr.io/google-containers/kube-scheduler-amd64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-proxy-ppc64le:v1.19.0-rc.1
+- gcr.io/google-containers/kube-scheduler-arm64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-proxy-s390x:v1.19.0-rc.1
+- gcr.io/google-containers/kube-proxy-amd64:v1.19.0-rc.1
+- gcr.io/google-containers/kube-scheduler-ppc64le:v1.19.0-rc.1
+- gcr.io/google-containers/kube-proxy:v1.19.0-rc.1
+- gcr.io/google-containers/kube-scheduler:v1.19.0-rc.1
+- gcr.io/google-containers/kube-scheduler-s390x:v1.19.0-rc.1
+- gcr.io/google-containers/conformance-amd64:v1.19.0-rc.1
+- gcr.io/google-containers/conformance:v1.19.0-rc.1
+- gcr.io/google-containers/conformance-ppc64le:v1.19.0-rc.1
+- gcr.io/google-containers/conformance-arm:v1.19.0-rc.1
+- gcr.io/google-containers/conformance-arm64:v1.19.0-rc.1
+- gcr.io/google-containers/conformance-s390x:v1.19.0-rc.1
 ### 2020-07-12 03:50:44 Update:
 
 - gcr.io/linkerd-io/cni-plugin:git-f49b40c4
