@@ -1,3 +1,33 @@
+### 2020-07-16 04:16:28 Update:
+
+- gcr.io/linkerd-io/grafana:git-8b85716e
+- gcr.io/linkerd-io/grafana:git-7e93d89e
+- gcr.io/linkerd-io/controller:dev-a913f8f2-alex
+- gcr.io/linkerd-io/debug:dev-a913f8f2-alex
+- gcr.io/linkerd-io/debug:git-7e93d89e
+- gcr.io/linkerd-io/debug:git-a913f8f2
+- gcr.io/linkerd-io/grafana:git-a913f8f2
+- gcr.io/linkerd-io/grafana:dev-a913f8f2-alex
+- gcr.io/linkerd-io/controller:git-7e93d89e
+- gcr.io/linkerd-io/controller:git-8b85716e
+- gcr.io/linkerd-io/controller:git-a913f8f2
+- gcr.io/linkerd-io/cni-plugin:git-7e93d89e
+- gcr.io/linkerd-io/debug:git-8b85716e
+- gcr.io/linkerd-io/cni-plugin:dev-a913f8f2-alex
+- gcr.io/linkerd-io/cni-plugin:git-8b85716e
+- gcr.io/linkerd-io/web:git-7e93d89e
+- gcr.io/linkerd-io/cni-plugin:git-a913f8f2
+- gcr.io/linkerd-io/web:dev-a913f8f2-alex
+- gcr.io/linkerd-io/web:git-8b85716e
+- gcr.io/linkerd-io/web:git-a913f8f2
+- gcr.io/linkerd-io/proxy:dev-a913f8f2-alex
+- gcr.io/linkerd-io/proxy:git-a913f8f2
+- gcr.io/linkerd-io/proxy:git-7e93d89e
+- gcr.io/linkerd-io/proxy:git-8b85716e
+- gcr.io/linkerd-io/cli-bin:git-7e93d89e
+- gcr.io/linkerd-io/cli-bin:dev-a913f8f2-alex
+- gcr.io/linkerd-io/cli-bin:git-8b85716e
+- gcr.io/linkerd-io/cli-bin:git-a913f8f2
 ### 2020-07-16 04:14:13 Update:
 
 - gcr.io/google-containers/kube-controller-manager-s390x:v1.17.9
