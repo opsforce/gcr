@@ -1,3 +1,18 @@
+### 2020-07-17 03:53:42 Update:
+
+- gcr.io/linkerd-io/proxy:git-b7c3619f
+- gcr.io/linkerd-io/proxy:git-7a60e703
+- gcr.io/linkerd-io/grafana:git-7a60e703
+- gcr.io/linkerd-io/grafana:git-b7c3619f
+- gcr.io/linkerd-io/controller:git-b7c3619f
+- gcr.io/linkerd-io/controller:git-7a60e703
+- gcr.io/linkerd-io/debug:git-7a60e703
+- gcr.io/linkerd-io/cni-plugin:git-7a60e703
+- gcr.io/linkerd-io/debug:git-b7c3619f
+- gcr.io/linkerd-io/cni-plugin:git-b7c3619f
+- gcr.io/linkerd-io/web:git-7a60e703
+- gcr.io/linkerd-io/web:git-b7c3619f
+- gcr.io/linkerd-io/cli-bin:git-7a60e703
 ### 2020-07-17 03:51:49 Update:
 
 - gcr.io/google-containers/toolbox:20200715-00
