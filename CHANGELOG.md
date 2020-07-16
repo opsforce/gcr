@@ -1,3 +1,6 @@
+### 2020-07-17 03:51:49 Update:
+
+- gcr.io/google-containers/toolbox:20200715-00
 ### 2020-07-16 04:16:28 Update:
 
 - gcr.io/linkerd-io/grafana:git-8b85716e
