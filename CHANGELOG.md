@@ -1,3 +1,12 @@
+### 2020-07-19 03:52:27 Update:
+
+- gcr.io/linkerd-io/controller:edge-20.7.3
+- gcr.io/linkerd-io/proxy:edge-20.7.3
+- gcr.io/linkerd-io/debug:edge-20.7.3
+- gcr.io/linkerd-io/web:edge-20.7.3
+- gcr.io/linkerd-io/grafana:edge-20.7.3
+- gcr.io/linkerd-io/cni-plugin:edge-20.7.3
+- gcr.io/linkerd-io/cli-bin:edge-20.7.3
 ### 2020-07-18 03:54:29 Update:
 
 - gcr.io/linkerd-io/grafana:dev-d457178f-zaharidichev
