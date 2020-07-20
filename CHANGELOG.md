@@ -1,3 +1,28 @@
+### 2020-07-21 03:55:35 Update:
+
+- gcr.io/linkerd-io/proxy:edge-20.7.9999
+- gcr.io/linkerd-io/proxy:edge-20.8.0
+- gcr.io/linkerd-io/proxy:git-569dea4c
+- gcr.io/linkerd-io/cni-plugin:edge-20.7.9999
+- gcr.io/linkerd-io/debug:git-569dea4c
+- gcr.io/linkerd-io/debug:edge-20.7.9999
+- gcr.io/linkerd-io/debug:edge-20.8.0
+- gcr.io/linkerd-io/debug:git-20b95bb3
+- gcr.io/linkerd-io/cni-plugin:git-569dea4c
+- gcr.io/linkerd-io/cni-plugin:edge-20.8.0
+- gcr.io/linkerd-io/web:edge-20.7.9999
+- gcr.io/linkerd-io/web:edge-20.8.0
+- gcr.io/linkerd-io/web:git-569dea4c
+- gcr.io/linkerd-io/cli-bin:edge-20.7.9999
+- gcr.io/linkerd-io/cli-bin:edge-20.8.0
+- gcr.io/linkerd-io/grafana:edge-20.7.9999
+- gcr.io/linkerd-io/grafana:git-20b95bb3
+- gcr.io/linkerd-io/grafana:edge-20.8.0
+- gcr.io/linkerd-io/grafana:git-569dea4c
+- gcr.io/linkerd-io/cli-bin:git-569dea4c
+- gcr.io/linkerd-io/controller:edge-20.7.9999
+- gcr.io/linkerd-io/controller:edge-20.8.0
+- gcr.io/linkerd-io/controller:git-569dea4c
 ### 2020-07-19 03:52:27 Update:
 
 - gcr.io/linkerd-io/controller:edge-20.7.3
