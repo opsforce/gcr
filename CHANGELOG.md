@@ -1,3 +1,6 @@
+### 2020-08-02 04:01:27 Update:
+
+- gcr.io/linkerd-io/cni-plugin:dev-a1be60ae-cpretzer
 ### 2020-08-01 04:02:12 Update:
 
 - gcr.io/linkerd-io/cni-plugin:git-8f01fd9b
