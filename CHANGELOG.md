@@ -1,3 +1,7 @@
+### 2020-08-04 04:01:20 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:70475b8daccc58f87250692e8180387cd0cb0689
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:70475b8daccc58f87250692e8180387cd0cb0689
 ### 2020-08-02 04:01:27 Update:
 
 - gcr.io/linkerd-io/cni-plugin:dev-a1be60ae-cpretzer
