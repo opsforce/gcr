@@ -1,3 +1,40 @@
+### 2020-08-06 04:03:50 Update:
+
+- gcr.io/linkerd-io/cni-plugin:git-024a35a3
+- gcr.io/linkerd-io/cni-plugin:git-61d7dedd
+- gcr.io/linkerd-io/cni-plugin:git-62d54838
+- gcr.io/linkerd-io/cni-plugin:git-f38bdf8e
+- gcr.io/linkerd-io/cni-plugin:git-381f237f
+- gcr.io/linkerd-io/grafana:git-61d7dedd
+- gcr.io/linkerd-io/grafana:git-62d54838
+- gcr.io/linkerd-io/grafana:git-024a35a3
+- gcr.io/linkerd-io/grafana:git-f38bdf8e
+- gcr.io/linkerd-io/grafana:git-381f237f
+- gcr.io/linkerd-io/debug:git-381f237f
+- gcr.io/linkerd-io/debug:git-f38bdf8e
+- gcr.io/linkerd-io/debug:git-61d7dedd
+- gcr.io/linkerd-io/debug:git-62d54838
+- gcr.io/linkerd-io/debug:git-024a35a3
+- gcr.io/linkerd-io/cli-bin:git-381f237f
+- gcr.io/linkerd-io/cli-bin:git-024a35a3
+- gcr.io/linkerd-io/controller:git-024a35a3
+- gcr.io/linkerd-io/cli-bin:git-61d7dedd
+- gcr.io/linkerd-io/controller:git-381f237f
+- gcr.io/linkerd-io/cli-bin:git-f38bdf8e
+- gcr.io/linkerd-io/cli-bin:git-62d54838
+- gcr.io/linkerd-io/controller:git-62d54838
+- gcr.io/linkerd-io/controller:git-f38bdf8e
+- gcr.io/linkerd-io/controller:git-61d7dedd
+- gcr.io/linkerd-io/web:git-61d7dedd
+- gcr.io/linkerd-io/web:git-62d54838
+- gcr.io/linkerd-io/web:git-381f237f
+- gcr.io/linkerd-io/web:git-024a35a3
+- gcr.io/linkerd-io/proxy:git-62d54838
+- gcr.io/linkerd-io/proxy:git-024a35a3
+- gcr.io/linkerd-io/proxy:git-61d7dedd
+- gcr.io/linkerd-io/web:git-f38bdf8e
+- gcr.io/linkerd-io/proxy:git-381f237f
+- gcr.io/linkerd-io/proxy:git-f38bdf8e
 ### 2020-08-04 04:03:25 Update:
 
 - gcr.io/linkerd-io/controller:git-1825dd52
