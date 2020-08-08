@@ -1,3 +1,12 @@
+### 2020-08-09 04:04:04 Update:
+
+- gcr.io/linkerd-io/controller:git-04248f75
+- gcr.io/linkerd-io/proxy:git-04248f75
+- gcr.io/linkerd-io/web:git-04248f75
+- gcr.io/linkerd-io/cni-plugin:git-04248f75
+- gcr.io/linkerd-io/grafana:git-04248f75
+- gcr.io/linkerd-io/cli-bin:git-04248f75
+- gcr.io/linkerd-io/debug:git-04248f75
 ### 2020-08-08 04:03:56 Update:
 
 - gcr.io/linkerd-io/proxy-init:v1.3.6
