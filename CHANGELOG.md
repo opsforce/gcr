@@ -1,3 +1,9 @@
+### 2020-08-12 04:04:29 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:ad4d99aa6d8cb805a36a468fd752b053f95d266f
+- gcr.io/google-containers/nvidia-gpu-device-plugin:2c1acccd8eb2f5c43c6e660317b14edbdf78ff7f
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:ad4d99aa6d8cb805a36a468fd752b053f95d266f
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:2c1acccd8eb2f5c43c6e660317b14edbdf78ff7f
 ### 2020-08-09 04:04:04 Update:
 
 - gcr.io/linkerd-io/controller:git-04248f75
