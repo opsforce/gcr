@@ -1,3 +1,40 @@
+### 2020-08-12 04:06:54 Update:
+
+- gcr.io/linkerd-io/grafana:git-58f9916d
+- gcr.io/linkerd-io/grafana:git-ae8bb0e2
+- gcr.io/linkerd-io/grafana:git-f4000afa
+- gcr.io/linkerd-io/grafana:git-d902bbcd
+- gcr.io/linkerd-io/grafana:git-4876a94e
+- gcr.io/linkerd-io/debug:git-58f9916d
+- gcr.io/linkerd-io/cni-plugin:git-58f9916d
+- gcr.io/linkerd-io/cni-plugin:git-4876a94e
+- gcr.io/linkerd-io/debug:git-4876a94e
+- gcr.io/linkerd-io/debug:git-ae8bb0e2
+- gcr.io/linkerd-io/debug:git-f4000afa
+- gcr.io/linkerd-io/debug:git-d902bbcd
+- gcr.io/linkerd-io/cni-plugin:git-ae8bb0e2
+- gcr.io/linkerd-io/cni-plugin:git-f4000afa
+- gcr.io/linkerd-io/cni-plugin:git-d902bbcd
+- gcr.io/linkerd-io/controller:git-4876a94e
+- gcr.io/linkerd-io/controller:git-d902bbcd
+- gcr.io/linkerd-io/controller:git-58f9916d
+- gcr.io/linkerd-io/controller:git-ae8bb0e2
+- gcr.io/linkerd-io/controller:git-f4000afa
+- gcr.io/linkerd-io/cli-bin:git-4876a94e
+- gcr.io/linkerd-io/cli-bin:git-58f9916d
+- gcr.io/linkerd-io/cli-bin:git-d902bbcd
+- gcr.io/linkerd-io/cli-bin:git-f4000afa
+- gcr.io/linkerd-io/proxy:git-ae8bb0e2
+- gcr.io/linkerd-io/proxy:git-f4000afa
+- gcr.io/linkerd-io/cli-bin:git-ae8bb0e2
+- gcr.io/linkerd-io/proxy:git-4876a94e
+- gcr.io/linkerd-io/proxy:git-d902bbcd
+- gcr.io/linkerd-io/proxy:git-58f9916d
+- gcr.io/linkerd-io/web:git-d902bbcd
+- gcr.io/linkerd-io/web:git-ae8bb0e2
+- gcr.io/linkerd-io/web:git-f4000afa
+- gcr.io/linkerd-io/web:git-4876a94e
+- gcr.io/linkerd-io/web:git-58f9916d
 ### 2020-08-12 04:04:29 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:ad4d99aa6d8cb805a36a468fd752b053f95d266f
