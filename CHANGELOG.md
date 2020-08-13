@@ -1,3 +1,25 @@
+### 2020-08-14 04:08:29 Update:
+
+- gcr.io/linkerd-io/controller:git-66d2c6b7
+- gcr.io/linkerd-io/cni-plugin:git-c0826dce
+- gcr.io/linkerd-io/cni-plugin:git-66d2c6b7
+- gcr.io/linkerd-io/cni-plugin:git-72aadb54
+- gcr.io/linkerd-io/grafana:git-66d2c6b7
+- gcr.io/linkerd-io/grafana:git-72aadb54
+- gcr.io/linkerd-io/controller:git-72aadb54
+- gcr.io/linkerd-io/controller:git-c0826dce
+- gcr.io/linkerd-io/debug:git-66d2c6b7
+- gcr.io/linkerd-io/debug:git-c0826dce
+- gcr.io/linkerd-io/debug:git-72aadb54
+- gcr.io/linkerd-io/cli-bin:git-66d2c6b7
+- gcr.io/linkerd-io/cli-bin:git-c0826dce
+- gcr.io/linkerd-io/proxy:git-c0826dce
+- gcr.io/linkerd-io/proxy:git-66d2c6b7
+- gcr.io/linkerd-io/proxy:git-72aadb54
+- gcr.io/linkerd-io/web:git-66d2c6b7
+- gcr.io/linkerd-io/web:git-c0826dce
+- gcr.io/linkerd-io/cli-bin:git-72aadb54
+- gcr.io/linkerd-io/web:git-72aadb54
 ### 2020-08-14 04:06:26 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.16.10
