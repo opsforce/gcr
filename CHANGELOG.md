@@ -1,3 +1,6 @@
+### 2020-08-14 04:06:26 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.16.10
 ### 2020-08-13 04:06:42 Update:
 
 - gcr.io/linkerd-io/proxy:git-c2d8c165
