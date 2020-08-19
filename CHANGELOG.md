@@ -1,3 +1,19 @@
+### 2020-08-20 04:10:46 Update:
+
+- gcr.io/linkerd-io/controller:git-c2301749
+- gcr.io/linkerd-io/proxy:git-c2301749
+- gcr.io/linkerd-io/proxy:git-803511d7
+- gcr.io/linkerd-io/cni-plugin:git-803511d7
+- gcr.io/linkerd-io/controller:git-803511d7
+- gcr.io/linkerd-io/cni-plugin:git-c2301749
+- gcr.io/linkerd-io/debug:git-803511d7
+- gcr.io/linkerd-io/grafana:git-803511d7
+- gcr.io/linkerd-io/grafana:git-c2301749
+- gcr.io/linkerd-io/web:git-803511d7
+- gcr.io/linkerd-io/web:git-c2301749
+- gcr.io/linkerd-io/debug:git-c2301749
+- gcr.io/linkerd-io/cli-bin:git-803511d7
+- gcr.io/linkerd-io/cli-bin:git-c2301749
 ### 2020-08-19 04:09:45 Update:
 
 - gcr.io/linkerd-io/controller:git-f797ab1e
