@@ -1,3 +1,12 @@
+### 2020-08-21 04:11:22 Update:
+
+- gcr.io/linkerd-io/controller:git-b45abeaa
+- gcr.io/linkerd-io/proxy:git-b45abeaa
+- gcr.io/linkerd-io/web:git-b45abeaa
+- gcr.io/linkerd-io/debug:git-b45abeaa
+- gcr.io/linkerd-io/cli-bin:git-b45abeaa
+- gcr.io/linkerd-io/grafana:git-b45abeaa
+- gcr.io/linkerd-io/cni-plugin:git-b45abeaa
 ### 2020-08-20 04:10:46 Update:
 
 - gcr.io/linkerd-io/controller:git-c2301749
