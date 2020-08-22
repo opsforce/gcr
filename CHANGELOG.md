@@ -1,3 +1,6 @@
+### 2020-08-23 04:11:53 Update:
+
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:d9d1a71ce3e594156ca7c9d0004ad311acb00d4f
 ### 2020-08-21 04:11:22 Update:
 
 - gcr.io/linkerd-io/controller:git-b45abeaa
