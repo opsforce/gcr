@@ -1,3 +1,27 @@
+### 2020-08-26 04:15:17 Update:
+
+- gcr.io/linkerd-io/proxy:git-7ed904f3
+- gcr.io/linkerd-io/cni-plugin:git-c9c5d974
+- gcr.io/linkerd-io/grafana:git-8a2cb126
+- gcr.io/linkerd-io/grafana:git-7ed904f3
+- gcr.io/linkerd-io/grafana:git-c9c5d974
+- gcr.io/linkerd-io/cni-plugin:git-8a2cb126
+- gcr.io/linkerd-io/cni-plugin:git-7ed904f3
+- gcr.io/linkerd-io/proxy:git-c9c5d974
+- gcr.io/linkerd-io/proxy:git-8a2cb126
+- gcr.io/linkerd-io/controller:git-7ed904f3
+- gcr.io/linkerd-io/debug:git-8a2cb126
+- gcr.io/linkerd-io/debug:git-7ed904f3
+- gcr.io/linkerd-io/debug:git-c9c5d974
+- gcr.io/linkerd-io/proxy:ver-dns-srv.3dd19178
+- gcr.io/linkerd-io/controller:git-c9c5d974
+- gcr.io/linkerd-io/controller:git-8a2cb126
+- gcr.io/linkerd-io/web:git-7ed904f3
+- gcr.io/linkerd-io/web:git-8a2cb126
+- gcr.io/linkerd-io/web:git-c9c5d974
+- gcr.io/linkerd-io/cli-bin:git-8a2cb126
+- gcr.io/linkerd-io/cli-bin:git-c9c5d974
+- gcr.io/linkerd-io/cli-bin:git-7ed904f3
 ### 2020-08-23 04:11:53 Update:
 
 - gcr.io/google-containers/ubuntu-nvidia-driver-installer:d9d1a71ce3e594156ca7c9d0004ad311acb00d4f
