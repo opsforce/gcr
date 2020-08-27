@@ -1,3 +1,7 @@
+### 2020-08-28 04:14:26 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:37fa8d6f6bd8b12c149803f915a4b133e0f80c58
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:37fa8d6f6bd8b12c149803f915a4b133e0f80c58
 ### 2020-08-27 04:15:10 Update:
 
 - gcr.io/linkerd-io/grafana:git-9627c8d9
