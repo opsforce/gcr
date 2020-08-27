@@ -1,3 +1,18 @@
+### 2020-08-28 04:16:16 Update:
+
+- gcr.io/linkerd-io/proxy:git-2122b439
+- gcr.io/linkerd-io/cni-plugin:git-8ed9365e
+- gcr.io/linkerd-io/cni-plugin:git-2122b439
+- gcr.io/linkerd-io/controller:git-8ed9365e
+- gcr.io/linkerd-io/controller:git-2122b439
+- gcr.io/linkerd-io/debug:git-8ed9365e
+- gcr.io/linkerd-io/proxy:git-8ed9365e
+- gcr.io/linkerd-io/debug:git-2122b439
+- gcr.io/linkerd-io/grafana:git-8ed9365e
+- gcr.io/linkerd-io/grafana:git-2122b439
+- gcr.io/linkerd-io/web:git-2122b439
+- gcr.io/linkerd-io/web:git-8ed9365e
+- gcr.io/linkerd-io/cli-bin:git-2122b439
 ### 2020-08-28 04:14:26 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:37fa8d6f6bd8b12c149803f915a4b133e0f80c58
