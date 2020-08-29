@@ -14122,6 +14122,8 @@
     "grafana:web-tap-apiserver-0",
     "hello-voltron:v2",
     "hello-voltron:v3",
+    "inlets-operator:0.9.0",
+    "inlets:2.7.4",
     "integration:latest",
     "l5d-builder:latest",
     "leaker:latest",

@@ -1,3 +1,7 @@
+### 2020-08-30 04:16:01 Update:
+
+- gcr.io/linkerd-io/inlets:2.7.4
+- gcr.io/linkerd-io/inlets-operator:0.9.0
 ### 2020-08-29 04:16:20 Update:
 
 - gcr.io/linkerd-io/controller:git-9d3cf6ee
