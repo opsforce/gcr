@@ -1,3 +1,7 @@
+### 2020-09-06 04:19:02 Update:
+
+- gcr.io/linkerd-io/grafana:git-8fc47f42
+- gcr.io/linkerd-io/debug:git-8fc47f42
 ### 2020-09-04 04:19:58 Update:
 
 - gcr.io/linkerd-io/grafana:git-e692b463
