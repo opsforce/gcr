@@ -1,3 +1,6 @@
+### 2020-09-18 04:23:48 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.16.11
 ### 2020-09-11 04:22:22 Update:
 
 - gcr.io/linkerd-io/controller:git-084bb678
