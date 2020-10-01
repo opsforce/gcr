@@ -1,3 +1,12 @@
+### 2020-10-02 04:32:44 Update:
+
+- gcr.io/linkerd-io/proxy:git-77416434
+- gcr.io/linkerd-io/controller:git-77416434
+- gcr.io/linkerd-io/web:git-77416434
+- gcr.io/linkerd-io/cni-plugin:git-77416434
+- gcr.io/linkerd-io/debug:git-77416434
+- gcr.io/linkerd-io/grafana:git-77416434
+- gcr.io/linkerd-io/cli-bin:git-77416434
 ### 2020-09-19 04:23:54 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.16.12
