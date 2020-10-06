@@ -1,3 +1,12 @@
+### 2020-10-07 04:37:44 Update:
+
+- gcr.io/linkerd-io/controller:git-ee1d2a91
+- gcr.io/linkerd-io/proxy:git-ee1d2a91
+- gcr.io/linkerd-io/cli-bin:git-ee1d2a91
+- gcr.io/linkerd-io/grafana:git-ee1d2a91
+- gcr.io/linkerd-io/debug:git-ee1d2a91
+- gcr.io/linkerd-io/web:git-ee1d2a91
+- gcr.io/linkerd-io/cni-plugin:git-ee1d2a91
 ### 2020-10-05 04:39:29 Update:
 
 - gcr.io/distroless/python3:debug-amd64
