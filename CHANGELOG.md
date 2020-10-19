@@ -1,3 +1,7 @@
+### 2020-10-20 04:38:54 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:6ecae720ca49cf2db5fa0fa346426629c9740130
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:6ecae720ca49cf2db5fa0fa346426629c9740130
 ### 2020-10-18 04:37:33 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:1e33d0925cb2de1deb2d1c0f5d93aae977d86f90
