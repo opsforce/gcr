@@ -1,3 +1,6 @@
+### 2020-10-21 04:40:04 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.17.0-rc.1
 ### 2020-10-20 04:38:54 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:6ecae720ca49cf2db5fa0fa346426629c9740130
