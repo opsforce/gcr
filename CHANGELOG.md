@@ -1,3 +1,6 @@
+### 2020-10-27 05:46:31 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.17.0
 ### 2020-10-21 04:40:04 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.17.0-rc.1
