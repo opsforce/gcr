@@ -1,3 +1,40 @@
+### 2020-10-30 05:55:20 Update:
+
+- gcr.io/istio-release/istioctl:1.7.1
+- gcr.io/istio-release/istioctl:1.7.3
+- gcr.io/istio-release/istioctl:1.7.0
+- gcr.io/istio-release/operator:1.7.0
+- gcr.io/istio-release/operator:1.7.1
+- gcr.io/istio-release/istioctl:1.7.2
+- gcr.io/istio-release/istioctl:1.7.4
+- gcr.io/istio-release/operator:1.7.3
+- gcr.io/istio-release/operator:1.7.4
+- gcr.io/istio-release/operator:1.7.2
+- gcr.io/istio-release/mixer:1.7.0
+- gcr.io/istio-release/mixer:1.7.1
+- gcr.io/istio-release/mixer:1.7.2
+- gcr.io/istio-release/mixer:1.7.3
+- gcr.io/istio-release/mixer:1.7.4
+- gcr.io/istio-release/install-cni:1.7.0
+- gcr.io/istio-release/install-cni:1.7.1
+- gcr.io/istio-release/install-cni:1.7.2
+- gcr.io/istio-release/install-cni:1.7.3
+- gcr.io/istio-release/app:1.7.0
+- gcr.io/istio-release/app:1.7.1
+- gcr.io/istio-release/install-cni:1.7.4
+- gcr.io/istio-release/app:1.7.2
+- gcr.io/istio-release/app:1.7.3
+- gcr.io/istio-release/app:1.7.4
+- gcr.io/istio-release/pilot:1.7.0
+- gcr.io/istio-release/pilot:1.7.1
+- gcr.io/istio-release/pilot:1.7.2
+- gcr.io/istio-release/pilot:1.7.3
+- gcr.io/istio-release/pilot:1.7.4
+- gcr.io/istio-release/proxyv2:1.7.0
+- gcr.io/istio-release/proxyv2:1.7.1
+- gcr.io/istio-release/proxyv2:1.7.2
+- gcr.io/istio-release/proxyv2:1.7.3
+- gcr.io/istio-release/proxyv2:1.7.4
 ### 2020-10-27 05:46:31 Update:
 
 - gcr.io/kubernetes-helm/tiller:v2.17.0
