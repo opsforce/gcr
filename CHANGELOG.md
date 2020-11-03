@@ -1,3 +1,9 @@
+### 2020-11-04 05:37:51 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:2651e63a6f7fc3682923219fa94321674c046559
+- gcr.io/google-containers/nvidia-gpu-device-plugin:1739bdc5ed3bbd26a5323632d6774aef129c9b92
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:2651e63a6f7fc3682923219fa94321674c046559
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:1739bdc5ed3bbd26a5323632d6774aef129c9b92
 ### 2020-11-03 06:07:20 Update:
 
 - gcr.io/istio-release/pilot:1.6.0
