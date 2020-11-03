@@ -1,3 +1,16 @@
+### 2020-11-04 05:38:48 Update:
+
+- gcr.io/istio-release/distroless:1.8-dev.2
+- gcr.io/istio-release/distroless:1.8-dev.0
+- gcr.io/istio-release/distroless:1.7-dev.1
+- gcr.io/istio-release/distroless:1.8-dev.1
+- gcr.io/istio-release/distroless:1.7-dev.8
+- gcr.io/istio-release/distroless:1.7-dev.3
+- gcr.io/istio-release/distroless:1.7-dev.6
+- gcr.io/istio-release/distroless:1.9-dev.0
+- gcr.io/istio-release/distroless:1.7-dev.7
+- gcr.io/istio-release/distroless:1.7-dev.4
+- gcr.io/istio-release/distroless:1.7-dev.5
 ### 2020-11-04 05:37:51 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:2651e63a6f7fc3682923219fa94321674c046559
