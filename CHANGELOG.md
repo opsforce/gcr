@@ -1,3 +1,9 @@
+### 2020-11-05 05:33:32 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:5062740f3792d6974c7225edf47be0c04512462f
+- gcr.io/google-containers/nvidia-gpu-device-plugin:7e584fa00b6a767f447cf5b556a366f859b8156c
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:5062740f3792d6974c7225edf47be0c04512462f
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:7e584fa00b6a767f447cf5b556a366f859b8156c
 ### 2020-11-04 05:38:48 Update:
 
 - gcr.io/istio-release/distroless:1.8-dev.2
