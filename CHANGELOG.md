@@ -1,3 +1,6 @@
+### 2020-11-06 05:30:56 Update:
+
+- gcr.io/google-containers/toolbox:20201104-00
 ### 2020-11-05 05:33:32 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:5062740f3792d6974c7225edf47be0c04512462f
