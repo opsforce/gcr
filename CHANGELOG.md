@@ -1,3 +1,14 @@
+### 2020-11-07 05:18:03 Update:
+
+- gcr.io/istio-release/distroless:1.9-dev.1
+- gcr.io/istio-release/app_sidecar_base_debian_9:1.9-dev.1
+- gcr.io/istio-release/app_sidecar_base_ubuntu_bionic:1.9-dev.1
+- gcr.io/istio-release/base:1.9-dev.1
+- gcr.io/istio-release/app_sidecar_base_centos_7:1.9-dev.1
+- gcr.io/istio-release/app_sidecar_base_ubuntu_focal:1.9-dev.1
+- gcr.io/istio-release/app_sidecar_base_ubuntu_xenial:1.9-dev.1
+- gcr.io/istio-release/app_sidecar_base_debian_10:1.9-dev.1
+- gcr.io/istio-release/app_sidecar_base_centos_8:1.9-dev.1
 ### 2020-11-06 05:30:56 Update:
 
 - gcr.io/google-containers/toolbox:20201104-00
