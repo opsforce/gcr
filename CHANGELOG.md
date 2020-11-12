@@ -1,3 +1,6 @@
+### 2020-11-13 05:58:20 Update:
+
+- gcr.io/linkerd-io/proxy-init:v1.3.7
 ### 2020-11-07 05:18:03 Update:
 
 - gcr.io/istio-release/distroless:1.9-dev.1
