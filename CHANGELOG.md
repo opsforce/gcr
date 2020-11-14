@@ -1,3 +1,6 @@
+### 2020-11-15 04:53:22 Update:
+
+- gcr.io/linkerd-io/proxy:kl-profile-endpoint
 ### 2020-11-14 05:39:53 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:b1fb8bb4ab1aa6e811858eb85a0d0d955eb99c3a
