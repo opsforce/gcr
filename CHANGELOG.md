@@ -1,3 +1,11 @@
+### 2020-11-18 05:51:23 Update:
+
+- gcr.io/istio-release/iptables:latest-arm64
+- gcr.io/istio-release/iptables:latest
+- gcr.io/istio-release/iptables:latest-amd64
+- gcr.io/istio-release/iptables:d71c854a55d9661ea1c45ee4391335a67030a617
+- gcr.io/istio-release/iptables:latest-s390x
+- gcr.io/istio-release/iptables:latest-ppc64le
 ### 2020-11-15 04:53:22 Update:
 
 - gcr.io/linkerd-io/proxy:kl-profile-endpoint
