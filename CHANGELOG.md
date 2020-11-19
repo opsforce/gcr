@@ -1,3 +1,41 @@
+### 2020-11-20 06:45:36 Update:
+
+- gcr.io/istio-release/app_sidecar_ubuntu_focal:1.8.0
+- gcr.io/istio-release/app_sidecar_ubuntu_focal:1.8.0-rc.1
+- gcr.io/istio-release/app_sidecar_centos_7:1.8.0
+- gcr.io/istio-release/app_sidecar_centos_7:1.8.0-rc.1
+- gcr.io/istio-release/app_sidecar_debian_10:1.8.0-rc.1
+- gcr.io/istio-release/app_sidecar_centos_8:1.8.0-rc.1
+- gcr.io/istio-release/app_sidecar_centos_8:1.8.0
+- gcr.io/istio-release/app_sidecar_ubuntu_bionic:1.8.0
+- gcr.io/istio-release/app_sidecar_debian_10:1.8.0
+- gcr.io/istio-release/app_sidecar_ubuntu_bionic:1.8.0-rc.1
+- gcr.io/istio-release/app_sidecar_ubuntu_xenial:1.8.0
+- gcr.io/istio-release/app_sidecar_ubuntu_xenial:1.8.0-rc.1
+- gcr.io/istio-release/app_sidecar_debian_9:1.8.0-rc.1
+- gcr.io/istio-release/app_sidecar_debian_9:1.8.0
+- gcr.io/istio-release/istioctl:1.8.0
+- gcr.io/istio-release/istioctl:1.8.0-distroless
+- gcr.io/istio-release/istioctl:1.8.0-rc.1
+- gcr.io/istio-release/istioctl:1.8.0-rc.1-distroless
+- gcr.io/istio-release/operator:1.8.0
+- gcr.io/istio-release/operator:1.8.0-distroless
+- gcr.io/istio-release/operator:1.8.0-rc.1
+- gcr.io/istio-release/operator:1.8.0-rc.1-distroless
+- gcr.io/istio-release/install-cni:1.8.0
+- gcr.io/istio-release/install-cni:1.8.0-distroless
+- gcr.io/istio-release/install-cni:1.8.0-rc.1-distroless
+- gcr.io/istio-release/install-cni:1.8.0-rc.1
+- gcr.io/istio-release/app:1.8.0-rc.1
+- gcr.io/istio-release/app:1.8.0
+- gcr.io/istio-release/pilot:1.8.0
+- gcr.io/istio-release/pilot:1.8.0-distroless
+- gcr.io/istio-release/pilot:1.8.0-rc.1
+- gcr.io/istio-release/pilot:1.8.0-rc.1-distroless
+- gcr.io/istio-release/proxyv2:1.8.0
+- gcr.io/istio-release/proxyv2:1.8.0-distroless
+- gcr.io/istio-release/proxyv2:1.8.0-rc.1
+- gcr.io/istio-release/proxyv2:1.8.0-rc.1-distroless
 ### 2020-11-18 05:51:23 Update:
 
 - gcr.io/istio-release/iptables:latest-arm64
