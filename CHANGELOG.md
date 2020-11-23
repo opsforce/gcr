@@ -1,3 +1,8 @@
+### 2020-11-24 06:20:24 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:e04e429f45bb4a2d98e3da54ceedc0b57e97d272
+- gcr.io/google-containers/ingress-gce-404-server-with-metrics-amd64:v1.10.11
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:e04e429f45bb4a2d98e3da54ceedc0b57e97d272
 ### 2020-11-20 06:45:36 Update:
 
 - gcr.io/istio-release/app_sidecar_ubuntu_focal:1.8.0
