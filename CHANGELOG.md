@@ -1,3 +1,19 @@
+### 2020-12-05 06:56:18 Update:
+
+- gcr.io/istio-release/mixer:1.7.5-distroless
+- gcr.io/istio-release/mixer:1.7.5
+- gcr.io/istio-release/operator:1.7.5-distroless
+- gcr.io/istio-release/app:1.7.5-distroless
+- gcr.io/istio-release/app:1.7.5
+- gcr.io/istio-release/operator:1.7.5
+- gcr.io/istio-release/istioctl:1.7.5
+- gcr.io/istio-release/istioctl:1.7.5-distroless
+- gcr.io/istio-release/install-cni:1.7.5-distroless
+- gcr.io/istio-release/install-cni:1.7.5
+- gcr.io/istio-release/pilot:1.7.5
+- gcr.io/istio-release/pilot:1.7.5-distroless
+- gcr.io/istio-release/proxyv2:1.7.5
+- gcr.io/istio-release/proxyv2:1.7.5-distroless
 ### 2020-12-03 07:00:28 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:34fe08c2b4dc916fa4ae049f8f18a5c179cfaae3
