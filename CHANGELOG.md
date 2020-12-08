@@ -1,3 +1,7 @@
+### 2020-12-09 06:18:17 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:64e3d56f5410a4dba7bb040186f02d9a00495b6b
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:64e3d56f5410a4dba7bb040186f02d9a00495b6b
 ### 2020-12-05 06:56:18 Update:
 
 - gcr.io/istio-release/mixer:1.7.5-distroless
