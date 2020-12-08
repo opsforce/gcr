@@ -1,3 +1,23 @@
+### 2020-12-09 06:22:48 Update:
+
+- gcr.io/istio-release/operator:1.8.1
+- gcr.io/istio-release/operator:1.8.1-distroless
+- gcr.io/istio-release/istioctl:1.8.1
+- gcr.io/istio-release/istioctl:1.8.1-distroless
+- gcr.io/istio-release/install-cni:1.8.1-distroless
+- gcr.io/istio-release/install-cni:1.8.1
+- gcr.io/istio-release/app_sidecar_centos_7:1.8.1
+- gcr.io/istio-release/app_sidecar_ubuntu_xenial:1.8.1
+- gcr.io/istio-release/app_sidecar_ubuntu_focal:1.8.1
+- gcr.io/istio-release/app_sidecar_centos_8:1.8.1
+- gcr.io/istio-release/pilot:1.8.1-distroless
+- gcr.io/istio-release/pilot:1.8.1
+- gcr.io/istio-release/app_sidecar_debian_9:1.8.1
+- gcr.io/istio-release/app:1.8.1
+- gcr.io/istio-release/app_sidecar_debian_10:1.8.1
+- gcr.io/istio-release/app_sidecar_ubuntu_bionic:1.8.1
+- gcr.io/istio-release/proxyv2:1.8.1
+- gcr.io/istio-release/proxyv2:1.8.1-distroless
 ### 2020-12-09 06:18:17 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:64e3d56f5410a4dba7bb040186f02d9a00495b6b
