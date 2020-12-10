@@ -1,3 +1,35 @@
+### 2020-12-11 07:03:30 Update:
+
+- gcr.io/istio-release/operator:1.7.6
+- gcr.io/istio-release/istioctl:1.7.6-distroless
+- gcr.io/istio-release/istioctl:1.7.6
+- gcr.io/istio-release/app_sidecar_debian_10:1.7.6
+- gcr.io/istio-release/app_sidecar_debian_10:1.7.6-distroless
+- gcr.io/istio-release/operator:1.7.6-distroless
+- gcr.io/istio-release/app_sidecar_debian_9:1.7.6-distroless
+- gcr.io/istio-release/app_sidecar_debian_9:1.7.6
+- gcr.io/istio-release/app_sidecar_centos_8:1.7.6
+- gcr.io/istio-release/app_sidecar_centos_8:1.7.6-distroless
+- gcr.io/istio-release/app_sidecar_ubuntu_focal:1.7.6
+- gcr.io/istio-release/app_sidecar_ubuntu_focal:1.7.6-distroless
+- gcr.io/istio-release/app_sidecar_ubuntu_bionic:1.7.6-distroless
+- gcr.io/istio-release/app_sidecar_ubuntu_bionic:1.7.6
+- gcr.io/istio-release/mixer_codegen:1.7.6-distroless
+- gcr.io/istio-release/app_sidecar_ubuntu_xenial:1.7.6-distroless
+- gcr.io/istio-release/app_sidecar_ubuntu_xenial:1.7.6
+- gcr.io/istio-release/mixer_codegen:1.7.6
+- gcr.io/istio-release/mixer:1.7.6-distroless
+- gcr.io/istio-release/mixer:1.7.6
+- gcr.io/istio-release/pilot:1.7.6
+- gcr.io/istio-release/pilot:1.7.6-distroless
+- gcr.io/istio-release/app:1.7.6-distroless
+- gcr.io/istio-release/app:1.7.6
+- gcr.io/istio-release/install-cni:1.7.6-distroless
+- gcr.io/istio-release/install-cni:1.7.6
+- gcr.io/istio-release/test_policybackend:1.7.6
+- gcr.io/istio-release/test_policybackend:1.7.6-distroless
+- gcr.io/istio-release/proxyv2:1.7.6
+- gcr.io/istio-release/proxyv2:1.7.6-distroless
 ### 2020-12-09 06:22:48 Update:
 
 - gcr.io/istio-release/operator:1.8.1
