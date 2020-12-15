@@ -1,3 +1,7 @@
+### 2020-12-16 06:06:35 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:13a0dea71c2e29ec6f0607d43773d0b0d0e8d010
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:13a0dea71c2e29ec6f0607d43773d0b0d0e8d010
 ### 2020-12-11 07:03:30 Update:
 
 - gcr.io/istio-release/operator:1.7.6
