@@ -1,3 +1,14 @@
+### 2021-01-15 05:59:27 Update:
+
+- gcr.io/istio-release/app_sidecar_base_ubuntu_focal:1.10-dev.1
+- gcr.io/istio-release/distroless:1.10-dev.1
+- gcr.io/istio-release/app_sidecar_base_debian_9:1.10-dev.1
+- gcr.io/istio-release/app_sidecar_base_ubuntu_bionic:1.10-dev.1
+- gcr.io/istio-release/app_sidecar_base_ubuntu_xenial:1.10-dev.1
+- gcr.io/istio-release/app_sidecar_base_centos_8:1.10-dev.1
+- gcr.io/istio-release/app_sidecar_base_debian_10:1.10-dev.1
+- gcr.io/istio-release/base:1.10-dev.1
+- gcr.io/istio-release/app_sidecar_base_centos_7:1.10-dev.1
 ### 2021-01-15 05:57:44 Update:
 
 - gcr.io/google-containers/nvidia-gpu-device-plugin:fcd1323b9f0f846f3da12bf21696dd85e6027304
