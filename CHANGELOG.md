@@ -1,3 +1,11 @@
+### 2021-01-15 05:57:44 Update:
+
+- gcr.io/google-containers/nvidia-gpu-device-plugin:fcd1323b9f0f846f3da12bf21696dd85e6027304
+- gcr.io/google-containers/nvidia-gpu-device-plugin:c358b0cf1affce0f63376b3de6b5742c0fe62a9b
+- gcr.io/google-containers/nvidia-gpu-device-plugin:993873c00288a4434516ce465e8fc126d06216fb
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:993873c00288a4434516ce465e8fc126d06216fb
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:fcd1323b9f0f846f3da12bf21696dd85e6027304
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:c358b0cf1affce0f63376b3de6b5742c0fe62a9b
 ### 2021-01-14 05:59:44 Update:
 
 - gcr.io/istio-release/app_sidecar_base_ubuntu_focal:1.9-dev.2
