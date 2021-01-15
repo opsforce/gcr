@@ -1,3 +1,23 @@
+### 2021-01-16 05:56:23 Update:
+
+- gcr.io/istio-release/app_sidecar_debian_9:1.8.2
+- gcr.io/istio-release/istioctl:1.8.2-distroless
+- gcr.io/istio-release/istioctl:1.8.2
+- gcr.io/istio-release/operator:1.8.2
+- gcr.io/istio-release/app_sidecar_ubuntu_bionic:1.8.2
+- gcr.io/istio-release/app_sidecar_ubuntu_xenial:1.8.2
+- gcr.io/istio-release/app_sidecar_centos_7:1.8.2
+- gcr.io/istio-release/operator:1.8.2-distroless
+- gcr.io/istio-release/app_sidecar_centos_8:1.8.2
+- gcr.io/istio-release/app_sidecar_debian_10:1.8.2
+- gcr.io/istio-release/app_sidecar_ubuntu_focal:1.8.2
+- gcr.io/istio-release/install-cni:1.8.2
+- gcr.io/istio-release/install-cni:1.8.2-distroless
+- gcr.io/istio-release/proxyv2:1.8.2
+- gcr.io/istio-release/proxyv2:1.8.2-distroless
+- gcr.io/istio-release/pilot:1.8.2
+- gcr.io/istio-release/pilot:1.8.2-distroless
+- gcr.io/istio-release/app:1.8.2
 ### 2021-01-15 05:59:27 Update:
 
 - gcr.io/istio-release/app_sidecar_base_ubuntu_focal:1.10-dev.1
